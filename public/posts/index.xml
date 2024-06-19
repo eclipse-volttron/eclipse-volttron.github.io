@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MARKET on VOLTTRON</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in MARKET on VOLTTRON</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buildings Operations and Efficiency</title>
-      <link>http://localhost:1313/posts/buildingsoperations/</link>
+      <link>//localhost:1313/posts/buildingsoperations/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/buildingsoperations/</guid>
+      <guid>//localhost:1313/posts/buildingsoperations/</guid>
       <description>VOLTTRON™ capabilities improve control and operation of building devices and systems, leading to enhanced performance and energy efficiency.</description>
     </item>
     <item>
       <title>Connected Homes</title>
-      <link>http://localhost:1313/posts/connectedhomes/</link>
+      <link>//localhost:1313/posts/connectedhomes/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/connectedhomes/</guid>
+      <guid>//localhost:1313/posts/connectedhomes/</guid>
       <description>Whether it involves control of thermostats, lighting, hot water or other functions, VOLTTRON™ is a secure solution that can help turn today’s house into tomorrow’s connected home, enabling features that result in improved energy efficiency, cost savings and convenience.</description>
     </item>
     <item>
       <title>Data Management</title>
-      <link>http://localhost:1313/posts/datamanagement/</link>
+      <link>//localhost:1313/posts/datamanagement/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/datamanagement/</guid>
+      <guid>//localhost:1313/posts/datamanagement/</guid>
       <description>VOLTTRON™, with Modbus and BACnet implementations, enables gathering and dispositioning of data.&#xA;VOLTTRON™ provides a secure way to examine data, reveal useful information and deliver solutions. This technology can readily retrieve data from devices and coordinate analysis, offering analytics firms and other potential users unique opportunities to add value.&#xA;With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.&#xA;Rivers of Data&#xA;Devices of all kinds are producing vast amounts of data every minute of the day, but often the data is not effectively mined for information that could lead to improved knowledge, better processes and, perhaps, more profitable outcomes.</description>
     </item>
     <item>
       <title>Distributed Energy Resources</title>
-      <link>http://localhost:1313/posts/distenergyresources/</link>
+      <link>//localhost:1313/posts/distenergyresources/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/distenergyresources/</guid>
+      <guid>//localhost:1313/posts/distenergyresources/</guid>
       <description>VOLTTRON™ generates powerful outcomes for distributed energy resources (DERs), buildings and the grid! The technology enables effective, secure coordination of DERs, including wind and solar generation and battery storage, with building energy loads and the power system. This offers significant new flexibility to the grid and supports large-scale DER integration, benefitting everyone from building owners and managers to power system operators, utilities, energy services providers and consumers.&#xA;With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.</description>
     </item>
     <item>
       <title>Marketplace Solutions</title>
-      <link>http://localhost:1313/posts/marketsolns/</link>
+      <link>//localhost:1313/posts/marketsolns/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/marketsolns/</guid>
+      <guid>//localhost:1313/posts/marketsolns/</guid>
       <description>Looking for solutions? VOLTTRON™’s virtually limitless potential offers unique opportunities to identify and create a wide range of marketable products and services. Companies or organizations that develop solutions for the marketplace involving data and devices will find much to like about this technology’s design, security and cost-effectiveness.&#xA;With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.&#xA;Use Your Imagination&#xA;VOLTTRON™ is versatile. Designed initially for the power grid, the technology’s potential continues to grow and evolve.</description>
     </item>
   </channel>

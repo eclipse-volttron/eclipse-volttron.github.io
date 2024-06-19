@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ejemplo on VOLTTRON</title>
-    <link>http://localhost:1313/es/tags/ejemplo/</link>
+    <link>//localhost:1313/es/tags/ejemplo/</link>
     <description>Recent content in Ejemplo on VOLTTRON</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/es/tags/ejemplo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/es/tags/ejemplo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Sexta Cosa</title>
-      <link>http://localhost:1313/es/posts/sixth/</link>
+      <link>//localhost:1313/es/posts/sixth/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/sixth/</guid>
+      <guid>//localhost:1313/es/posts/sixth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>La Quinta Cosa</title>
-      <link>http://localhost:1313/es/posts/fifth/</link>
+      <link>//localhost:1313/es/posts/fifth/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/fifth/</guid>
+      <guid>//localhost:1313/es/posts/fifth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>La Cuarta Cosa</title>
-      <link>http://localhost:1313/es/posts/fourth/</link>
+      <link>//localhost:1313/es/posts/fourth/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/fourth/</guid>
+      <guid>//localhost:1313/es/posts/fourth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>La Tercera Cosa</title>
-      <link>http://localhost:1313/es/posts/third/</link>
+      <link>//localhost:1313/es/posts/third/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/third/</guid>
+      <guid>//localhost:1313/es/posts/third/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>La Segunda Cosa</title>
-      <link>http://localhost:1313/es/posts/second/</link>
+      <link>//localhost:1313/es/posts/second/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/second/</guid>
+      <guid>//localhost:1313/es/posts/second/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>La Primera Cosa</title>
-      <link>http://localhost:1313/es/posts/first/</link>
+      <link>//localhost:1313/es/posts/first/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/first/</guid>
+      <guid>//localhost:1313/es/posts/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
   </channel>
