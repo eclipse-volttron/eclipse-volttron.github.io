@@ -2,104 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:34401/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/"
+                href="http://localhost:34401/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:1313/es/"
+                href="http://localhost:34401/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="http://localhost:34401/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:34401/posts/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/posts/"
+                href="http://localhost:34401/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:1313/es/posts/"
+                href="http://localhost:34401/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/"
+                href="http://localhost:34401/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/about/about/</loc>
+    <loc>http://localhost:34401/about/about/</loc>
   </url><url>
-    <loc>//localhost:1313/developers/</loc>
+    <loc>http://localhost:34401/developers/</loc>
   </url><url>
-    <loc>//localhost:1313/archives/publications/</loc>
+    <loc>http://localhost:34401/archives/officehours/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/addsvalue/</loc>
+    <loc>http://localhost:34401/archives/publications/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/potential/</loc>
+    <loc>http://localhost:34401/highlights/addsvalue/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/costeffective/</loc>
+    <loc>http://localhost:34401/highlights/potential/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/developerfriendly/</loc>
+    <loc>http://localhost:34401/highlights/costeffective/</loc>
   </url><url>
-    <loc>//localhost:1313/download/</loc>
+    <loc>http://localhost:34401/highlights/developerfriendly/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/interoperable/</loc>
+    <loc>http://localhost:34401/download/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/opensource/</loc>
+    <loc>http://localhost:34401/highlights/interoperable/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/scalable/</loc>
+    <loc>http://localhost:34401/highlights/opensource/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/secure/</loc>
+    <loc>http://localhost:34401/highlights/scalable/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/buildingsoperations/</loc>
+    <loc>http://localhost:34401/highlights/secure/</loc>
+  </url><url>
+    <loc>http://localhost:34401/posts/buildingsoperations/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/connectedhomes/</loc>
+    <loc>http://localhost:34401/posts/connectedhomes/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/datamanagement/</loc>
+    <loc>http://localhost:34401/posts/datamanagement/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/distenergyresources/</loc>
+    <loc>http://localhost:34401/posts/distenergyresources/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/marketsolns/</loc>
+    <loc>http://localhost:34401/posts/marketsolns/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/aboutsidebar/</loc>
+    <loc>http://localhost:34401/about/aboutsidebar/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:34401/about/</loc>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>http://localhost:34401/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/highlights/</loc>
+    <loc>http://localhost:34401/highlights/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:34401/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="http://localhost:34401/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:1313/es/tags/"
+                href="http://localhost:34401/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="http://localhost:34401/tags/"
                 />
   </url>
 </urlset>
