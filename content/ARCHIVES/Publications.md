@@ -2,7 +2,7 @@
 title: "PUBLICATIONS"
 menu: archives
 weight: 41
-
+absURL: true
 
 ---
 
