@@ -176,174 +176,174 @@ weight: 42
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar27-20.jpg )](https://www.youtube.com/embed/nIzbLp1pt1s?wmode=opaque&loop=1&playlist=nIzbLp1pt1s&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar27-20.jpg )](https://www.youtube.com/embed/nIzbLp1pt1s?wmode=opaque&loop=1&playlist=nIzbLp1pt1s&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar13-20.jpg )](https://www.youtube.com/embed/Tzrh0psFdUk?wmode=opaque&loop=1&playlist=Tzrh0psFdUk&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar13-20.jpg )](https://www.youtube.com/embed/Tzrh0psFdUk?wmode=opaque&loop=1&playlist=Tzrh0psFdUk&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Feb14-20.jpg )](https://www.youtube.com/embed/dVX10GI6BH8?wmode=opaque&loop=1&playlist=dVX10GI6BH8&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Feb14-20.jpg )](https://www.youtube.com/embed/dVX10GI6BH8?wmode=opaque&loop=1&playlist=dVX10GI6BH8&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan31-20.jpg )](https://www.youtube.com/embed/GMYDF4mLmrY?wmode=opaque&loop=1&playlist=GMYDF4mLmrY&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan31-20.jpg )](https://www.youtube.com/embed/GMYDF4mLmrY?wmode=opaque&loop=1&playlist=GMYDF4mLmrY&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan17-20.jpg )](https://www.youtube.com/embed/n36e7mCk6ic?wmode=opaque&loop=1&playlist=n36e7mCk6ic&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan17-20.jpg )](https://www.youtube.com/embed/n36e7mCk6ic?wmode=opaque&loop=1&playlist=n36e7mCk6ic&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/DriverTutorial-Dec10-19.jpg )](https://www.youtube.com/embed/bPE_-6nHuSY?wmode=opaque&loop=1&playlist=bPE_-6nHuSY&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/DriverTutorial-Dec10-19.jpg )](https://www.youtube.com/embed/bPE_-6nHuSY?wmode=opaque&loop=1&playlist=bPE_-6nHuSY&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Nov22-19.jpg )](https://www.youtube.com/embed/-QH9djCgqP8?wmode=opaque&loop=1&playlist=-QH9djCgqP8&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov22-19.jpg )](https://www.youtube.com/embed/-QH9djCgqP8?wmode=opaque&loop=1&playlist=-QH9djCgqP8&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Nov08-19.jpg )](https://www.youtube.com/embed/MzAKT1pok8E?wmode=opaque&loop=1&playlist=MzAKT1pok8E&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov08-19.jpg )](https://www.youtube.com/embed/MzAKT1pok8E?wmode=opaque&loop=1&playlist=MzAKT1pok8E&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct25-19.jpg )](https://www.youtube.com/embed/4y18mPVqQno?wmode=opaque&loop=1&playlist=4y18mPVqQno&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct25-19.jpg )](https://www.youtube.com/embed/4y18mPVqQno?wmode=opaque&loop=1&playlist=4y18mPVqQno&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct11-19.jpg )](https://www.youtube.com/embed/8ZlWh1z1Evg?wmode=opaque&loop=1&playlist=8ZlWh1z1Evg&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct11-19.jpg )](https://www.youtube.com/embed/8ZlWh1z1Evg?wmode=opaque&loop=1&playlist=8ZlWh1z1Evg&autohide=1&iv_load_policy=3)
 
 
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep27-19.jpg )](https://www.youtube.com/embed/2TEi97KGdug?wmode=opaque&loop=1&playlist=2TEi97KGdug&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep27-19.jpg )](https://www.youtube.com/embed/2TEi97KGdug?wmode=opaque&loop=1&playlist=2TEi97KGdug&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep13-19.jpg )](https://www.youtube.com/embed/vY8WHnPGf6M?wmode=opaque&loop=1&playlist=vY8WHnPGf6M&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep13-19.jpg )](https://www.youtube.com/embed/vY8WHnPGf6M?wmode=opaque&loop=1&playlist=vY8WHnPGf6M&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Aug16-19.jpg )](https://www.youtube.com/embed/hRwMv027Pk4?wmode=opaque&loop=1&playlist=hRwMv027Pk4&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Aug16-19.jpg )](https://www.youtube.com/embed/hRwMv027Pk4?wmode=opaque&loop=1&playlist=hRwMv027Pk4&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Aug02-19.jpg )](https://www.youtube.com/embed/35Z6jm2UlL8?wmode=opaque&loop=1&playlist=35Z6jm2UlL8&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Aug02-19.jpg )](https://www.youtube.com/embed/35Z6jm2UlL8?wmode=opaque&loop=1&playlist=35Z6jm2UlL8&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jul19-19.jpg )](https://www.youtube.com/embed/1aIU2Dkm0R4?wmode=opaque&loop=1&playlist=1aIU2Dkm0R4&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jul19-19.jpg )](https://www.youtube.com/embed/1aIU2Dkm0R4?wmode=opaque&loop=1&playlist=1aIU2Dkm0R4&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jun21-19.jpg )](https://www.youtube.com/embed/A7KFGM6kYS4?wmode=opaque&loop=1&playlist=A7KFGM6kYS4&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jun21-19.jpg )](https://www.youtube.com/embed/A7KFGM6kYS4?wmode=opaque&loop=1&playlist=A7KFGM6kYS4&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jun07-19.jpg )](https://www.youtube.com/embed/gPWcVFD65PU?wmode=opaque&loop=1&playlist=gPWcVFD65PU&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jun07-19.jpg )](https://www.youtube.com/embed/gPWcVFD65PU?wmode=opaque&loop=1&playlist=gPWcVFD65PU&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-May24-19.jpg )](https://www.youtube.com/embed/5e4JChOAGEo?wmode=opaque&loop=1&playlist=5e4JChOAGEo&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-May24-19.jpg )](https://www.youtube.com/embed/5e4JChOAGEo?wmode=opaque&loop=1&playlist=5e4JChOAGEo&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-May10-19.jpg )](https://www.youtube.com/embed/H-k8FFH1Gw0?wmode=opaque&loop=1&playlist=H-k8FFH1Gw0&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-May10-19.jpg )](https://www.youtube.com/embed/H-k8FFH1Gw0?wmode=opaque&loop=1&playlist=H-k8FFH1Gw0&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Apr26-19.jpg )](https://www.youtube.com/embed/5a0v_sn_4Vw?wmode=opaque&loop=1&playlist=5a0v_sn_4Vw&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Apr26-19.jpg )](https://www.youtube.com/embed/5a0v_sn_4Vw?wmode=opaque&loop=1&playlist=5a0v_sn_4Vw&autohide=1&iv_load_policy=3)
 
 
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/FNCS-Install-Apr23-19.jpg )](https://www.youtube.com/embed/1XDBB2kT9ZI?wmode=opaque&loop=1&playlist=1XDBB2kT9ZI&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/FNCS-Install-Apr23-19.jpg )](https://www.youtube.com/embed/1XDBB2kT9ZI?wmode=opaque&loop=1&playlist=1XDBB2kT9ZI&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Apr12-19.jpg )](https://www.youtube.com/embed/aiO8KN-smIQ?wmode=opaque&loop=1&playlist=aiO8KN-smIQ&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Apr12-19.jpg )](https://www.youtube.com/embed/aiO8KN-smIQ?wmode=opaque&loop=1&playlist=aiO8KN-smIQ&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar15-19.jpg )](https://www.youtube.com/embed/IH_94D7ZFgI?wmode=opaque&loop=1&playlist=IH_94D7ZFgI&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar15-19.jpg )](https://www.youtube.com/embed/IH_94D7ZFgI?wmode=opaque&loop=1&playlist=IH_94D7ZFgI&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar01-19.jpg )](https://www.youtube.com/embed/OhxY-_6tf9c?wmode=opaque&loop=1&playlist=OhxY-_6tf9c&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar01-19.jpg )](https://www.youtube.com/embed/OhxY-_6tf9c?wmode=opaque&loop=1&playlist=OhxY-_6tf9c&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan25-19.jpg )](https://www.youtube.com/embed/66_2Je0-vpA?wmode=opaque&loop=1&playlist=66_2Je0-vpA&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan25-19.jpg )](https://www.youtube.com/embed/66_2Je0-vpA?wmode=opaque&loop=1&playlist=66_2Je0-vpA&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Dec18-18.jpg )](https://www.youtube.com/embed/JXDpVZWpkYI?wmode=opaque&loop=1&playlist=JXDpVZWpkYI&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Dec18-18.jpg )](https://www.youtube.com/embed/JXDpVZWpkYI?wmode=opaque&loop=1&playlist=JXDpVZWpkYI&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Nov09-18.jpg )](https://www.youtube.com/embed/5H2WdgUH7f4?wmode=opaque&loop=1&playlist=5H2WdgUH7f4&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov09-18.jpg )](https://www.youtube.com/embed/5H2WdgUH7f4?wmode=opaque&loop=1&playlist=5H2WdgUH7f4&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct26-18.jpg )](https://www.youtube.com/embed/HDgGO-5w9HQ?wmode=opaque&loop=1&playlist=HDgGO-5w9HQ&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct26-18.jpg )](https://www.youtube.com/embed/HDgGO-5w9HQ?wmode=opaque&loop=1&playlist=HDgGO-5w9HQ&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct12-18.jpg )](https://www.youtube.com/embed/ANKHWd913og?wmode=opaque&loop=1&playlist=ANKHWd913og&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct12-18.jpg )](https://www.youtube.com/embed/ANKHWd913og?wmode=opaque&loop=1&playlist=ANKHWd913og&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep28-18.jpg )](https://www.youtube.com/embed/u94ibh3ldQo?wmode=opaque&loop=1&playlist=u94ibh3ldQo&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep28-18.jpg )](https://www.youtube.com/embed/u94ibh3ldQo?wmode=opaque&loop=1&playlist=u94ibh3ldQo&autohide=1&iv_load_policy=3)
 
 
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep14-18.jpg )](https://www.youtube.com/embed/PoBkNeDu3V0?wmode=opaque&loop=1&playlist=PoBkNeDu3V0&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep14-18.jpg )](https://www.youtube.com/embed/PoBkNeDu3V0?wmode=opaque&loop=1&playlist=PoBkNeDu3V0&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/Intelligent-Load-Control-Sep07-18.jpg )](https://www.youtube.com/embed/jUjcVTMaZc4?wmode=opaque&loop=1&playlist=jUjcVTMaZc4&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/Intelligent-Load-Control-Sep07-18.jpg )](https://www.youtube.com/embed/jUjcVTMaZc4?wmode=opaque&loop=1&playlist=jUjcVTMaZc4&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Aug31-18.jpg )](https://www.youtube.com/embed/I994iTX1agw?wmode=opaque&loop=1&playlist=I994iTX1agw&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Aug31-18.jpg )](https://www.youtube.com/embed/I994iTX1agw?wmode=opaque&loop=1&playlist=I994iTX1agw&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Aug03-18.jpg )](https://www.youtube.com/embed/GKjlfVB3UpQ?wmode=opaque&loop=1&playlist=GKjlfVB3UpQ&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Aug03-18.jpg )](https://www.youtube.com/embed/GKjlfVB3UpQ?wmode=opaque&loop=1&playlist=GKjlfVB3UpQ&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jun08-18.jpg )](https://www.youtube.com/embed/_KFo_mrOOTc?wmode=opaque&loop=1&playlist=_KFo_mrOOTc&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jun08-18.jpg )](https://www.youtube.com/embed/_KFo_mrOOTc?wmode=opaque&loop=1&playlist=_KFo_mrOOTc&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-May25-18.jpg )](https://www.youtube.com/embed/Yn1jj_JaGpI?wmode=opaque&loop=1&playlist=Yn1jj_JaGpI&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-May25-18.jpg )](https://www.youtube.com/embed/Yn1jj_JaGpI?wmode=opaque&loop=1&playlist=Yn1jj_JaGpI&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-May11-18.jpg )](https://www.youtube.com/embed/xEDeaeX-aYo?wmode=opaque&loop=1&playlist=xEDeaeX-aYo&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-May11-18.jpg )](https://www.youtube.com/embed/xEDeaeX-aYo?wmode=opaque&loop=1&playlist=xEDeaeX-aYo&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Apr27-18.jpg )](https://www.youtube.com/embed/2pESVZl4Aso?wmode=opaque&loop=1&playlist=2pESVZl4Aso&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Apr27-18.jpg )](https://www.youtube.com/embed/2pESVZl4Aso?wmode=opaque&loop=1&playlist=2pESVZl4Aso&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Apr13-18.jpg )](https://www.youtube.com/embed/ysvUmSyMyxw?wmode=opaque&loop=1&playlist=ysvUmSyMyxw&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Apr13-18.jpg )](https://www.youtube.com/embed/ysvUmSyMyxw?wmode=opaque&loop=1&playlist=ysvUmSyMyxw&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar30-18.jpg )](https://www.youtube.com/embed/KoO5w4ec8v8?wmode=opaque&loop=1&playlist=KoO5w4ec8v8&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar30-18.jpg )](https://www.youtube.com/embed/KoO5w4ec8v8?wmode=opaque&loop=1&playlist=KoO5w4ec8v8&autohide=1&iv_load_policy=3)
 
 
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar02-18.jpg )](https://www.youtube.com/embed/0Xx8QIVOfqU?wmode=opaque&loop=1&playlist=0Xx8QIVOfqU&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar02-18.jpg )](https://www.youtube.com/embed/0Xx8QIVOfqU?wmode=opaque&loop=1&playlist=0Xx8QIVOfqU&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan05-18.jpg )](https://www.youtube.com/embed/_XS20H3I8hc?wmode=opaque&loop=1&playlist=_XS20H3I8hc&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan05-18.jpg )](https://www.youtube.com/embed/_XS20H3I8hc?wmode=opaque&loop=1&playlist=_XS20H3I8hc&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Dec22-17.jpg )](https://www.youtube.com/embed/Ykp4ZX64H1w?wmode=opaque&loop=1&playlist=Ykp4ZX64H1w&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Dec22-17.jpg )](https://www.youtube.com/embed/Ykp4ZX64H1w?wmode=opaque&loop=1&playlist=Ykp4ZX64H1w&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/Transactive-Energy-Dec01-17.jpg )](https://www.youtube.com/embed/ECTNZAgyYtM?wmode=opaque&loop=1&playlist=ECTNZAgyYtM&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/Transactive-Energy-Dec01-17.jpg )](https://www.youtube.com/embed/ECTNZAgyYtM?wmode=opaque&loop=1&playlist=ECTNZAgyYtM&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Nov10-17.jpg )](https://www.youtube.com/embed/ePMkyJGbNGs?wmode=opaque&loop=1&playlist=ePMkyJGbNGs&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov10-17.jpg )](https://www.youtube.com/embed/ePMkyJGbNGs?wmode=opaque&loop=1&playlist=ePMkyJGbNGs&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct27-17.jpg )](https://www.youtube.com/embed/tsKVZx-WkGk?wmode=opaque&loop=1&playlist=tsKVZx-WkGk&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct27-17.jpg )](https://www.youtube.com/embed/tsKVZx-WkGk?wmode=opaque&loop=1&playlist=tsKVZx-WkGk&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct13-17.jpg )](https://www.youtube.com/embed/U0yIHoabmi0?wmode=opaque&loop=1&playlist=U0yIHoabmi0&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct13-17.jpg )](https://www.youtube.com/embed/U0yIHoabmi0?wmode=opaque&loop=1&playlist=U0yIHoabmi0&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep29-17.jpg )](https://www.youtube.com/embed/t007qj3HMvA?wmode=opaque&loop=1&playlist=t007qj3HMvA&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep29-17.jpg )](https://www.youtube.com/embed/t007qj3HMvA?wmode=opaque&loop=1&playlist=t007qj3HMvA&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep15-17.jpg )](https://www.youtube.com/embed/LPIoZiCh-EE?wmode=opaque&loop=1&playlist=LPIoZiCh-EE&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep15-17.jpg )](https://www.youtube.com/embed/LPIoZiCh-EE?wmode=opaque&loop=1&playlist=LPIoZiCh-EE&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Sep01-17.jpg )](https://www.youtube.com/embed/XUmmObtA6bM?wmode=opaque&loop=1&playlist=XUmmObtA6bM&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Sep01-17.jpg )](https://www.youtube.com/embed/XUmmObtA6bM?wmode=opaque&loop=1&playlist=XUmmObtA6bM&autohide=1&iv_load_policy=3)
 
 
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jul21-17.jpg )](https://www.youtube.com/embed/4gqzoGu7pEM?wmode=opaque&loop=1&playlist=4gqzoGu7pEM&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jul21-17.jpg )](https://www.youtube.com/embed/4gqzoGu7pEM?wmode=opaque&loop=1&playlist=4gqzoGu7pEM&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/VOLTTRON-Overview-Jul19-17.jpg )](https://www.youtube.com/embed/oNnItsBlwxs?wmode=opaque&loop=1&playlist=oNnItsBlwxs&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/VOLTTRON-Overview-Jul19-17.jpg )](https://www.youtube.com/embed/oNnItsBlwxs?wmode=opaque&loop=1&playlist=oNnItsBlwxs&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jun23-17.jpg )](https://www.youtube.com/embed/6T2zJ_PSHwE?wmode=opaque&loop=1&playlist=6T2zJ_PSHwE&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jun23-17.jpg )](https://www.youtube.com/embed/6T2zJ_PSHwE?wmode=opaque&loop=1&playlist=6T2zJ_PSHwE&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-May26-17.jpg )](https://www.youtube.com/embed/z59KYyAS738?wmode=opaque&loop=1&playlist=z59KYyAS738&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-May26-17.jpg )](https://www.youtube.com/embed/z59KYyAS738?wmode=opaque&loop=1&playlist=z59KYyAS738&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Apr28-17.jpg )](https://www.youtube.com/embed/EQ1Jsjv833c?wmode=opaque&loop=1&playlist=EQ1Jsjv833c&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Apr28-17.jpg )](https://www.youtube.com/embed/EQ1Jsjv833c?wmode=opaque&loop=1&playlist=EQ1Jsjv833c&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Apr14-17.jpg )](https://www.youtube.com/embed/R7LTqO_QdSg?wmode=opaque&loop=1&playlist=R7LTqO_QdSg&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Apr14-17.jpg )](https://www.youtube.com/embed/R7LTqO_QdSg?wmode=opaque&loop=1&playlist=R7LTqO_QdSg&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar31-17.jpg )](https://www.youtube.com/embed/Hr-4180YNaQ?wmode=opaque&loop=1&playlist=Hr-4180YNaQ&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar31-17.jpg )](https://www.youtube.com/embed/Hr-4180YNaQ?wmode=opaque&loop=1&playlist=Hr-4180YNaQ&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar17-17.jpg )](https://www.youtube.com/embed/eNs2ttv8l88?wmode=opaque&loop=1&playlist=eNs2ttv8l88&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar17-17.jpg )](https://www.youtube.com/embed/eNs2ttv8l88?wmode=opaque&loop=1&playlist=eNs2ttv8l88&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Mar03-17.jpg )](https://www.youtube.com/embed/-pYCyB8eAw0?wmode=opaque&loop=1&playlist=-pYCyB8eAw0&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Mar03-17.jpg )](https://www.youtube.com/embed/-pYCyB8eAw0?wmode=opaque&loop=1&playlist=-pYCyB8eAw0&autohide=1&iv_load_policy=3)
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan20-17.jpg )](https://www.youtube.com/embed/CxwB8WRKd_U?wmode=opaque&loop=1&playlist=CxwB8WRKd_U&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan20-17.jpg )](https://www.youtube.com/embed/CxwB8WRKd_U?wmode=opaque&loop=1&playlist=CxwB8WRKd_U&autohide=1&iv_load_policy=3)
 
 
 
 ## PAGE BREAK
 
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan06-17.jpg )](https://youtu.be/Ru2962r3vRw?list=TLGGSMHFgneBQ9UyNDA2MjAyNA)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan06-17.jpg )](https://youtu.be/Ru2962r3vRw?list=TLGGSMHFgneBQ9UyNDA2MjAyNA)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Dec09-16.jpg )](https://youtu.be/bnTnnITZ7-w?list=TLGGLpUDNPfBRPEyNDA2MjAyNA)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Dec09-16.jpg )](https://youtu.be/bnTnnITZ7-w?list=TLGGLpUDNPfBRPEyNDA2MjAyNA)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct28-16.jpg )](https://youtu.be/ZkrW2X5AXTA?list=TLGGTp553DL-uxYyNDA2MjAyNA)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct28-16.jpg )](https://youtu.be/ZkrW2X5AXTA?list=TLGGTp553DL-uxYyNDA2MjAyNA)
 
 ## PAGE BREAK (from here to all of page 15, links are broken)
 
