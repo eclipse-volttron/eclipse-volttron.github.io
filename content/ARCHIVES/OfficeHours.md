@@ -6,9 +6,9 @@ weight: 42
 
 ---
 
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Jan5-24.jpg )](https://youtu.be/sV7tXz53LVE?list=TLGGAUACxCrhMjoyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Nov10-23.jpg )](https://youtu.be/DqOuq50AjAI?list=TLGGB5HeUhn2LCwyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct27-23.jpg )](https://youtu.be/P2-T4iomrkQ?list=TLGGxyx1BwejocUyMTA2MjAyNA)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan5-24.jpg )](https://youtu.be/sV7tXz53LVE?list=TLGGAUACxCrhMjoyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov10-23.jpg )](https://youtu.be/DqOuq50AjAI?list=TLGGB5HeUhn2LCwyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Oct27-23.jpg )](https://youtu.be/P2-T4iomrkQ?list=TLGGxyx1BwejocUyMTA2MjAyNA)
 
 
 [![all text](/images/VideoImages/OfficeHourThumbnails/OH-Oct13-23.jpg )](https://youtu.be/UXKyckwkJo0?list=TLGGH2LXlrWvsRYyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
