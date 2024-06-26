@@ -4,7 +4,3 @@
 - fix header image rendering for all pages
 - make seperate pages for all of the office hours
 - fix several pdf links for some market pages and other pages
-<<<<<<< HEAD
-=======
- - buildings pdf on market page 
->>>>>>> 656fc11 (updated readme)
