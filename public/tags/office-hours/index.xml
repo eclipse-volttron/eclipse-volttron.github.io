@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Office Hours on VOLTTRON</title>
+    <link>http://localhost:1313/tags/office-hours/</link>
+    <description>Recent content in Office Hours on VOLTTRON</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <atom:link href="http://localhost:1313/tags/office-hours/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4</title>
+      <link>http://localhost:1313/tags/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5</title>
+      <link>http://localhost:1313/tags/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6</title>
+      <link>http://localhost:1313/tags/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/6/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

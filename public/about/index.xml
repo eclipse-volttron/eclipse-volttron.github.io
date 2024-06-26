@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUTs on VOLTTRON</title>
-    <link>http://localhost:42187/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in ABOUTs on VOLTTRON</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <atom:link href="http://localhost:42187/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ABOUT</title>
-      <link>http://localhost:42187/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42187/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>Inexpensive, small-scale computers—such as the Raspberry Pi—can have VOLTTRON™ installed as a controller.&#xA;About VOLTTRON™ VOLTTRON™, developed at Pacific Northwest National Laboratory and available as an open-source tool, provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.&#xA;Business, research and academic communities agree that VOLTTRON™ is an important and versatile resource for improving building system performance and creating a more flexible and reliable power grid.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:42187/about/aboutsidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42187/about/aboutsidebar/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

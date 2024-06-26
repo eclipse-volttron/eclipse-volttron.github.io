@@ -2,106 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42187/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:42187/de/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:42187/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42187/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:42187/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:42187/de/posts/"
+                href="http://localhost:1313/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:42187/es/posts/"
+                href="http://localhost:1313/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42187/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>http://localhost:42187/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
   </url><url>
-    <loc>http://localhost:42187/developers/</loc>
+    <loc>http://localhost:1313/developers/</loc>
   </url><url>
-    <loc>http://localhost:42187/archives/officehours/</loc>
+    <loc>http://localhost:1313/archives/publications/</loc>
   </url><url>
-    <loc>http://localhost:42187/archives/publications/</loc>
+    <loc>http://localhost:1313/tags/office-hours/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/addsvalue/</loc>
+    <loc>http://localhost:1313/tags/2/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/potential/</loc>
+    <loc>http://localhost:1313/tags/4/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/costeffective/</loc>
+    <loc>http://localhost:1313/tags/5/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/developerfriendly/</loc>
+    <loc>http://localhost:1313/tags/6/</loc>
   </url><url>
-    <loc>http://localhost:42187/download/</loc>
+    <loc>http://localhost:1313/tags/7/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/interoperable/</loc>
+    <loc>http://localhost:1313/tags/8/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/opensource/</loc>
+    <loc>http://localhost:1313/tags/3/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/scalable/</loc>
+    <loc>http://localhost:1313/highlights/addsvalue/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/secure/</loc>
+    <loc>http://localhost:1313/highlights/potential/</loc>
   </url><url>
-    <loc>http://localhost:42187/posts/buildingsoperations/</loc>
+    <loc>http://localhost:1313/highlights/costeffective/</loc>
+  </url><url>
+    <loc>http://localhost:1313/highlights/developerfriendly/</loc>
+  </url><url>
+    <loc>http://localhost:1313/download/</loc>
+  </url><url>
+    <loc>http://localhost:1313/highlights/interoperable/</loc>
+  </url><url>
+    <loc>http://localhost:1313/highlights/opensource/</loc>
+  </url><url>
+    <loc>http://localhost:1313/highlights/scalable/</loc>
+  </url><url>
+    <loc>http://localhost:1313/highlights/secure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/buildingsoperations/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42187/posts/connectedhomes/</loc>
+    <loc>http://localhost:1313/posts/connectedhomes/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42187/posts/datamanagement/</loc>
+    <loc>http://localhost:1313/posts/datamanagement/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42187/posts/distenergyresources/</loc>
+    <loc>http://localhost:1313/posts/distenergyresources/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42187/posts/marketsolns/</loc>
+    <loc>http://localhost:1313/posts/marketsolns/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42187/about/aboutsidebar/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:42187/about/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:42187/archives/</loc>
+    <loc>http://localhost:1313/highlights/</loc>
   </url><url>
-    <loc>http://localhost:42187/highlights/</loc>
-  </url><url>
-    <loc>http://localhost:42187/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:42187/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:42187/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42187/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

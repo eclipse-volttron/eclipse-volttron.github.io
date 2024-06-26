@@ -3,11 +3,10 @@ title: "PUBLICATIONS"
 menu: archives
 weight: 41
 
-
 ---
 
 
-[![all text](../../images/publications/ModularUpdates.jpg )](../../Documents/publications/ModularUpdates.pdf )&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text ](../../images/publications/ModularUpdates.jpg )](../../Documents/publications/ModularUpdates.pdf )&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/publications/VisualConsequence.jpg)](../../Documents/publications/VisualConsequence.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/publications/AversaryDossier.jpg)](../../Documents/publications/AversaryDossier.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/publications/ThreatProfileV8.jpg)](../../Documents/publications/ThreatProfileV8.pdf)  

@@ -1,6 +1,12 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
 
+  
 on:
   # Runs on pushes targeting the default branch
   push:

@@ -6,15 +6,9 @@
     name = "PUBLICATIONS"
     url = "/archives/publications/"
     weight = 61
-[[main]]
-    parent = "ARCHIVES"
-    name = "NEWS AND EVENTS"
-    weight = 62
-[[main]]
-    parent = "ARCHIVES"
-    name = "VIDEOS"
-    weight = 63
+
 [[main]]
     parent = "ARCHIVES"
     name = "OFFICE HOURS"
+     url = "/tags/office hours/"
     weight = 64
