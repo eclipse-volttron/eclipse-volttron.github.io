@@ -1,10 +1,10 @@
-<div id="header" style = "background-image:url('{{ absURL "images/temp-image.png" }}'); background-size: cover;">
+<div id="header" style = "background-image:url('{{ absURL "images/temp-image.jpg" }}'); background-size: cover;">
     {{ if .Site.IsMultiLingual }}
         {{- partial "languages.html" . }}
     {{- end -}}
     <div id="logo-wrapper"><h1><a href="{{ .Site.BaseURL }}" >
        
-        <img src='{{ absURL "images/logo-tagline.png" }}' style = "height: 200px; width: 150px; margin-right: 15px;" alt="{{ .Site.Data.globalheader.image_alt }}" style="position:relative; max-width: 30%"/>
+        <img src='{{ absURL "images/logo-tagline.png" }}' alt="{{ .Site.Data.globalheader.image_alt }}" style="position:relative; max-width: 30%"/>
         
         
     </a></h1></div>
