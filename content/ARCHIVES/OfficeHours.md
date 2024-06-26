@@ -80,7 +80,7 @@ weight: 42
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/VideoImages/OfficeHourThumbnails/BACnetTutorial-Dec17-21.jpg )](https://www.youtube.com/embed/qQNL2n936AU?wmode=opaque&loop=1&playlist=qQNL2n936AU&autohide=1&iv_load_policy=3)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../..images/VideoImages/OfficeHourThumbnails/OH-Dec17-21.jpg )](https://www.youtube.com/embed/CvjhzCSOj3k?wmode=opaque&loop=1&playlist=CvjhzCSOj3k&autohide=1&iv_load_policy=3)
+[![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Dec17-21.jpg )](https://www.youtube.com/embed/CvjhzCSOj3k?wmode=opaque&loop=1&playlist=CvjhzCSOj3k&autohide=1&iv_load_policy=3)
 
 
 [![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Dec03-21.jpg )](https://www.youtube.com/embed/0XYAwkDospA?wmode=opaque&loop=1&playlist=0XYAwkDospA&autohide=1&iv_load_policy=3)
