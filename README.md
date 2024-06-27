@@ -8,6 +8,7 @@
     - BUILDINGS PDF ON MARKET PAGE
     - tech to market on market solutions page
 - layouts > partials > sidebar > header.html --> CHANGE THE HREF ONCE THE SITE IS DEPLOYED
+- posts > connectedhomes, distenergyresources, & datamanagement ~ fix the overview pdf
 
 ## PAGE FUNCTIONALITY CHECK LIST
 - [x] Developer Friendly
@@ -18,4 +19,5 @@
 - [ ] Open Source
 - [ ] Scalable
 - [ ] Boundless Potential
-I plan on using Developer Friendly page as a reference to fix all the other pages
+
+- I plan on using Developer Friendly page as a reference to fix all the other pages
