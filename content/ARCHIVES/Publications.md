@@ -25,24 +25,24 @@ weight: 41
 [![all text](../../images/publications/SecurityFeatures.jpg)](../../Documents/publications/SecurityFeatures.pdf)
 
 
-[![all text](../../images/publications/VOLTTRON_Scalability-update-final_Page_01.jpg)](https://volttron.org/sites/default/files/publications/VOLTTRON%20Scalability-update-final.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/VOLTTRON_Scalability-update-final_Page_01.jpg)](../../Documents/publications/VOLTTRON_Scalability-update-final.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/publications/VOLTTRON_Documentation.jfif)](http://volttron.readthedocs.io/en/develop/index.html)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/VOLTTRON_Brochure.jpg)](https://volttron.org/sites/default/files/publications/VOLTTRON_Brochure_V11_WEB.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/TCC_HVAC_Systems.jpg)](http://www.pnnl.gov/main/publications/external/technical_reports/PNNL-26083.pdf)
+[![all text](../../images/publications/VOLTTRON_Brochure.jpg)](../../Documents/VOLTTRON_Brochure_V11_WEB.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/TCC_HVAC_Systems.jpg)](../../Documents/publications/TTC_HVAC_Systemes.pdf)
 
 
-[![all text](../../images/publications/RenewableIntegrations.jpg)](http://www.pnnl.gov/main/publications/external/technical_reports/PNNL-26082.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/IntelligentLoadControl.jpg)](http://www.pnnl.gov/main/publications/external/technical_reports/PNNL-26034.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/EnergyEfficiencyBuild1.png)](https://volttron.org/sites/default/files/publications/VOLTTRON_buildings_2017.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/SecureEnergyEfficiencyTool.png)](https://volttron.org/sites/default/files/publications/VOLTTRON_security_2017.pdf)
+[![all text](../../images/publications/RenewableIntegrations.jpg)](../../Documents/publications/RenewableIntegrations.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/IntelligentLoadControl.jpg)](../../Documents/publications/IntelligentLoadControl.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/EnergyEfficiencyBuild1.png)](../../Documents/VOLTTRON_buildings_2017.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/SecureEnergyEfficiencyTool.png)](../../Documents/VOLTTRON_security_2017.pdf)
 
 
-[![all text](../../images/publications/DistributingWithTheGrid.png)](https://volttron.org/sites/default/files/publications/VOLTTRON_gridservices_2017.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/TtM_BuildingGuide.png)](https://volttron.org/sites/default/files/publications/VOLTTRON_Tech_to_Market_report.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/VOLTTRON_2016.jpg)](https://volttron.org/sites/default/files/publications/PNNL-25499_VOLTTRON_2016.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/Overview1.png)](https://volttron.org/sites/default/files/publications/VOLTTRON_Efficient_Grid_2017.pdf)
+[![all text](../../images/publications/DistributingWithTheGrid.png)](../../Documents/VOLTTRON_gridservices_2017.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/TtM_BuildingGuide.png)](../../Documents/VOLTTRON_Tech_to_Market.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/VOLTTRON_2016.jpg)](../../Documents/publications/VOLTTRON_2016.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/Overview1.png)](../../Documents/publications/VOLTTRON_Efficient_Grid_2017.pdf)
 
 
-[![all text](../../images/publications/PlatformReq.jpg)](https://volttron.org/sites/default/files/publications/PNNL-24395.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/TB-BuildingGuide.jpg)](https://volttron.org/sites/default/files/publications/PNNL-23302.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![all text](../../images/publications/SmartGridPlatform.jpg)](http://www.ifaamas.org/Proceedings/aamas2013/docs/p1367.pdf)
+[![all text](../../images/publications/PlatformReq.jpg)](../../Documents/publications/PlatformModelAndRequirements.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/TB-BuildingGuide.jpg)](../../Documents/publications/Transaction_Based_Building.pdf)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[![all text](../../images/publications/SmartGridPlatform.jpg)](../../Documents/publications/VOLTTRON_Platform_Demo.pdf)
