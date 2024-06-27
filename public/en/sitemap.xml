@@ -44,6 +44,22 @@
   </url><url>
     <loc>http://localhost:1313/archives/publications/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/office-hours/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/3/</loc>
+  </url><url>
     <loc>http://localhost:1313/highlights/addsvalue/</loc>
   </url><url>
     <loc>http://localhost:1313/highlights/potential/</loc>
