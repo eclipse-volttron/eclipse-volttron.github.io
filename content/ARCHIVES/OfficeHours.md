@@ -3,8 +3,10 @@ title: "OFFICE HOURS"
 menu: archives
 weight: 42
 
-
+tags: 
 ---
+
+{{< figure class="figConfig"  src="../../images/publications/ModularUpdates.jpg" link="../../Documents/publications/ModularUpdates.pdf" title="VOLTTRON™ 10 Modular Updates">}}
 
 [![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan5-24.jpg )](https://youtu.be/sV7tXz53LVE?list=TLGGAUACxCrhMjoyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov10-23.jpg )](https://youtu.be/DqOuq50AjAI?list=TLGGB5HeUhn2LCwyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
