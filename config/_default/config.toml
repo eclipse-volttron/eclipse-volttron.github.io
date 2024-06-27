@@ -21,6 +21,9 @@ defaultContentLanguage = "en"
 [taxonomies]
     tag = "tags"
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [params]
    
     show_post_dates = false
