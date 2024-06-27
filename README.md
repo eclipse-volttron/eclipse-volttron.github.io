@@ -8,7 +8,7 @@
     - [x] BUILDINGS PDF ON MARKET PAGE
     - [x] tech to market on market solutions page
 - layouts > partials > sidebar > header.html --> CHANGE THE HREF ONCE THE SITE IS DEPLOYED
-- [ ] posts > connectedhomes, distenergyresources, & datamanagement ~ fix the overview pdf
+- [x] posts > connectedhomes, distenergyresources, & datamanagement ~ fix the overview pdf
 
 ## PAGE FUNCTIONALITY CHECK LIST
 - [x] Developer Friendly
