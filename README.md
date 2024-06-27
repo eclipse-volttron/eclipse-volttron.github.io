@@ -14,9 +14,9 @@
 - [x] Developer Friendly
 - [x] Cost Effective
 - [ ] Adds Value
-- [ ] Secure
-- [ ] Interoperable
-- [ ] Open Source
+- [x] Secure
+- [x] Interoperable
+- [x] Open Source
 - [ ] Scalable
 - [ ] Boundless Potential
 
