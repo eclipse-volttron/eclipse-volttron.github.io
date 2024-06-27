@@ -4,6 +4,13 @@ menu: archives
 weight: 42
 
 tags: 
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
 ---
 
 {{< figure class="figConfig"  src="../../images/publications/ModularUpdates.jpg" link="../../Documents/publications/ModularUpdates.pdf" title="VOLTTRON™ 10 Modular Updates">}}
