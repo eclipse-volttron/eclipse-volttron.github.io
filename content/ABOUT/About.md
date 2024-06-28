@@ -7,6 +7,7 @@ image: images/VOLTTRON-Device-Better2.jpg
 image_alt: "Hello!"
 
 sidebar_left: AboutSidebar
+sidebar_right: AboutSidebar2
 
 ---
 Inexpensive, small-scale computers—such as the Raspberry Pi—can have VOLTTRON™ installed as a controller.

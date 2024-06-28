@@ -78,7 +78,6 @@ items:
       imageLeft: "images/Pnnl100.png"
 
       urlCentral: "https://www.energy.gov/"
-
-      imageCentral: "images/DOE.png"
+      imageCentral: "images/doe-logo.png"
       
       

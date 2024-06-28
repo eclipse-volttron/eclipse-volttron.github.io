@@ -4,12 +4,12 @@
             <h2>{{ .item.contents | markdownify }}</h2>
             
             {{- with .item.button }}
-                <a href="{{ .urlLeft }}" style = "position:relative; right: 400px; top: -20px" >
+                <a href="{{ .urlLeft }}" style = "position:relative; right: 500px; top: -20px" >
                     <img src="{{ .imageLeft | relURL }}">
                     
                 </a>
               
-                <a href="{{ .urlCentral }}"  style = "position:relative;top:-30px ;right: 350px">
+                <a href="{{ .urlCentral }}"  style = "position:relative;top:-15px ;right: 450px">
                     <img src="{{ .imageCentral | relURL }}"> 
                 </a>
                
