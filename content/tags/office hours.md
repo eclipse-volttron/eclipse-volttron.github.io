@@ -33,3 +33,4 @@ tags:
 {{< figure class="figConfig" title="Office Hours - May 26, 2023" src="../../images/VideoImages/OfficeHourThumbnails/OH-May26-23.jpg" link="https://youtu.be/sJ1tzvBjbGE?list=TLGGsKr4i3qtAXwyMTA2MjAyNA" caption="Today’s office hours was an open topic forum where upcoming releases and release process was discussed among other topics.">}}
 
 {{< figure class="figConfig" title="Office Hours - May 12, 2023" src="../../images/VideoImages/OfficeHourThumbnails/OH-May12-23.jpg" link="https://youtu.be/qTa-4VBKYPY?list=TLGGzk06PqfzdX0yMTA2MjAyNA" caption="In this office hours session, there is a discussion of the next code drop of the modular codebase. Open topic discussion touches on the current production version (8.2), the github workflow for...">}}
+
