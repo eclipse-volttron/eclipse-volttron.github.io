@@ -1,6 +1,6 @@
 ---
 title: "1"
-menu: archives
+menu: tags
 weight: 42
 
 tags: 
@@ -20,7 +20,6 @@ tags:
     - 15
 ---
 
-{{< figure class="figConfig"  src="../../images/VideoImages/OfficeHourThumbnails/OH-Jan5-24.jpg" link="https://youtu.be/sV7tXz53LVE?list=TLGGAUACxCrhMjoyMTA2MjAyNA" title="EXAMPLE HEHEH AHAHAH">}}
 
 [![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Jan5-24.jpg )](https://youtu.be/sV7tXz53LVE?list=TLGGAUACxCrhMjoyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![all text](../../images/VideoImages/OfficeHourThumbnails/OH-Nov10-23.jpg )](https://youtu.be/DqOuq50AjAI?list=TLGGB5HeUhn2LCwyMTA2MjAyNA)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
@@ -38,57 +37,3 @@ tags:
 
 
 [![all text](../../images/VideoImages/OfficeHourThumbnails/OH-May12-23.jpg )](https://youtu.be/qTa-4VBKYPY?list=TLGGzk06PqfzdX0yMTA2MjAyNA)
-
-## PAGE BREAK
-
-
-
-## PAGE BREAK
-
-
-
-## PAGE BREAK
-
-
-## PAGE BREAK
-
-
-
-
-## PAGE BREAK
-
-
-
-
-## PAGE BREAK
-
-
-
-
-## PAGE BREAK
-
-
-
-## PAGE BREAK
-
-
-
-## PAGE BREAK
-
-
-
-## PAGE BREAK
-
-
-## PAGE BREAK
-
-
-## PAGE BREAK
-
-
-
-
-## PAGE BREAK
-
-## PAGE BREAK (from here to all of page 15, links are broken)
-
