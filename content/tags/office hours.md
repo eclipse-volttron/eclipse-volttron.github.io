@@ -17,7 +17,7 @@ tags:
     - 12
     - 13
     - 14
-    - 15
+
 ---
 
 {{< figure class="figConfig" title="Office Hours - January 5, 2024" src="../../images/VideoImages/OfficeHourThumbnails/OH-Jan5-24.jpg" link="https://youtu.be/sV7tXz53LVE?list=TLGGAUACxCrhMjoyMTA2MjAyNA" caption="This office hours has a presentation by Ben Bartling of Slipstream talking about BACPypes3’s features and his use of its scripting capabilities. This discussion feeds directly into the driver working...">}}
