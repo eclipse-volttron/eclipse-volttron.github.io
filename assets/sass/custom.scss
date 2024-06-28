@@ -20,11 +20,16 @@
     display: inline-table;
     max-width: 20%;
     margin-right: 50px;
-   
-    p{
-     font-size: small;
-     
+
+    p {
+     font-size: medium;
+     margin-top: -15px;
+     line-height: 100%;
     }
  
  
+}
+
+.figConfig h4 {
+    line-height: 100%;
 }
