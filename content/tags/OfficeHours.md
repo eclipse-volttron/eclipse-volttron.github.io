@@ -1,6 +1,6 @@
 ---
 title: "1"
-menu: tags
+menu: archives
 weight: 42
 
 tags: 
