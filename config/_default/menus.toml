@@ -10,5 +10,5 @@
 [[main]]
     parent = "ARCHIVES"
     name = "OFFICE HOURS"
-     url = "/tags/office hours/"
+     url = "/tags/officehours/"
     weight = 64
