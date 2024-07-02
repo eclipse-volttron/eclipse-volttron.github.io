@@ -43,7 +43,7 @@ defaultContentLanguage = "en"
     [[params.social]]
         title = "LinkedIn"
         icon = "fa-linkedin-in"
-        url = "#"
+        url = "https://www.linkedin.com/company/pacific-northwest-national-laboratory"
     [[params.social]]
         title = "Creative Commons"
         icon = "fa-creative-commons"
