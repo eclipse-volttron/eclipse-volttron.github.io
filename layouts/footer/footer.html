@@ -1,0 +1,22 @@
+<section id="cta" class="wrapper style3">
+    <div class="container">
+        <header>
+            <h2>{{ .item.contents | markdownify }}</h2>
+            
+            {{- with .item.button }}
+                <a href="{{ .urlLeft }}" style = "position:relative; right: 500px" >
+                    <img src="{{ .imageLeft | relURL }}">{{ .contents }}
+                    
+                </a>
+              
+                <a href="{{ .urlCentral }}"  style = "position:relative;top:-10px ;right: 400px">
+                    <img src="{{ .imageCentral | relURL }}"> {{ .contents }}
+                </a>
+                
+            
+            {{- end }}
+            
+            
+        </header>
+    </div>
+</section>

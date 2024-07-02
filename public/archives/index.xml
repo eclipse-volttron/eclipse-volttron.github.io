@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARCHIVESes on VOLTTRON</title>
+    <link>http://localhost:1313/archives/</link>
+    <description>Recent content in ARCHIVESes on VOLTTRON</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <atom:link href="http://localhost:1313/archives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PUBLICATIONS</title>
+      <link>http://localhost:1313/archives/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/publications/</guid>
+      <description>VOLTTRON™ 10 Module UpdatesVOLTTRON™ 10 Modular Updates: An overview presentation of updates in VOLTTRON™ 10.0.&#xA;VOLTTRON™ Visual Consequence ProfileA visual consequence profile for a hypo-crime adversary.&#xA;Adversary DossierThe dossier summarizes abuse case analysis of VOLTTRON™ within the adversarial context of a cyber-criminal organization.&#xA;VOLTTRON™ Threat Profile - November 2021This Threat Profile provides critical information for making threat-based decisions to increase security at a reasonable cost and to reduce risk. Readers can use the Threat Profile to decide&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

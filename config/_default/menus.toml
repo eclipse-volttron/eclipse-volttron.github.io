@@ -1,0 +1,14 @@
+[[main]]
+    name = "ARCHIVES"
+    weight = 60
+[[main]]
+    parent = "ARCHIVES"
+    name = "PUBLICATIONS"
+    url = "/archives/publications/"
+    weight = 61
+
+[[main]]
+    parent = "ARCHIVES"
+    name = "OFFICE HOURS"
+     url = "/tags/office hours/"
+    weight = 64

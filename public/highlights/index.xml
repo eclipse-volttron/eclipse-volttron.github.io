@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highlights on VOLTTRON</title>
+    <link>http://localhost:1313/highlights/</link>
+    <description>Recent content in Highlights on VOLTTRON</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <atom:link href="http://localhost:1313/highlights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding Value</title>
+      <link>http://localhost:1313/highlights/addsvalue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/addsvalue/</guid>
+      <description>Developer Friendly VOLTTRON™, in field tests and actual applications, adds value by reducing implementation, integration and application development costs, which allows users to devote resources to other needs. Value also comes in results. In power grid- and buildings-related deployments, the platform has delivered energy efficiency improvements.&#xA;VOLTTRON™ value-adding features include: Built-in security, which likely will reduce platform maintenance costs over time Quality results at lower costs—It is open source and runs on low-priced commodity boards ($35 or less), greatly enabling low-cost implementation and maintenance Affordable application development Interoperability, connecting devices, protocols, and other platforms Availability of ongoing engagement and technical assistance provided by the VOLTTRON™ development team—The team holds regular “Office Hours” meetings with users to discuss new features and plans, collaborate and answer questions.</description>
+    </item>
+    <item>
+      <title>Boundless Potential</title>
+      <link>http://localhost:1313/highlights/potential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/potential/</guid>
+      <description>VOLTTRON™ is versatile. Designed initially to improve power grid operations, this technology enables decision-making and solutions for any need that requires collection, management and analysis of data streams. Just use your imagination!&#xA;VOLTTRON™ is:&#xA;Secure Functional, supporting energy, operational and financial transactions between network entities Scalable Interoperable Sophisticated yet simple—providing a readily useful environment for quick, cost-effective solution development. Beyond grid and buildings, potential uses extend to improved interoperability between utility systems and proprietary home energy technologies; cybersecurity applications; data management; product tracking; energy efficiency in non-building disciplines, such as irrigation management; and more.</description>
+    </item>
+    <item>
+      <title>Cost Effective</title>
+      <link>http://localhost:1313/highlights/costeffective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/costeffective/</guid>
+      <description>The VOLTTRON™ software is open source and available to users at no cost. It was designed for small computing devices, such as Raspberry Pi and BeagleBone Black, and the platform itself uses minimal resources. This greatly reduces hardware costs for its deployment.&#xA;Users have found that other characteristics—such as VOLTTRON™’s security, interoperability between different devices, portability and flexibility, and easy application development—underscore the software’s cost-effectiveness and versatility. Reduced implementation costs and cycle time lead to productive solution development.</description>
+    </item>
+    <item>
+      <title>Developer Friendly</title>
+      <link>http://localhost:1313/highlights/developerfriendly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/developerfriendly/</guid>
+      <description>VOLTTRON™ was created as an overarching integration platform to bring together vendors, users and developers, enable rapid application development and testing, and support modern control strategies.&#xA;The platform is a cost and time saver. It is flexible, not linking applications to a specific language; interoperable across vendors and applications; and facilitates easy application development and scale-up.&#xA;These characteristics allow developers to work with devices, external resources, and each other over a common interface without worrying about underlying details, which enhances application development.</description>
+    </item>
+    <item>
+      <title>Interoperable</title>
+      <link>http://localhost:1313/highlights/interoperable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/interoperable/</guid>
+      <description>A successful platform must work across vendors and protocols and provide capabilities to simplify these interactions. VOLTTRON™, open and flexible by design, enables applications written by different organizations to easily and securely talk with both each other and devices being controlled.&#xA;Platform capabilities enable communication with a variety of devices through standard (Modbus, BACnet, etc.) or custom protocols. Also, VOLTTRON™ design eases integration of legacy systems by hiding complexities of device interactions.</description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/highlights/opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/opensource/</guid>
+      <description>VOLTTRON™ software, platform services, and agents are open source and employ a Berkeley Software Distribution-style license, allowing the free distribution and development of the software. The license supports organizations developing proprietary solutions on top of the open-source code.&#xA;The platform’s open-source status helps reduce operation, installation, programming and overall integration costs. Further, VOLTTRON™’s active community of users meets on a regular basis to discuss the technology and contribute improvements and solutions, which helps ensure VOLTTRON™’s ongoing usefulness and value.</description>
+    </item>
+    <item>
+      <title>Scalable</title>
+      <link>http://localhost:1313/highlights/scalable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/scalable/</guid>
+      <description>Users can scale to meet their needs. From horizontal platform-to-platform workloads, or vertical device-to-cloud configurations, VOLTTRON™ provides the necessary scaling flexibility. The technology supports use of small computing boards monitoring several sensors, or it can operate from a server to handle heavy-duty, intensive jobs.</description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/highlights/secure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/secure/</guid>
+      <description>From the beginning, VOLTTRON™ developers actively collaborated with cyber security experts and built security into the technology, rather than “bolting it on” later. The commitment has continued, with developers regularly upgrading features in response to emerging requirements and VOLTTRON™ user feedback.&#xA;The platform applies a threat-model approach for determining software threats and vulnerabilities and how to reasonably reduce the attack surface and/or harm from a compromise. Through established mitigation strategies, VOLTTRON™ addresses a range of possible attack avenues and risks.</description>
+    </item>
+  </channel>
+</rss>

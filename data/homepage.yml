@@ -1,42 +1,83 @@
+
 banner:
-  enable: true
-  image: "images/splash-constelation_1.jpg"
-  contents: "**VOLTTRON:** _Devices | Data | Decisions_"
-#   button:
-#     contents: "Learn More"
-#     url: "#"
+  enable: "true"
+ 
+  contents: "_Devices | Data | Decisions_"
+
+
+
 items:
+
   - type: highlights
-    items_per_row: 3
+    items_per_row: 2
     items:
-    - title: This Is Important
-      icon: fa-paper-plane
+    - title: Developer Friendly
+      icon: fa-laptop
+      content: 
+        VOLTTRON™'s creation benefitted from innovative thinking that looked at today's needs from every angle-and 
+        brought it all together in a versatile solution that's easy to implement and use
+      URL: "highlights/developerfriendly"
+    - title: Cost Effective
+      icon: fa-piggy-bank
+      content: 
+        VOLTTRON™ is open source software, can be hosted on inexpensive computing resources, and enables 
+        rapid delivery of innovations on a range of computing devices
+      URL: "highlights/costeffective"
+    - title: Adds Value
+      icon: fa-gem
+      content:
+        The VOLTTRON™ platform reduces costs, improves functionality, and provides a secure, stable foundation on
+        which to innovate and build low-cost applications
+      URL: "highlights/addsvalue"
+    - title: Secure
+      icon: fa-lock
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+        Underpinned with a robust security foundation, VOLTTRON™ combts today's 
+        cyber vulnerabilities and attacks, providing a safe environment for transacting 
+        information and data
+      URL: "highlights/secure"
+    - title: Interoperable
+      icon: fa-quote-right
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
+        VOLTTRON™ makes it possible for diverse systems and subsytems, in and out of the energy
+        sector, to interact and connect, open and flexible by design
+      URL: "highlights/interoperable"
+    - title: Open Source
       icon: fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Another thing
-      icon: fa-brush
+        VOLTTRON™ is publically availible at no cost and benefits from a community of users
+        that advocate for and advance the software platform's ongoing development
+      URL: "highlights/opensource"
+    - title: Scalable
+      icon:  fa-balance-scale
       content: >
-        This is something I added
+        VOLTTRON™ makes it possible for diverse systems and subsystems, in and out of the energy sector, to interact 
+        and connect
+      URL: "highlights/scalable"
+    - title: Boundless Potential
+      icon: fa-lightbulb
+      content: 
+        For utilities, building owners, entrepreneurs, integrators and others,
+        VOLTTRON™ helps solve your challenges
+      URL: "highlights/potential"
+
+
+
+
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+    heading: Explore More VOLTTRON™ below
+    contents: for more information, explore "MARKET" from the menu 
+    
   - type: posts
     #heading: Recent Posts
     content_type: posts
     max: 4
   - type: cta
-    contents: Are you ready to continue your quest?
     button:
-      contents: Insert Coin
-      url: "#"
+      urlLeft: "https://www.pnnl.gov/"
+      imageLeft: "images/Pnnl100.png"
+
+      urlCentral: "https://www.energy.gov/"
+      imageCentral: "images/doe-logo.png"
+      
+      

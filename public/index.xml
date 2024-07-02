@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on VOLTTRON</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in HOME on VOLTTRON</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABOUT</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>Inexpensive, small-scale computers—such as the Raspberry Pi—can have VOLTTRON™ installed as a controller.&#xA;About VOLTTRON™ VOLTTRON™, developed at Pacific Northwest National Laboratory and available as an open-source tool, provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.&#xA;Business, research and academic communities agree that VOLTTRON™ is an important and versatile resource for improving building system performance and creating a more flexible and reliable power grid.</description>
+    </item>
+    <item>
+      <title>FOR DEVELOPERS</title>
+      <link>http://localhost:1313/developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developers/</guid>
+      <description>It’s versatile and easy to use. VOLTTRON™ provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.&#xA;Applications can readily be developed on top of this open source, distributed sensing and control platform for any need that requires collection, management and analysis of data streams. This includes improving energy efficiency in buildings, monitoring the performance of building systems, supporting grid services, coordinating connected homes, managing data and more.</description>
+    </item>
+    <item>
+      <title>PUBLICATIONS</title>
+      <link>http://localhost:1313/archives/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/publications/</guid>
+      <description>VOLTTRON™ 10 Module UpdatesVOLTTRON™ 10 Modular Updates: An overview presentation of updates in VOLTTRON™ 10.0.&#xA;VOLTTRON™ Visual Consequence ProfileA visual consequence profile for a hypo-crime adversary.&#xA;Adversary DossierThe dossier summarizes abuse case analysis of VOLTTRON™ within the adversarial context of a cyber-criminal organization.&#xA;VOLTTRON™ Threat Profile - November 2021This Threat Profile provides critical information for making threat-based decisions to increase security at a reasonable cost and to reduce risk. Readers can use the Threat Profile to decide&amp;hellip;</description>
+    </item>
+    <item>
+      <title>1</title>
+      <link>http://localhost:1313/tags/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1/</guid>
+      <description>Office Hours - January 5, 2024This office hours has a presentation by Ben Bartling of Slipstream talking about BACPypes3’s features and his use of its scripting capabilities. This discussion feeds directly into the driver working&amp;hellip;&#xA;Office Hours - November 10, 2023This office hours has a demonstration of the 2030.5 agent as well as a discussion of the upcoming VOLTTRON 9.0 release. This is an update to the “monolithic” version of the platform incorporating&amp;hellip;</description>
+    </item>
+    <item>
+      <title>OFFICE HOURS</title>
+      <link>http://localhost:1313/tags/office-hours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/office-hours/</guid>
+      <description>Office Hours - January 5, 2024This office hours has a presentation by Ben Bartling of Slipstream talking about BACPypes3’s features and his use of its scripting capabilities. This discussion feeds directly into the driver working&amp;hellip;&#xA;Office Hours - November 10, 2023This office hours has a demonstration of the 2030.5 agent as well as a discussion of the upcoming VOLTTRON 9.0 release. This is an update to the “monolithic” version of the platform incorporating&amp;hellip;</description>
+    </item>
+    <item>
+      <title>10</title>
+      <link>http://localhost:1313/tags/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/10/</guid>
+      <description>How-to: Installing FNCS Co-simulator on the VOLTTRON PlatformA guide on installing FNCS Co-simulator on the VOLTTRON Platform.&#xA;Office Hour - April 12, 2019A discussion regarding certificate signing request capability in VOLTTRON and what it means for RabbitMQ deployments. The meeting also has a brief update on the WeatherAgent with new features.&#xA;Office Hour - March 15, 2019A discussion of how to analyze and visualize the large amounts of data that VOLTTRON users collect from buildings and devices connected to the platform.</description>
+    </item>
+    <item>
+      <title>11</title>
+      <link>http://localhost:1313/tags/11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/11/</guid>
+      <description>Office Hour - September 14, 2018An ad-hoc discussion with community involvement.&#xA;Intelligent Load Control (ILC)The ILC technology makes it possible for buildings to manage energy consumption to a desired target, providing improved energy efficiency, renewables integration, and grid services.&#xA;Office Hour - August 31, 2018A discussion about the core DevOps agents that are available for managing events in a deployment.&#xA;Office Hour - August 3, 2018A demonstration of the agent template and discussion regarding the community’s requirements for the WeatherAgent.</description>
+    </item>
+    <item>
+      <title>12</title>
+      <link>http://localhost:1313/tags/12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/12/</guid>
+      <description>Office Hour - March 2, 2018An update on the status of the message bus refactor work and discussion of recent fixes in the platform, including an agent lifecycle issue that affects historian caches.&#xA;Office Hour - January 5, 2018An update on the release candidate and a continuing discussion of VOLTTRON™ agent lifecycle and how it can be used. Note: &amp;lsquo;Backup&amp;rsquo; in recording title denotes only the recording format.&#xA;Office Hour - December 22, 2017A discussion of the VOLTTRON™ agent lifecycle and how it can be used.</description>
+    </item>
+    <item>
+      <title>13</title>
+      <link>http://localhost:1313/tags/13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/13/</guid>
+      <description>Office Hour - July 21, 2017Presentation from PNNL researchers about a combined simulation and hardware-in-the-loop demonstration recently conducted as part of the Control of Complex Systems Initiative.&#xA;VOLTTRON™ Overview and CybersecurityVOLTTRON™ developers Bora Akyol and Jereme Haack provide an overview of VOLTTRON™ and cybersecurity features.&#xA;Office Hour - June 23, 2017Examples of how to use the VOLTTRON™ configuration store. Demonstration of alerts and override mechanisms to protect facilities during experiments.</description>
+    </item>
+    <item>
+      <title>14</title>
+      <link>http://localhost:1313/tags/14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/14/</guid>
+      <description>Office Hour - January 6, 2017Kisensum presentation on Charge Point Driver. Tagging Service specification review.&#xA;Office Hour - December 9, 2016Discussion of upcoming updates. Presentation on Tagging Service specification. Demonstration and discussion on driver configuration user interface.&#xA;Office Hour - October 28, 2016VOLTTRON™ 4.0 full release pushed out. Overview of changes in authentication from VOLTTRON™ 3.5 to VOLTTRON™ 4.0 and new Master Driver configurations. Running VOLTTRON™ in the background.</description>
+    </item>
+    <item>
+      <title>2</title>
+      <link>http://localhost:1313/tags/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2/</guid>
+      <description>Office Hour - April 28, 2023This office hours was a live debugging session of the Forwarder Agent showing both how to use this agent and how to debug agents and the platform.&#xA;Office Hour - April 14, 2023This office hours had a quick report back from the Drivers Working Group followed by a presentation of the Heat Recovery Fault Detection and Diagnostic Agent being developed at PNNL.&#xA;Office Hour - February 24, 2023At this office hours there was a review of the development roadmap with the timeline for components being moved to the modular codebase.</description>
+    </item>
+    <item>
+      <title>4</title>
+      <link>http://localhost:1313/tags/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/4/</guid>
+      <description>Office Hour - January 28, 2022We discussed how to create a web agent allowing external tools to interact with the platform as well as how an external tool can interact with the VOLTTRON REST API. Remaining time was for questions.&#xA;Office Hour - January 14, 2022We had a discussion on a potential new way to create agents using Copier (https://copier.readthedocs.io/en/stable/) which would replace the custom template in vcfg. Remaining time was for questions.</description>
+    </item>
+    <item>
+      <title>5</title>
+      <link>http://localhost:1313/tags/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/5/</guid>
+      <description>Office Hour - August 13, 2021This office hour was dedicated to a presentation from Jaime Kolln about SEPA ESI to lead into a discussion of 2030.5, OpenADR, and other options.&#xA;VOLTTRON™ Tutorial - Platform InstallThis tutorial video provides an overview of getting started with the platform.&#xA;Office Hour - July 16, 2021This office hours has a discussion of the changes and features of the upcoming 8.1 release. There is also an update on the upcoming Eclipse VOLTTRON User Meeting Jul21 – 22.</description>
+    </item>
+    <item>
+      <title>6</title>
+      <link>http://localhost:1313/tags/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/6/</guid>
+      <description>Office Hour - February 26, 2021This office hours is an open format with no set agenda. We discuss user&amp;rsquo;s research, ask questions, and talk about unique use cases.&#xA;Office Hour - February 12, 2021At this office hours we cover the upcoming user meeting and security surveys and other short topics. The majority of the time was available for discussion and questions about features, applications.&#xA;Office Hour - January 29, 2021At this office hours we discuss the upcoming promotion of VOLTTRON 8 from RC to full release.</description>
+    </item>
+    <item>
+      <title>7</title>
+      <link>http://localhost:1313/tags/7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/7/</guid>
+      <description>Office Hour - October 9, 2020Today’s office hours will be centered on the Secure Software Capability’s work in analyzing VOLTTRON and its deployments.&#xA;Office Hour - September 25, 2020At today’s office hours we will dive into how to interact with BACnet devices in VOLTTRON.&#xA;Office Hour - September 11, 2020At this office hours we dive into the agent lifecycle and how to add your code during lifecycle events such as startup, shutdown, etc.</description>
+    </item>
+    <item>
+      <title>8</title>
+      <link>http://localhost:1313/tags/8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/8/</guid>
+      <description>Office Hour - March 27, 2020A presentation on the Ecobee driver for connecting to this smart thermostat and as an example of connecting to external services.&#xA;Office Hour - March 13, 2020At today’s office hours PNNL will present a new secure agent user feature. Identified as a high priority mitigation in the Threat Profile analysis, this features allows agents to be run as a separate user.&#xA;Office Hour - February 14, 2020A presentation by Si Chen of the OpenEEMeter: a set of algorithms for doing measurement and verification of energy savings.</description>
+    </item>
+    <item>
+      <title>9</title>
+      <link>http://localhost:1313/tags/9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/9/</guid>
+      <description>Office Hour - September 27, 2019Today’s office hours will provide an overview of the Volttron platform.&#xA;Office Hour - September 13, 2019PNNL&amp;rsquo;s Vikas Chandan discusses a project to gather benchmark datasets for buildings. The remaining time is dedicated to questions and other research updates.&#xA;Office Hour - August 16, 2019Open topic today with an overview of configuring a Modbus driver.&#xA;Office Hour - August 2, 2019An update on the MATLab integration module.</description>
+    </item>
+    <item>
+      <title>3</title>
+      <link>http://localhost:1313/tags/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/3/</guid>
+      <description>Office Hour - August 12, 2022A discussion of the OpenADR service in VOLTTRON and how it can be used to enable agents in the platform to respond to OpenADR signals.&#xA;Office Hour - July 29, 2022A presentation on the Smart Building Startup application developed by Verdicity and PNNL.&#xA;Office Hour - June 17, 2022This open topic office hour included discussion around working with drivers in the IoT space as well as utilizing Grafana with the platform.</description>
+    </item>
+    <item>
+      <title>Adding Value</title>
+      <link>http://localhost:1313/highlights/addsvalue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/addsvalue/</guid>
+      <description>Developer Friendly VOLTTRON™, in field tests and actual applications, adds value by reducing implementation, integration and application development costs, which allows users to devote resources to other needs. Value also comes in results. In power grid- and buildings-related deployments, the platform has delivered energy efficiency improvements.&#xA;VOLTTRON™ value-adding features include: Built-in security, which likely will reduce platform maintenance costs over time Quality results at lower costs—It is open source and runs on low-priced commodity boards ($35 or less), greatly enabling low-cost implementation and maintenance Affordable application development Interoperability, connecting devices, protocols, and other platforms Availability of ongoing engagement and technical assistance provided by the VOLTTRON™ development team—The team holds regular “Office Hours” meetings with users to discuss new features and plans, collaborate and answer questions.</description>
+    </item>
+    <item>
+      <title>Boundless Potential</title>
+      <link>http://localhost:1313/highlights/potential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/potential/</guid>
+      <description>VOLTTRON™ is versatile. Designed initially to improve power grid operations, this technology enables decision-making and solutions for any need that requires collection, management and analysis of data streams. Just use your imagination!&#xA;VOLTTRON™ is:&#xA;Secure Functional, supporting energy, operational and financial transactions between network entities Scalable Interoperable Sophisticated yet simple—providing a readily useful environment for quick, cost-effective solution development. Beyond grid and buildings, potential uses extend to improved interoperability between utility systems and proprietary home energy technologies; cybersecurity applications; data management; product tracking; energy efficiency in non-building disciplines, such as irrigation management; and more.</description>
+    </item>
+    <item>
+      <title>Cost Effective</title>
+      <link>http://localhost:1313/highlights/costeffective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/costeffective/</guid>
+      <description>The VOLTTRON™ software is open source and available to users at no cost. It was designed for small computing devices, such as Raspberry Pi and BeagleBone Black, and the platform itself uses minimal resources. This greatly reduces hardware costs for its deployment.&#xA;Users have found that other characteristics—such as VOLTTRON™’s security, interoperability between different devices, portability and flexibility, and easy application development—underscore the software’s cost-effectiveness and versatility. Reduced implementation costs and cycle time lead to productive solution development.</description>
+    </item>
+    <item>
+      <title>Developer Friendly</title>
+      <link>http://localhost:1313/highlights/developerfriendly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/developerfriendly/</guid>
+      <description>VOLTTRON™ was created as an overarching integration platform to bring together vendors, users and developers, enable rapid application development and testing, and support modern control strategies.&#xA;The platform is a cost and time saver. It is flexible, not linking applications to a specific language; interoperable across vendors and applications; and facilitates easy application development and scale-up.&#xA;These characteristics allow developers to work with devices, external resources, and each other over a common interface without worrying about underlying details, which enhances application development.</description>
+    </item>
+    <item>
+      <title>DOWNLOAD</title>
+      <link>http://localhost:1313/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/download/</guid>
+      <description>VOLTTRONTM is free and open-source, and available for download from GitHub. For more information on how to get VOLTTRON, visit Read the Docs.&#xA;Prior to download, view the license statement on GitHub.</description>
+    </item>
+    <item>
+      <title>Interoperable</title>
+      <link>http://localhost:1313/highlights/interoperable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/interoperable/</guid>
+      <description>A successful platform must work across vendors and protocols and provide capabilities to simplify these interactions. VOLTTRON™, open and flexible by design, enables applications written by different organizations to easily and securely talk with both each other and devices being controlled.&#xA;Platform capabilities enable communication with a variety of devices through standard (Modbus, BACnet, etc.) or custom protocols. Also, VOLTTRON™ design eases integration of legacy systems by hiding complexities of device interactions.</description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/highlights/opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/opensource/</guid>
+      <description>VOLTTRON™ software, platform services, and agents are open source and employ a Berkeley Software Distribution-style license, allowing the free distribution and development of the software. The license supports organizations developing proprietary solutions on top of the open-source code.&#xA;The platform’s open-source status helps reduce operation, installation, programming and overall integration costs. Further, VOLTTRON™’s active community of users meets on a regular basis to discuss the technology and contribute improvements and solutions, which helps ensure VOLTTRON™’s ongoing usefulness and value.</description>
+    </item>
+    <item>
+      <title>Scalable</title>
+      <link>http://localhost:1313/highlights/scalable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/scalable/</guid>
+      <description>Users can scale to meet their needs. From horizontal platform-to-platform workloads, or vertical device-to-cloud configurations, VOLTTRON™ provides the necessary scaling flexibility. The technology supports use of small computing boards monitoring several sensors, or it can operate from a server to handle heavy-duty, intensive jobs.</description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/highlights/secure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/highlights/secure/</guid>
+      <description>From the beginning, VOLTTRON™ developers actively collaborated with cyber security experts and built security into the technology, rather than “bolting it on” later. The commitment has continued, with developers regularly upgrading features in response to emerging requirements and VOLTTRON™ user feedback.&#xA;The platform applies a threat-model approach for determining software threats and vulnerabilities and how to reasonably reduce the attack surface and/or harm from a compromise. Through established mitigation strategies, VOLTTRON™ addresses a range of possible attack avenues and risks.</description>
+    </item>
+    <item>
+      <title>Buildings Operations and Efficiency</title>
+      <link>http://localhost:1313/posts/buildingsoperations/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/buildingsoperations/</guid>
+      <description>VOLTTRON™ capabilities improve control and operation of building devices and systems, leading to enhanced performance and energy efficiency.</description>
+    </item>
+    <item>
+      <title>Connected Homes</title>
+      <link>http://localhost:1313/posts/connectedhomes/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/connectedhomes/</guid>
+      <description>Whether it involves control of thermostats, lighting, hot water or other functions, VOLTTRON™ is a secure solution that can help turn today’s house into tomorrow’s connected home, enabling features that result in improved energy efficiency, cost savings and convenience.</description>
+    </item>
+    <item>
+      <title>Data Management</title>
+      <link>http://localhost:1313/posts/datamanagement/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/datamanagement/</guid>
+      <description>VOLTTRON™, with Modbus and BACnet implementations, enables gathering and dispositioning of data.&#xA;VOLTTRON™ provides a secure way to examine data, reveal useful information and deliver solutions. This technology can readily retrieve data from devices and coordinate analysis, offering analytics firms and other potential users unique opportunities to add value.&#xA;With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.&#xA;Rivers of Data&#xA;Devices of all kinds are producing vast amounts of data every minute of the day, but often the data is not effectively mined for information that could lead to improved knowledge, better processes and, perhaps, more profitable outcomes.</description>
+    </item>
+    <item>
+      <title>Distributed Energy Resources</title>
+      <link>http://localhost:1313/posts/distenergyresources/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/distenergyresources/</guid>
+      <description>VOLTTRON™ generates powerful outcomes for distributed energy resources (DERs), buildings and the grid! The technology enables effective, secure coordination of DERs, including wind and solar generation and battery storage, with building energy loads and the power system. This offers significant new flexibility to the grid and supports large-scale DER integration, benefitting everyone from building owners and managers to power system operators, utilities, energy services providers and consumers.&#xA;With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.</description>
+    </item>
+    <item>
+      <title>Marketplace Solutions</title>
+      <link>http://localhost:1313/posts/marketsolns/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/marketsolns/</guid>
+      <description>Looking for solutions? VOLTTRON™’s virtually limitless potential offers unique opportunities to identify and create a wide range of marketable products and services. Companies or organizations that develop solutions for the marketplace involving data and devices will find much to like about this technology’s design, security and cost-effectiveness.&#xA;With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.&#xA;Use Your Imagination&#xA;VOLTTRON™ is versatile. Designed initially for the power grid, the technology’s potential continues to grow and evolve.</description>
+    </item>
+  </channel>
+</rss>

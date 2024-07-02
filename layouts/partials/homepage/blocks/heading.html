@@ -1,0 +1,13 @@
+<section class="wrapper style3" >
+    <div class="container">
+        <header class="major">
+            <h2 style = "color:white">{{ .item.heading }}</h2>
+            {{- $html := .item.contents | markdownify }}
+            {{- if (findRE "<p(?: [^>]*)?>" $html) }}
+                {{ $html }}
+            {{- else -}}
+                <p style = "color:white">{{ $html }}</p>
+            {{- end }}
+        </header>
+    </div>
+</section>

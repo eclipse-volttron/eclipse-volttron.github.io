@@ -1,0 +1,26 @@
+<section id="cta" class="wrapper style3">
+    <div class="container">
+        <header>
+            <h2>{{ .item.contents | markdownify }}</h2>
+            
+            {{- with .item.button }}
+                <a href="{{ .urlLeft }}" style = "position:relative; right: 500px; top: -20px" >
+                    <img src="{{ .imageLeft | relURL }}">
+                    
+                </a>
+              
+                <a href="{{ .urlCentral }}"  style = "position:relative;top:-15px ;right: 450px">
+                    <img src="{{ .imageCentral | relURL }}"> 
+                </a>
+               
+                
+                <p style = "color:white; left: 150px; margin-top: -100px; margin-left: 100px"> VOLTTRON™ is sponsored by the Department of Energy<br> and Pacific Northwest National Laboratory, 2016.</p> 
+            {{- end }}
+            
+
+            
+            
+        </header>
+    </div>
+</section>
+
