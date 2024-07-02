@@ -12,21 +12,21 @@
     <item>
       <title>Beispiel</title>
       <link>http://localhost:1313/de/tags/beispiel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/tags/beispiel/</guid>
       <description></description>
     </item>
     <item>
       <title>Duis Neque</title>
       <link>http://localhost:1313/de/tags/duis-neque/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/tags/duis-neque/</guid>
       <description></description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
       <link>http://localhost:1313/de/tags/lorem-ipsum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
