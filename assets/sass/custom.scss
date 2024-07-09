@@ -10,17 +10,19 @@
     -webkit-transition-timing-function: ease; 
 } 
     
-    /*change the number below to scale to the appropriate size
+    /*change the number below to scale to the appropriate size*/ 
 .thumbnail:hover { 
     transform: scale(1.1); 
     
 }
 
 * {box-sizing: border-box;}
+/*
 body {font-family: Verdana, sans-serif;}
+*/+
 .mySlides {display: none;}
 img {vertical-align: middle;}
-*/ 
+
 
 
 /* Slideshow container */
