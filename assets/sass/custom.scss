@@ -15,26 +15,7 @@
     transform: scale(1.1); 
     
 }
-.figConfig{
-  display: inline-table;
-  max-width: 20%;
-  margin-right: 50px;
-  margin-bottom: 30px;
 
-  p {
-   font-size: medium;
-   margin-top: -15px;
-   line-height: 100%;
-   max-width:80%;
-   text-align: center;
-  }
-
-
-}
-
-.figConfig h4 {
-  line-height: 100%;
-}
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
@@ -97,42 +78,46 @@ img {vertical-align: middle;}
 
 
 .figConfigpdf{
-    display: inline-table;
-    max-width: 20%;
-    margin-right: 50px;
+  display: inline-table;
+  max-width: 20%;
+  margin-right: 50px;
 
-    p {
-     font-size: medium;
-     margin-top: -15px;
-     line-height: 100%;
-    }
- 
- 
+  p {
+   font-size: medium;
+   margin-top: -15px;
+   line-height: 100%;
+  }
+
+
 }
 
 .figConfigpdf h4 {
-    line-height: 100%;
+  line-height: 100%;
 }
 
 .figConfig{
-    display: inline-table;
-    max-width: 20%;
-    margin-right: 50px;
+  display: inline-table;
+  max-width: 20%;
+  margin-right: 50px;
 
-    p {
-     font-size: medium;
-     margin-top: -15px;
-     line-height: 100%;
-    }
- 
- 
+  p {
+   font-size: medium;
+   margin-top: -15px;
+   line-height: 100%;
+  }
+
+
 }
 
 .figConfig img {
-    max-width: 380px;
-    min-width: 380px;
+  max-width: 380px;
+  min-width: 380px;
 }
 
+
+.figConfig h4 {
+  line-height: 100%;
+}
 
 .figConfig h4 {
     line-height: 100%;
