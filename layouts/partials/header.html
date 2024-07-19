@@ -9,7 +9,7 @@
         
     </a></h1></div>
 
-    <nav id="nav" style = "background-color: black;">
+    <nav id="nav" >
         <ul>
             {{- range .Site.Menus.main }}
                 <li class="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}current{{ end }}">

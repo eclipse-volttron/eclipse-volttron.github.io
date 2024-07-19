@@ -164,13 +164,6 @@
       <description>VOLTTRON™ was created as an overarching integration platform to bring together vendors, users and developers, enable rapid application development and testing, and support modern control strategies.&#xA;The platform is a cost and time saver. It is flexible, not linking applications to a specific language; interoperable across vendors and applications; and facilitates easy application development and scale-up.&#xA;These characteristics allow developers to work with devices, external resources, and each other over a common interface without worrying about underlying details, which enhances application development.</description>
     </item>
     <item>
-      <title>DOWNLOAD</title>
-      <link>http://localhost:1313/download/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/download/</guid>
-      <description>VOLTTRONTM is free and open-source, and available for download from GitHub. For more information on how to get VOLTTRON, visit Read the Docs.&#xA;Prior to download, view the license statement on GitHub.</description>
-    </item>
-    <item>
       <title>Interoperable</title>
       <link>http://localhost:1313/highlights/interoperable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
