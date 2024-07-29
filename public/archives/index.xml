@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/archives/publications/</guid>
       <description>VOLTTRON™ 10 Module UpdatesVOLTTRON™ 10 Modular Updates: An overview presentation of updates in VOLTTRON™ 10.0.&#xA;VOLTTRON™ Visual Consequence ProfileA visual consequence profile for a hypo-crime adversary.&#xA;Adversary DossierThe dossier summarizes abuse case analysis of VOLTTRON™ within the adversarial context of a cyber-criminal organization.&#xA;VOLTTRON™ Threat Profile - November 2021This Threat Profile provides critical information for making threat-based decisions to increase security at a reasonable cost and to reduce risk. Readers can use the Threat Profile to decide&amp;hellip;</description>
     </item>
+    <item>
+      <title>QUOTES</title>
+      <link>http://localhost:1313/archives/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/quotes/</guid>
+      <description>&amp;quot;ACE IoT Solutions utilizes Eclipse VOLTTRON, a cost-effective open-source platform as a key part of ACE Aerodrome, a data collection, management, and visualization platform. Utilizing ACE Aerodrome, customers acquire, process, store, and analyze data to meet their energy efficiency and building operation optimization objectives. ACE IoT’s current customers range from hospitals, office buildings and schools to multi-family residential buildings, smart greenhouses and even an MLB stadium. PNNL’s FY25 priorities for Eclipse VOLTTRON, including the development of enhanced tooling for deploying the modularized code base with additional utility signal integration will help streamline deployment and management of ACE Aerodrome and expand the viable deployment environments to include medium and smaller-sized buildings – a critical objective on the way to achieving the DoE’s 2050 decarbonization goals.</description>
+    </item>
   </channel>
 </rss>

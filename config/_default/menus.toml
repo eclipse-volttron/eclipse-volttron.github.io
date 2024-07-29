@@ -9,6 +9,11 @@
 
 [[main]]
     parent = "ARCHIVES"
-    name = "OFFICE HOURS"
-     url = "/tags/office hours/"
+    name = "PLAYLISTS"
+     url = "/tags/playlists/"
     weight = 64
+[[main]]
+    parent = "ARCHIVES"
+    name = "QUOTES"
+     url = "/archives/quotes/"
+    weight = 65

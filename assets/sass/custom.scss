@@ -45,20 +45,24 @@ img {vertical-align: middle;}
   max-width: 100%;
   position: relative;
   margin: auto;
-  z-index: -1;
  text-align: center;
- 
+  img{
+    width: 100vw;
+    height: 30vw;
+  }
+
   
 }
+
 
 /* Caption text */
 .text {
   position: absolute;
-  top: 10%;
+  top: 20%;
   left: 10%;
   right: 10%;
-  font-size: 1.3vw;
-  line-height: 2.2vw;
+  font-size: 1.8vw;
+  line-height: 2.6vw;
   color:white;
   text-shadow: 2px 2px 0px black;
 }
@@ -99,22 +103,30 @@ img {vertical-align: middle;}
     display: inline-table;
     max-width: 2vw;
     margin-right: 4vw;
-
-   
- 
+    h4 {
+      font-size: 1vw;
+      font-size: 1vw; 
+      line-height: 1.3vw; 
+      margin-bottom: 2vw;
+      text-align:left;
+      max-width: 100%;
+      color:black;
+  
+       
+     }
  
 }
 .figConfigpdf figcaption{
   position:relative;
   p {
-    font-size: medium;
-    margin-top: 0.5vw;
-    line-height: 100%;
+    font-size: 1vw; 
+    line-height: 1.3vw; 
+    margin-bottom: 2vw;
+    text-align:left;
+    max-width: 100%;
+    color:black;
    }
-   h4 {
-    transform: translate(0%, 0%);
-     
-   }
+
 }
 
 
@@ -313,5 +325,15 @@ header {
           font-size: 1.5em;
           letter-spacing: -0.025em;
       }
+  }
+}
+
+iframe {
+  
+  margin-right: 2vw;
+  margin-bottom: 3vw;
+
+  p{
+    font-size: small;
   }
 }

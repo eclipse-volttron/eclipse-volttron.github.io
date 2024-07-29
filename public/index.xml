@@ -35,14 +35,21 @@
       <link>http://localhost:1313/tags/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/1/</guid>
-      <description>Office Hours - January 5, 2024This office hours has a presentation by Ben Bartling of Slipstream talking about BACPypes3’s features and his use of its scripting capabilities. This discussion feeds directly into the driver working&amp;hellip;&#xA;Office Hours - November 10, 2023This office hours has a demonstration of the 2030.5 agent as well as a discussion of the upcoming VOLTTRON 9.0 release. This is an update to the “monolithic” version of the platform incorporating&amp;hellip;</description>
+      <description>&#xD;</description>
     </item>
     <item>
-      <title>OFFICE HOURS</title>
-      <link>http://localhost:1313/tags/office-hours/</link>
+      <title>PLAYLISTS</title>
+      <link>http://localhost:1313/tags/playlists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/office-hours/</guid>
-      <description>Office Hours - January 5, 2024This office hours has a presentation by Ben Bartling of Slipstream talking about BACPypes3’s features and his use of its scripting capabilities. This discussion feeds directly into the driver working&amp;hellip;&#xA;Office Hours - November 10, 2023This office hours has a demonstration of the 2030.5 agent as well as a discussion of the upcoming VOLTTRON 9.0 release. This is an update to the “monolithic” version of the platform incorporating&amp;hellip;</description>
+      <guid>http://localhost:1313/tags/playlists/</guid>
+      <description>&#xD;</description>
+    </item>
+    <item>
+      <title>QUOTES</title>
+      <link>http://localhost:1313/archives/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/quotes/</guid>
+      <description>&amp;quot;ACE IoT Solutions utilizes Eclipse VOLTTRON, a cost-effective open-source platform as a key part of ACE Aerodrome, a data collection, management, and visualization platform. Utilizing ACE Aerodrome, customers acquire, process, store, and analyze data to meet their energy efficiency and building operation optimization objectives. ACE IoT’s current customers range from hospitals, office buildings and schools to multi-family residential buildings, smart greenhouses and even an MLB stadium. PNNL’s FY25 priorities for Eclipse VOLTTRON, including the development of enhanced tooling for deploying the modularized code base with additional utility signal integration will help streamline deployment and management of ACE Aerodrome and expand the viable deployment environments to include medium and smaller-sized buildings – a critical objective on the way to achieving the DoE’s 2050 decarbonization goals.</description>
     </item>
     <item>
       <title>10</title>
@@ -87,6 +94,13 @@
       <description>Office Hour - April 28, 2023This office hours was a live debugging session of the Forwarder Agent showing both how to use this agent and how to debug agents and the platform.&#xA;Office Hour - April 14, 2023This office hours had a quick report back from the Drivers Working Group followed by a presentation of the Heat Recovery Fault Detection and Diagnostic Agent being developed at PNNL.&#xA;Office Hour - February 24, 2023At this office hours there was a review of the development roadmap with the timeline for components being moved to the modular codebase.</description>
     </item>
     <item>
+      <title>3</title>
+      <link>http://localhost:1313/tags/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/3/</guid>
+      <description>Office Hour - August 12, 2022A discussion of the OpenADR service in VOLTTRON and how it can be used to enable agents in the platform to respond to OpenADR signals.&#xA;Office Hour - July 29, 2022A presentation on the Smart Building Startup application developed by Verdicity and PNNL.&#xA;Office Hour - June 17, 2022This open topic office hour included discussion around working with drivers in the IoT space as well as utilizing Grafana with the platform.</description>
+    </item>
+    <item>
       <title>4</title>
       <link>http://localhost:1313/tags/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -127,13 +141,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/9/</guid>
       <description>Office Hour - September 27, 2019Today’s office hours will provide an overview of the Volttron platform.&#xA;Office Hour - September 13, 2019PNNL&amp;rsquo;s Vikas Chandan discusses a project to gather benchmark datasets for buildings. The remaining time is dedicated to questions and other research updates.&#xA;Office Hour - August 16, 2019Open topic today with an overview of configuring a Modbus driver.&#xA;Office Hour - August 2, 2019An update on the MATLab integration module.</description>
-    </item>
-    <item>
-      <title>3</title>
-      <link>http://localhost:1313/tags/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/3/</guid>
-      <description>Office Hour - August 12, 2022A discussion of the OpenADR service in VOLTTRON and how it can be used to enable agents in the platform to respond to OpenADR signals.&#xA;Office Hour - July 29, 2022A presentation on the Smart Building Startup application developed by Verdicity and PNNL.&#xA;Office Hour - June 17, 2022This open topic office hour included discussion around working with drivers in the IoT space as well as utilizing Grafana with the platform.</description>
     </item>
     <item>
       <title>Adding Value</title>
