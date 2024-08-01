@@ -34,27 +34,27 @@ supportive community have allowed EPRI researchers to efficiently and affordably
 research. Although EPRI’s current use cases (energy storage system controls) are not technically within Volttron’s  smart building automation scope, the tool has proven more than capable in these contexts <b>"</b>  
 &mdash;&nbsp; <b>Joe Thompson, Technical Leader, Electric Power Research Institute</b>
 
-&nbsp;&nbsp; <b>"</b>The open source component of VOLTTRON™ is revolutionary; it gives many residential and small commercial
+&nbsp;&nbsp; <b>"</b>The open source component of Eclipse VOLTTRON is revolutionary; it gives many residential and small commercial
 buildings a chance to be smart, while allowing all of us to contribute to the technology.<b>"</b>  
 &mdash;&nbsp; <b>Da-Wei Huang City University of New York</b>
 
 
 
-&nbsp;&nbsp;  <b>"</b>Instead of using a commercial occupancy sensor, we built a driver in VOLTTRON™ to connect a $2 motion sensor. We estimate our low-cost VOLTTRON™ solution can save 20% on energy and make building occupants much more comfortable.<b>"</b>  
+&nbsp;&nbsp;  <b>"</b>Instead of using a commercial occupancy sensor, we built a driver in Eclipse VOLTTRON to connect a $2 motion sensor. We estimate our low-cost Eclipse VOLTTRON solution can save 20% on energy and make building occupants much more comfortable.<b>"</b>  
 &mdash;&nbsp; <b>Lourdes Gutierrez Rochester Institute of Technology</b>
 
-&nbsp;&nbsp;  <b>"</b>Instead of using a commercial occupancy sensor, we built a driver in VOLTTRON™ to connect a $2 motion sensor. We estimate our low-cost VOLTTRON™ solution can save 20% on energy and make building occupants much more comfortable.<b>"</b>  
+&nbsp;&nbsp;  <b>"</b>Instead of using a commercial occupancy sensor, we built a driver in Eclipse VOLTTRON to connect a $2 motion sensor. We estimate our low-cost Eclipse VOLTTRON solution can save 20% on energy and make building occupants much more comfortable.<b>"</b>  
 &mdash;&nbsp; <b>Lourdes Gutierrez Rochester Institute of Technology</b>
 
-&nbsp;&nbsp;  <b>"</b>We're working to deploy VOLTTRON™ in a big way in buildings, where it will collect and send building automation system data to the cloud for further analysis in order to optimize building system operations. <b>"</b>  
+&nbsp;&nbsp;  <b>"</b>We're working to deploy Eclipse VOLTTRON in a big way in buildings, where it will collect and send building automation system data to the cloud for further analysis in order to optimize building system operations. <b>"</b>  
 &mdash;&nbsp; <b>Terry Herr, President Intellimation</b>
 
 
-&nbsp;&nbsp;  <b>"</b>We think VOLTTRON™ can play a large role as a middleware platform for enabling smart-energy-analytics. <b>"</b>  
+&nbsp;&nbsp;  <b>"</b>We think Eclipse VOLTTRON can play a large role as a middleware platform for enabling smart-energy-analytics. <b>"</b>  
 &mdash;&nbsp; <b>Terry Herr, President Intellimation</b>
 
 
-&nbsp;&nbsp;  <b>"</b>VOLTTRON™ is an elegant and robust system for developing lightweight, deployable solutions for the Building Energy field..<b>"</b>  
+&nbsp;&nbsp;  <b>"</b>Eclipse VOLTTRON is an elegant and robust system for developing lightweight, deployable solutions for the Building Energy field..<b>"</b>  
 &mdash;&nbsp; <b>Tyrone Kirk Shillingford City University of New</b>
 
 

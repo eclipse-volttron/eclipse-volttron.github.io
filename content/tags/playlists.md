@@ -4,6 +4,32 @@ menu: archives
 weight: 42
 
 ---
-<iframe width ="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjppF6aEwGiJX0X1wHs5k87LXy-biQYb9&rel=0&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen></iframe>
+
+<figure class="PlaylistFig">
+    <iframe style="width: 35vw; height: 20vw;" src="https://www.youtube.com/embed/videoseries?si=gkeRZTTj35HCGcVH&amp;list=PLcXiOt7TUA7OfnOlFhZP8GDSmDLncn1Af" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen ></iframe>
+    <h4>Video Playlist Title</h4>
+    <p>Video Description with multiple lines that stay within the area of the videos</p>
+</figure>
+
+<figure class="PlaylistFig" style=" margin-left: 4vw">
+<iframe style="width: 35vw; height: 20vw;" src="https://www.youtube.com/embed/videoseries?si=gkeRZTTj35HCGcVH&amp;list=PLcXiOt7TUA7OfnOlFhZP8GDSmDLncn1Af" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen>
+</iframe>
+    <h4>Video Playlist Title</h4>
+    <p>Video Description with multiple lines that stay within the area of the videos more information more information more information more information more information more information </p>
+</figure>
+
+<figure class="PlaylistFig" >
+<iframe style="width: 35vw; height: 20vw;" src="https://www.youtube.com/embed/videoseries?si=gkeRZTTj35HCGcVH&amp;list=PLcXiOt7TUA7OfnOlFhZP8GDSmDLncn1Af" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen>
+</iframe>
+    <h4>Video Playlist Title</h4>
+    <p>Video Description with multiple lines that stay within the area of the videos</p>
+</figure>
+<figure class="PlaylistFig" style=" margin-left: 4vw">
+<iframe style="width: 35vw; height: 20vw;" src="https://www.youtube.com/embed/videoseries?si=gkeRZTTj35HCGcVH&amp;list=PLcXiOt7TUA7OfnOlFhZP8GDSmDLncn1Af" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen>
+</iframe>
+    <h4>Video Playlist Title</h4>
+    <p>Video Description with multiple lines that stay within the area of the videos</p>
+</figure>
+
 
 
