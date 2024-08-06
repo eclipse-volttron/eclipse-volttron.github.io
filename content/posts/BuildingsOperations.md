@@ -2,6 +2,7 @@
 title: Buildings Operations and Efficiency
 image: images/MarketsImages/BuildingImageMarkets2.png
 date: "2020-01-06T00:00:00"
+description: Eclipse VOLTTRON capabilities improve control and operation of building devices and systems, leading to enhanced performance and energy efficiency.
 sidebar_left: BuildingsOperationsLeft
 sidebar_right: BuildingsOperationsRight
 summary: Eclipse VOLTTRON capabilities improve control and operation of building devices and systems, leading to enhanced performance and energy efficiency.
@@ -22,4 +23,4 @@ Homes and buildings use a lot of energy, often inefficiently. The federal govern
 
 **The Answer for Improved Performance and Efficiency**
 
-The Eclipse VOLTTRON software platform and associated V-agent applications perform monitoring, data collection and analysis in devices and building systems, producing actionable information that streamlines control and implementation of energy- and cost-saving measures.
+The Eclipse VOLTTRON software platform and associated applications perform monitoring, data collection and analysis in devices and building systems, producing actionable information that streamlines control and implementation of energy- and cost-saving measures.

@@ -9,8 +9,10 @@ summary: Whether it involves control of thermostats, lighting, hot water or othe
 
 ---
  Connecting the power system and utilities with the functions that improve home livability, Eclipse VOLTTRON plays a key role in helping to manage wiser, more efficient use of energy resources.  
+
+ ### Bringing home the savings!
  
- **Bringing home the savings!** Connected home devices—such as smart appliances and security systems—are projected to grow their market share significantly to reach $490 billion in 2019. However, many smart technologies lack connections to their community and the power grid.
+  Connected home devices—such as smart appliances and security systems—are projected to grow their market share significantly. However, many smart technologies lack connections to their community and the power grid.
 
 Truly connected smart homes should not only benefit their occupants, they should also benefit the community as a whole by helping strengthen the grid and by building a more resilient and reliable utility network. Eclipse VOLTTRON makes this possible.
 
