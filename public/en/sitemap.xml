@@ -27,6 +27,8 @@
   </url><url>
     <loc>http://localhost:1313/developers/</loc>
   </url><url>
+    <loc>http://localhost:1313/archives/accomplishments/</loc>
+  </url><url>
     <loc>http://localhost:1313/archives/publications/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/playlists/</loc>
@@ -49,10 +51,10 @@
   </url><url>
     <loc>http://localhost:1313/highlights/secure/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/buildingsoperations/</loc>
+    <loc>http://localhost:1313/posts/connectedhomes/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/connectedhomes/</loc>
+    <loc>http://localhost:1313/posts/buildingsoperations/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/datamanagement/</loc>

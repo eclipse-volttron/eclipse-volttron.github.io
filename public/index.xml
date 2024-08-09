@@ -24,6 +24,13 @@
       <description>It’s versatile and easy to use. VOLTTRON™ provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.&#xA;Applications can readily be developed on top of this open source, distributed sensing and control platform for any need that requires collection, management and analysis of data streams. This includes improving energy efficiency in buildings, monitoring the performance of building systems, supporting grid services, coordinating connected homes, managing data and more.</description>
     </item>
     <item>
+      <title>ACCOMPLISHMENTS</title>
+      <link>http://localhost:1313/archives/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/accomplishments/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>PUBLICATIONS</title>
       <link>http://localhost:1313/archives/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,18 +108,18 @@
       <description>From the beginning, Eclipse VOLTTRON developers actively collaborated with cyber security experts and built security into the technology, rather than “bolting it on” later. The commitment has continued, with developers regularly upgrading features in response to emerging requirements and Eclipse VOLTTRON user feedback.&#xA;The platform applies a threat-model approach for determining software threats and vulnerabilities and how to reasonably reduce the attack surface and/or harm from a compromise. Through established mitigation strategies, Eclipse VOLTTRON addresses a range of possible attack avenues and risks.</description>
     </item>
     <item>
-      <title>Buildings Operations and Efficiency</title>
-      <link>http://localhost:1313/posts/buildingsoperations/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/buildingsoperations/</guid>
-      <description>Eclipse VOLTTRON capabilities improve control and operation of building devices and systems, leading to enhanced performance and energy efficiency.</description>
-    </item>
-    <item>
-      <title>Connected Homes</title>
+      <title>Connecting Home Appliances</title>
       <link>http://localhost:1313/posts/connectedhomes/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/connectedhomes/</guid>
       <description>Whether it involves control of thermostats, lighting, hot water or other functions, Eclipse VOLTTRON is a secure solution that can help turn today’s house into tomorrow’s connected home, enabling features that result in improved energy efficiency, cost savings and convenience.</description>
+    </item>
+    <item>
+      <title>Giving Control to SMBs</title>
+      <link>http://localhost:1313/posts/buildingsoperations/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/buildingsoperations/</guid>
+      <description>Eclipse VOLTTRON capabilities improve control and operation of building devices and systems, leading to enhanced performance and energy efficiency.</description>
     </item>
     <item>
       <title>Data Management</title>
@@ -129,11 +136,11 @@
       <description>Eclipse VOLTTRON generates powerful outcomes for distributed energy resources (DERs), buildings and the grid! The technology enables effective, secure coordination of DERs, including wind and solar generation and battery storage, with building energy loads and the power system. This offers significant new flexibility to the grid and supports large-scale DER integration, benefitting everyone from building owners and managers to power system operators, utilities, energy services providers and consumers.&#xA;With Eclipse VOLTTRON, data, devices and decisions connect seamlessly and securely based on user needs and preferences.</description>
     </item>
     <item>
-      <title>Marketplace Solutions</title>
+      <title>Getting Intelligent with the Grid</title>
       <link>http://localhost:1313/posts/marketsolns/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/marketsolns/</guid>
-      <description>Looking for solutions? Eclipse VOLTTRON’s virtually limitless potential offers unique opportunities to identify and create a wide range of marketable products and services. Companies or organizations that develop solutions for the marketplace involving data and devices will find much to like about this technology’s design, security and cost-effectiveness.&#xA;With Eclipse VOLTTRON, data, devices and decisions connect seamlessly and securely based on user needs and preferences.&#xA;Use Your Imagination&#xA;Eclipse VOLTTRON is versatile.</description>
+      <description>ILC was created as part of the PNNL-led Clean Energy and Transactive Campus project, an effort initially funded by the Department of Energy (DOE) and Washington State. ILC offers three primary buildings-grid capabilities: capacity bidding, which incentivizes targeted consumption reductions; transactive energy methods for enabling a rapid negotiation process between buildings and the grid; and peak power load management.&#xA;Impact: The technology’s peak power load management capability has rapidly dropped electricity demand in buildings by 10 to 20 percent, reducing grid stress while maintaining occupant comfort within an acceptable range.</description>
     </item>
   </channel>
 </rss>
