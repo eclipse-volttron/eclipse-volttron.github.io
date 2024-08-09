@@ -14,58 +14,58 @@ items:
     - title: Developer Friendly
       icon: fa-laptop
       content: 
-        VOLTTRON™'s creation benefitted from innovative thinking that looked at today's needs from every angle-and 
+        Eclipse VOLTTRON's creation benefitted from innovative thinking that looked at today's needs from every angle-and 
         brought it all together in a versatile solution that's easy to implement and use
       URL: "highlights/developerfriendly"
     - title: Cost Effective
       icon: fa-piggy-bank
       content: 
-        VOLTTRON™ is open source software, can be hosted on inexpensive computing resources, and enables 
+        Eclipse VOLTTRON is open source software, can be hosted on inexpensive computing resources, and enables 
         rapid delivery of innovations on a range of computing devices
       URL: "highlights/costeffective"
     - title: Adds Value
       icon: fa-gem
       content:
-        The VOLTTRON™ platform reduces costs, improves functionality, and provides a secure, stable foundation on
+        The Eclipse VOLTTRON platform reduces costs, improves functionality, and provides a secure, stable foundation on
         which to innovate and build low-cost applications
       URL: "highlights/addsvalue"
     - title: Secure
       icon: fa-lock
       content: >
-        Underpinned with a robust security foundation, VOLTTRON™ combts today's 
+        Underpinned with a robust security foundation, Eclipse VOLTTRON combts today's 
         cyber vulnerabilities and attacks, providing a safe environment for transacting 
         information and data
       URL: "highlights/secure"
     - title: Interoperable
       icon: fa-quote-right
       content: >
-        VOLTTRON™ makes it possible for diverse systems and subsytems, in and out of the energy
+        Eclipse VOLTTRON makes it possible for diverse systems and subsytems, in and out of the energy
         sector, to interact and connect, open and flexible by design
       URL: "highlights/interoperable"
     - title: Open Source
       icon: fa-wrench
       content: >
-        VOLTTRON™ is publically availible at no cost and benefits from a community of users
+        Eclipse VOLTTRON is publically availible at no cost and benefits from a community of users
         that advocate for and advance the software platform's ongoing development
       URL: "highlights/opensource"
     - title: Scalable
       icon:  fa-balance-scale
       content: >
-        VOLTTRON™ makes it possible for diverse systems and subsystems, in and out of the energy sector, to interact 
+        Eclipse VOLTTRON makes it possible for diverse systems and subsystems, in and out of the energy sector, to interact 
         and connect
       URL: "highlights/scalable"
     - title: Boundless Potential
       icon: fa-lightbulb
       content: 
         For utilities, building owners, entrepreneurs, integrators and others,
-        VOLTTRON™ helps solve your challenges
+        Eclipse VOLTTRON helps solve your challenges
       URL: "highlights/potential"
 
 
 
 
   - type: heading
-    heading: Explore More VOLTTRON™ below
+    heading: Explore More Eclipse VOLTTRON below
     contents: for more information, explore "MARKET" from the menu 
     
   - type: posts

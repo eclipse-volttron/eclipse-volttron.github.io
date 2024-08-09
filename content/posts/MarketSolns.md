@@ -1,24 +1,12 @@
 ---
-title: Marketplace Solutions
+title: Getting Intelligent with the Grid
 
-Description: VOLTTRON™ provides a flexible and secure open-source platform for molding solutions in any field involving devices, data and decisions.
-image: images/MarketsImages/marketSlns.jpg
+Description: Eclipse VOLTTRON provides a flexible and secure open-source platform for molding solutions in any field involving devices, data and decisions.
+image: images/voltdeploy.png
 date: "2020-01-04T00:00:00"
 sidebar_left: MarketSlnLeft
 sidebar_right: MarketSlnRight
 ---
-**Looking for solutions?** VOLTTRON™’s virtually limitless potential offers unique opportunities to identify and create a wide range of marketable products and services. Companies or organizations that develop solutions for the marketplace involving data and devices will find much to like about this technology’s design, security and cost-effectiveness.  
+ILC was created as part of the PNNL-led Clean Energy and Transactive Campus project, an effort initially funded by the Department of Energy (DOE) and Washington State. ILC offers three primary buildings-grid capabilities: capacity bidding, which incentivizes targeted consumption reductions; transactive energy methods for enabling a rapid negotiation process between buildings and the grid; and peak power load management.
 
-With VOLTTRON™, data, devices and decisions connect seamlessly and securely based on user needs and preferences.
-
-**Use Your Imagination**
-
-VOLTTRON™ is versatile. Designed initially for the power grid, the technology’s potential continues to grow and evolve. Examples of existing and potential markets include:
-
-* Building Operations and Efficiency
-* Distributed Energy Resources
-* Connected Homes
-* Data Management
-* Cybersecurity
-* Industrial Processes
-* Environmental/Climate Monitoring.
+**Impact**: The technology’s peak power load management capability has rapidly dropped electricity demand in buildings by 10 to 20 percent, reducing grid stress while maintaining occupant comfort within an acceptable range. ILC has been successfully deployed in multiple buildings at PNNL, at the University of Toledo, in two Washington, D.C. commercial buildings, and will be central to two DOE Connected Communities projects in 2024. 

@@ -3,7 +3,7 @@ title: "FOR DEVELOPERS"
 description: "Welcome to VOLTTRON™"
 menu: main
 weight: 40
-image: images/DevelopersImage.jfif
+image: images/MarketsImages/DevelopersImage.png 
 image_alt: "Hello!"
 
 sidebar_left: DevelopersLeft
