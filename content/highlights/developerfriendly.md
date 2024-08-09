@@ -10,7 +10,7 @@ sidebar_left: developerSide
 
 ---
 
-VOLTTRON™ was created as an overarching integration platform to bring together vendors, users and developers, enable rapid application development and testing, and support modern control strategies.
+Eclipse VOLTTRON was created as an overarching integration platform to bring together vendors, users and developers, enable rapid application development and testing, and support modern control strategies.
 
 The platform is a cost and time saver. It is flexible, not linking applications to a specific language; interoperable across vendors and applications; and facilitates easy application development and scale-up.
 
