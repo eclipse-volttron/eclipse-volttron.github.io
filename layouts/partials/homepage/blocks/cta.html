@@ -4,17 +4,18 @@
             <h2>{{ .item.contents | markdownify }}</h2>
             
             {{- with .item.button }}
-                <a href="{{ .urlLeft }}" style = "position:relative; right: 500px; top: -20px" >
-                    <img src="{{ .imageLeft | relURL }}">
+                <a href="{{ .urlLeft }}"  class ="imageLink">
+                    <img src="{{ .imageLeft | relURL }}" style = "max-width: 12vw;">
                     
                 </a>
               
-                <a href="{{ .urlCentral }}"  style = "position:relative;top:-15px ;right: 450px">
-                    <img src="{{ .imageCentral | relURL }}"> 
+                <a href="{{ .urlCentral }}"  class = "imageLink" style = "right: 30vw">
+                    <img src="{{ .imageCentral | relURL }}" style = "max-width: 12vw;"> 
+
                 </a>
                
                 
-                <p style = "color:white; left: 150px; margin-top: -100px; margin-left: 100px"> Eclipse VOLTTRON is sponsored by the Department of Energy<br> and Pacific Northwest National Laboratory, 2016.</p> 
+                <p > Eclipse VOLTTRON is sponsored by the Department of Energy<br> and Pacific Northwest National Laboratory, 2024.</p> 
             {{- end }}
             
 

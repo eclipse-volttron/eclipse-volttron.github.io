@@ -9,7 +9,7 @@ sidebar_left: DMLeft
 Eclipse VOLTTRON, with Modbus and BACnet implementations, enables gathering and dispositioning of data.
 
 
-**Eclipse VOLTTRON provides a secure way to examine data, reveal useful information and deliver solutions.** This technology can readily retrieve data from devices and coordinate analysis, offering analytics firms and other potential users unique opportunities to add value.  
+Eclipse VOLTTRON provides a secure way to examine data, reveal useful information and deliver solutions. This technology can readily retrieve data from devices and coordinate analysis, offering analytics firms and other potential users unique opportunities to add value.  
 
 With Eclipse VOLTTRON, data, devices and decisions connect seamlessly and securely based on user needs and preferences.
 

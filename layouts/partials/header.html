@@ -1,7 +1,5 @@
 <div id="header" style = "background-image:url('{{ absURL "images/temp-image.jpg" }}'); background-size: cover;">
-    {{ if .Site.IsMultiLingual }}
-        {{- partial "languages.html" . }}
-    {{- end -}}
+
     <div id="logo-wrapper"><h1><a href="{{ .Site.BaseURL }}" >
        
         <img src='{{ absURL "images/logo-tagline.png" }}' alt="{{ .Site.Data.globalheader.image_alt }}" style="position:relative; max-width: 30%"/>
@@ -9,7 +7,7 @@
         
     </a></h1></div>
 
-    <nav id="nav" style = "background-color: black;">
+    <nav id="nav" >
         <ul>
             {{- range .Site.Menus.main }}
                 <li class="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}current{{ end }}">

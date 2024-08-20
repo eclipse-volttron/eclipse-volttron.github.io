@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/about/</guid>
-      <description>Inexpensive, small-scale computers—such as the Raspberry Pi—can have VOLTTRON™ installed as a controller.&#xA;About VOLTTRON™ VOLTTRON™, developed at Pacific Northwest National Laboratory and available as an open-source tool, provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.&#xA;Business, research and academic communities agree that VOLTTRON™ is an important and versatile resource for improving building system performance and creating a more flexible and reliable power grid.</description>
+      <description>Inexpensive, small-scale computers—such as the Raspberry Pi—can have Eclipse VOLTTRON installed as a controller.&#xA;About Eclipse VOLTTRON Eclipse VOLTTRON, developed at Pacific Northwest National Laboratory and available as an open-source tool, provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.&#xA;Business, research and academic communities agree that Eclipse VOLTTRON is an important and versatile resource for improving building system performance and creating a more flexible and reliable power grid.</description>
     </item>
   </channel>
 </rss>
