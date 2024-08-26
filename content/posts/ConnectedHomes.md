@@ -15,10 +15,8 @@ PNNL is introducing technologies, including Eclipse VOLTTRON, Intelligent Load C
 <!-- 
 “Connecting” Home Appliances
 
-Eclipse VOLTTRON and associated algorithms were applied in a project that effectively transformed existing home heating and cooling units and hot water heaters into smart appliances that can coordinate with the grid. Read More.
+Eclipse VOLTTRON and associated algorithms were applied in a project that effectively transformed existing home heating and cooling units and hot water heaters into smart appliances that can coordinate with the grid. Read More.-->
 
-The Pacific Northwest National Laboratory-developed technology enables the heating and cooling units and hot water heaters to manage their electricity use in ways that help the grid coordinate supply and demand, while also enabling occupant cost and comfort preferences. 
- 
-Impact: The technology could benefit tens of millions of homes. Working in concert with utilities and the grid, such smart appliances can quickly and automatically change their electricity demand to help even out grid variations and ultimately reduce the amount of greenhouse gas entering the atmosphere
+The [Pacific Northwest National Laboratory](https://www.pnnl.gov/news-media/electric-connection-homes-helping-grid)-developed technology enables the heating and cooling units and hot water heaters to manage their electricity use in ways that help the grid coordinate supply and demand, while also enabling occupant cost and comfort preferences.
 
--->
+**Impact**: The technology could benefit tens of millions of homes. Working in concert with utilities and the grid, such smart appliances can quickly and automatically change their electricity demand to help even out grid variations and ultimately reduce the amount of greenhouse gas entering the atmosphere.
