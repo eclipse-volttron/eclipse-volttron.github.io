@@ -17,7 +17,7 @@ weight: 41
 
 **Impact**: The technology’s peak power load management capability has rapidly dropped electricity demand in buildings by 10 to 20 percent, reducing grid stress while maintaining occupant comfort within an acceptable range. ILC has been successfully deployed in multiple buildings at PNNL, at the University of Toledo, in two Washington, D.C. commercial buildings, and will be central to two DOE [Connected Communities projects](https://www.pnnl.gov/news-media/pnnl-helps-build-connected-communities) in 2024. Next: PNNL will make ILC operational in its campus buildings to coordinate with the City of Richland’s utility in mitigating peak load constraints.
 
-### [Supporting Connected Communities](/eclipse-volttron-fork/archives/accomplishments/#supporting-connected-communities)
+### [Supporting Connected Communities](#supporting-connected-communities)
 
 PNNL is introducing technologies, including Eclipse VOLTTRON, Intelligent Load Control, Automated Fault Detection and Diagnostics (AFDD), and Automated Identification of Re-tuning or Retro-commissioning (AIRCx) to [Connected Communities](https://www.pnnl.gov/news-media/pnnl-helps-build-connected-communities) projects in Spokane, WA and Salt Lake City, UT.
 

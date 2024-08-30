@@ -1,5 +1,5 @@
 ---
-title: "MARKET"
+title: "MARKETS"
 menu: main
 weight: 20
 ---
