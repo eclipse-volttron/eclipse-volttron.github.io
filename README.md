@@ -1,6 +1,5 @@
 # eclipse-volttron.github.io
 
-## final stage cleanup
-- [ ] clean up tags section in office hours
-- [ ] check every single pfp
-- [ ] final merge and check
+## NOTE
+
+BulidingsOperationsRight, ConnectedHomeRight, and MarketSInRight html files need to remove `/eclipse-volttron-fork/` from their anchor tags

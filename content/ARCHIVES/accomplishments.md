@@ -36,7 +36,7 @@ Economic dispatch effectively optimizes the operation of combined heating, cooli
 
 **Impact**: The technology represents a cost and performance breakthrough, and a step forward in establishing next-generation integrated energy systems. A benchmarking analysis, which examined operations during the field test and compared the economic dispatch system to the previous CHP control method, demonstrated savings on the order of $50 per day. This equates to $20,000 per year in additional profit from a CHP.
 
-### ["Connecting" Home Appliances](#connecting-home-appliances)
+### <a name='connecting-home-appliances'></a>"Connected" Home Appliances
 
 The [Pacific Northwest National Laboratory](https://www.pnnl.gov/news-media/electric-connection-homes-helping-grid)-developed technology enables the heating and cooling units and hot water heaters to manage their electricity use in ways that help the grid coordinate supply and demand, while also enabling occupant cost and comfort preferences.
 
