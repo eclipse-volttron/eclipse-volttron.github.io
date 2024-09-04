@@ -85,7 +85,7 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {
-    font-size: 3px;    
+    font-size: 5px;
   }
 }
 
@@ -196,9 +196,23 @@ img {vertical-align: middle;}
         margin-top: -8%;
         max-width:100%;
         font-size: 1.5vw;
+      
+        @media (max-width: 480px) {
+          margin-right: 20%;
+        }
+
+        @media (min-width: 576px) {
+          font-size: 2vw;
+        }
+        @media (min-width: 768px) {
+          font-size: 2vw;
+        }
+        @media (min-width: 992px) {
+          font-size: 1.5vw;
+        }
       }
+
       .button { 
-       
           vertical-align: left;
           margin-left: 1em;
       }
@@ -206,6 +220,7 @@ img {vertical-align: middle;}
    
   }
 }
+
 a.imageLink{
   position:relative;
   right: 35vw;
