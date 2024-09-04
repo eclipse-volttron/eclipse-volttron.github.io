@@ -90,6 +90,7 @@
         showSlides();
         
         function showSlides() {
+          let delay = 8000
           let i;
           let slides = document.getElementsByClassName("mySlides");
           let dots = document.getElementsByClassName("dot");
@@ -103,7 +104,14 @@
           }
           slides[slideIndex-1].style.display = "block";  
           dots[slideIndex-1].className += " active";
-          setTimeout(showSlides, 8000); // Change image every 2 seconds
+
+          if (slideIndex == 1){
+            delay = 8000
+          } else{
+            delay = 13000
+          }
+
+          setTimeout(showSlides, delay); // Change image every 8 seconds on the first slide, 13 on every other
         }
 
 

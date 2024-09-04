@@ -45,7 +45,7 @@ img {vertical-align: middle;}
 .text {
   color:white;
   font-size: 30px;
-  padding: 50px 250px;
+  padding: 50px 0px;
   position: absolute;
   top: 20%;
   left: 10%;
@@ -84,7 +84,9 @@ img {vertical-align: middle;}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .text {font-size: 3px}
+  .text {
+    font-size: 3px;    
+  }
 }
 
 /*Publications */
@@ -177,9 +179,6 @@ img {vertical-align: middle;}
 
 
 }
-
-
-
 
 #cta {
   text-align: center;
