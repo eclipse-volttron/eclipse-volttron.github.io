@@ -2,7 +2,7 @@
 title: "ACCOMPLISHMENTS"
 menu: archives
 weight: 41
-
+sidebar_right: AccomplishmentsRight
 ---
 
 ### Giving Control to SMBs
