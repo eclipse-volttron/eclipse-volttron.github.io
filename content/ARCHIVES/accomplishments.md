@@ -29,6 +29,12 @@ In addition to fault detection and diagnostic technologies that improve efficien
 
 **Impact**: Most commercial buildings could benefit from operational improvements and the ability to communicate directly with the power grid to save energy and costs. The application deployments identified some significant energy-saving opportunities for both buildings, as well as infrastructure issues that may hinder effective use. Further, the lessons learned from the testing will help potential future users of ILC and efficiency applications reduce the effort needed to apply the technologies in buildings.
 
+### Creating a Buildings Living Laboratory
+
+In 2016, the Department of Energy, PNNL, the State of Washington, and university partners launched the Clean Energy and Transactive Campus (CETC) project to develop and test transactive control methodologies. As part of the project, researchers utilized Eclipse VOLTTRON to create a network that linked more than a dozen PNNL campus buildings.
+
+**Impact**: The project effectively established a new research resource, the Buildings Living Laboratory (BLL), at PNNL, that can be used for a wide range of technology development and deployment purposes. Through CETC, the BLL helped facilitate the development of transactive energy management technologies. These include Intelligent Load Control (ILC), which has been deployed at various locations across the nation, and Transactive Coordination and Control. As a next step, PNNL will make ILC operational in its campus buildings in Richland, WA, to mitigate peak load constraints within Richland’s city-owned electric system.
+
 ### Dispatching Optimization and Savings
 
 Economic dispatch effectively optimizes the operation of combined heating, cooling, and power system (CHP) units. This advance could be key in bringing more clean, renewable energy onto the power grid.
