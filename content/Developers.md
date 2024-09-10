@@ -3,16 +3,22 @@ title: "FOR DEVELOPERS"
 description: "Welcome to VOLTTRON™"
 menu: main
 weight: 40
-image: images/MarketsImages/DevelopersImage.png 
+image: images/MarketsImages/volttron_diagram.png 
 image_alt: "Hello!"
 
 sidebar_left: DevelopersLeft
 
 
 ---
-Eclipse VOLTTRON™ provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.  Applications can readily be developed on top of this open source, distributed sensing and control platform for any need that requires collection, management and analysis of data streams. This includes improving energy efficiency in buildings, monitoring the performance of building systems, supporting grid services, coordinating connected homes, managing data and more.
+Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platform that seamlessly integrates data, devices, and systems for sensing and control applications. Key components of this technology include:
 
-The VOLTTRON™ platform has been developed in Python and makes use of numerous open-source libraries. This includes “base” classes and “helper” utilities that support rapid development and deployment of applications. The goal is to ensure that developers can focus on their algorithms and not worry about interactions with the platform.
+- A **message bus** allowing connectivity between agents on individual platforms and between platform instances in large-scale deployments
+- **Integrated security features** enabling the management of secure communication between agents and platform instances
+- A flexible **agent framework** allowing users to adapt the platform to their unique use cases
+- A configurable **driver framework** for collecting data from and sending control signals to buildings and devices
+- Automatic data capture and retrieval through a **historian framework**
+- An extensible **web framework** allowing users and services to securely connect to the platform from anywhere
+- A **capability to interface** with simulation engines and applications to evaluate applications prior to deployment.
 
 **Eclipse VOLTTRON™ Resources**  
 The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedoc.io/> for more information.
