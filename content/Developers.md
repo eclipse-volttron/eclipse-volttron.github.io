@@ -10,7 +10,6 @@ sidebar_left: DevelopersLeft
 
 
 ---
-<hr style="height:2px;border-width:0;color:#d9d9d9;background-color:#d9d9d9">
 
 <p style="font-size: 80%">
 Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platform that seamlessly integrates data, devices, and systems for sensing and control applications. Key components of this technology include:</p>
