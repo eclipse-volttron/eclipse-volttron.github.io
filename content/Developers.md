@@ -10,8 +10,21 @@ sidebar_left: DevelopersLeft
 
 
 ---
-Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platform that seamlessly integrates data, devices, and systems for sensing and control applications. Key components of this technology include:
+<p style="font-size: 80%">
+Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platform that seamlessly integrates data, devices, and systems for sensing and control applications. Key components of this technology include:</p>
 
+<ul style="font-size: 80%">
+    <li>A <strong>message bus</strong> allowing connectivity between agents on individual platforms and between platform instances in large-scale deployments</li>
+    <li><strong>Integrated security features</strong> enabling the management of secure communication between agents and platform instances</li>
+    <li>A flexible <strong>agent framework</strong> allowing users to adapt the platform to their unique use cases</li>
+    <li>A configurable <strong>driver framework</strong> for collecting data from and sending control signals to buildings and devices</li>
+    <li>Automatic data capture and retrieval through a <strong>historian framework</strong></li>
+    <li>An extensible <strong>web framework</strong> allowing users and services to securely connect to the platform from anywhere</li>
+    <li>A <b>capability to interface</b> with simulation engines and applications to evaluate applications prior deployment.</li>
+
+</ul>
+
+<!--
 - A **message bus** allowing connectivity between agents on individual platforms and between platform instances in large-scale deployments
 - **Integrated security features** enabling the management of secure communication between agents and platform instances
 - A flexible **agent framework** allowing users to adapt the platform to their unique use cases
@@ -19,7 +32,8 @@ Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platfor
 - Automatic data capture and retrieval through a **historian framework**
 - An extensible **web framework** allowing users and services to securely connect to the platform from anywhere
 - A **capability to interface** with simulation engines and applications to evaluate applications prior to deployment.
-
+ -->
+ 
 **Eclipse VOLTTRON™ Resources**  
 The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedoc.io/> for more information.
 
