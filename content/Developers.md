@@ -33,7 +33,7 @@ Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platfor
 - An extensible **web framework** allowing users and services to securely connect to the platform from anywhere
 - A **capability to interface** with simulation engines and applications to evaluate applications prior to deployment.
  -->
- 
+
 **Eclipse VOLTTRON™ Resources**  
 The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedoc.io/> for more information.
 
