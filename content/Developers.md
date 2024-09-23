@@ -37,7 +37,7 @@ Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platfor
  -->
 
 **Eclipse VOLTTRON™ Resources**  
-The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedocs.io/en/latest/> for more information.
+The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedocs.io/> for more information.
 
 Office Hours: Stay in touch with our developers by signing up for Eclipse VOLTTRON Office Hours. Meetings occur every other week (Fridays at 11 a.m. PT) and are attended by the development team and members of the user community. There may be select topics, but meetings are intended to provide an open forum for questions ranging from “How do I get started?” to detailed discussions of a specific VOLTTRON™ feature. Join the mailing list to receive links to upcoming events and submit requests to <https://accounts.eclipse.org/mailing-list/volttron-dev/>
 
