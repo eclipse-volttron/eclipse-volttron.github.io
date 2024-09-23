@@ -1,34 +1,52 @@
 ---
 title: "FOR DEVELOPERS"
-description: "Welcome to VOLTTRON™"
+description: "Welcome to Eclipse VOLTTRON™"
 menu: main
 weight: 40
-image: images/MarketsImages/DevelopersImage.png 
+image: images/MarketsImages/volttron_diagram.png 
 image_alt: "Hello!"
 
 sidebar_left: DevelopersLeft
 
 
 ---
-**It’s versatile and easy to use**. VOLTTRON™ provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.
 
-Applications can readily be developed on top of this open source, distributed sensing and control platform for any need that requires collection, management and analysis of data streams. This includes improving energy efficiency in buildings, monitoring the performance of building systems, supporting grid services, coordinating connected homes, managing data and more.
+<p style="font-size: 80%">
+Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platform that seamlessly integrates data, devices, and systems for sensing and control applications. Key components of this technology include:</p>
 
-The VOLTTRON™ platform has been developed in Python and makes use of numerous open source libraries. The project includes "base" classes and "helper" utilities that support rapid development and deployment of applications. The goal is to ensure that developers can focus on their algorithms and not worry about interactions with the platform.  
+<ul style="font-size: 80%">
+    <li>A <strong>message bus</strong> allowing connectivity between agents on individual platforms and between platform instances in large-scale deployments</li>
+    <li><strong>Integrated security features</strong> enabling the management of secure communication between agents and platform instances</li>
+    <li>A flexible <strong>agent framework</strong> allowing users to adapt the platform to their unique use cases</li>
+    <li>A configurable <strong>driver framework</strong> for collecting data from and sending control signals to buildings and devices</li>
+    <li>Automatic data capture and retrieval through a <strong>historian framework</strong></li>
+    <li>An extensible <strong>web framework</strong> allowing users and services to securely connect to the platform from anywhere</li>
+    <li>A <b>capability to interface</b> with simulation engines and applications to evaluate applications prior deployment.</li>
 
-**VOLTTRON™ Resources**  
-The VOLTTRON™ development team supports the wider community through numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs for more information.
+</ul>
 
-Office Hours: Stay in touch with our developers by signing up for VOLTTRON™ Office Hours. Meetings occur every other week (Fridays at 11 a.m. PT) and are attended by the development team and members of the community. There may be select topics, but meetings are intended to provide an open forum for questions ranging from "How do I get started?" to detailed discussions of a specific VOLTTRON™ feature. See recordings from previous Office Hour meetings below. Email volttron@pnnl.gov to join.
+<hr style="height:2px;border-width:0;color:#d9d9d9;background-color:#d9d9d9">
+<!--
+- A **message bus** allowing connectivity between agents on individual platforms and between platform instances in large-scale deployments
+- **Integrated security features** enabling the management of secure communication between agents and platform instances
+- A flexible **agent framework** allowing users to adapt the platform to their unique use cases
+- A configurable **driver framework** for collecting data from and sending control signals to buildings and devices
+- Automatic data capture and retrieval through a **historian framework**
+- An extensible **web framework** allowing users and services to securely connect to the platform from anywhere
+- A **capability to interface** with simulation engines and applications to evaluate applications prior to deployment.
+ -->
 
-Mailing Lists: Join our volttron-dev mailing list to stay informed on VOLTTRON™ news and updates. Anyone can sign up for these periodic emails. Email volttron@pnnl.gov to be added. 
+**Eclipse VOLTTRON™ Resources**  
+The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedocs.io/> for more information.
 
+Office Hours: Stay in touch with our developers by signing up for Eclipse VOLTTRON Office Hours. Meetings occur every other week (Fridays at 11 a.m. PT) and are attended by the development team and members of the user community. There may be select topics, but meetings are intended to provide an open forum for questions ranging from “How do I get started?” to detailed discussions of a specific VOLTTRON™ feature. Join the mailing list to receive links to upcoming events and submit requests to <https://accounts.eclipse.org/mailing-list/volttron-dev/>
 
 **Code Repository**  
-On GitHub, there are different branches for the VOLTTRON™ project at different levels of stability and latest features. When the project is cloned, the default branch is "master" which contains the latest release of VOLTTRON™. The "develop" branch is the current development branch of the project with the latest completed features but requiring further integration testing before being promoted to a release. From there, "feature" branches contain code which is still in development and, therefore, the least stable.
+Eclipse VOLTTRON holds a large number of repositories in the eclipse-volttron namespace <https://github.com/eclipse-volttron/>.  All of the repositories have a main branch that holds the most stable version of the code and a develop branch which contains the newest code that hasn’t been released yet.
 
-As an open source project, VOLTTRON™ users are encouraged to contribute back to the community. Applications, new services, bug fixes, etc. can all be contributed back to the project through a GitHub pull request. A pull request allows the development team to review the changes and accept them into the codebase.
+As an open source project, Eclipse VOLTTRON users are encouraged to contribute back to the community. Applications, new services, bug fixes, etc., can all be contributed back to the project through a GitHub pull request. A pull request allows the development team to review the changes and accept them into the codebase.
 
-VOLTTRON™ development is directed by the needs of the community. Feature requests and bug reports should be entered as a Git issue. This notifies the development team and allows others to comment as well.
+Eclipse VOLTTRON development is directed by the needs of the community and stakeholders. Feature requests and bug reports should be entered as a Git issue. This notifies the development team and allows others to comment as well.
 
-If you have any questions, please don't hesitate to contact the VOLTTRON™ team at volttron@pnnl.gov and the wider community through the resources listed above. We look forward to working with you and are excited by the possibilities this technology can achieve.
+**Contact Us**</br>
+If you have any questions, please don’t hesitate to contact the Eclipse VOLTTRON team at <volttron@pnnl.gov>, and the wider community through the resources listed above. We look forward to working with you and are excited by the possibilities this technology can achieve.

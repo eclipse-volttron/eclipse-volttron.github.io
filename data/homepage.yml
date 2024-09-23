@@ -64,14 +64,14 @@ items:
 
 
 
-  - type: heading
-    heading: Explore More Eclipse VOLTTRON below
-    contents: for more information, explore "MARKET" from the menu 
+  # - type: heading
+  #   heading: Explore More Eclipse VOLTTRON below
+  #   contents: for more information, explore "MARKET" from the menu 
     
-  - type: posts
-    #heading: Recent Posts
-    content_type: posts
-    max: 4
+  # - type: posts
+  #   #heading: Recent Posts
+  #   content_type: posts
+  #   max: 4
   - type: cta
     button:
       urlLeft: "https://www.pnnl.gov/"

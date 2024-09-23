@@ -45,7 +45,7 @@ img {vertical-align: middle;}
 .text {
   color:white;
   font-size: 30px;
-  padding: 50px 250px;
+  padding: 50px 0px;
   position: absolute;
   top: 20%;
   left: 10%;
@@ -84,7 +84,9 @@ img {vertical-align: middle;}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .text {font-size: 3px}
+  .text {
+    font-size: 5px;
+  }
 }
 
 /*Publications */
@@ -98,27 +100,19 @@ img {vertical-align: middle;}
    margin-top: -15px;
    line-height: 100%;
   }
-
-
 }
 
 .figConfigpdf h4 {
   line-height: 100%;
+  font-size: 1vw;
+  font-size: 1vw; 
+  line-height: 1.3vw; 
+  margin-bottom: 1.2vw;
+  text-align:left;
+  max-width: 100%;
+  color:black;
 }
-    h4 {
-      font-size: 1vw;
-      font-size: 1vw; 
-      line-height: 1.3vw; 
-      margin-bottom: 0.5vw;
-      text-align:left;
-      max-width: 100%;
-      color:black;
-  
-       
-     }
  
-
-
 .figConfigpdf figcaption{
   position:relative;
   p {
@@ -167,6 +161,24 @@ img {vertical-align: middle;}
 
 }
 
+.SidebarFig img {
+  max-width: 150%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (max-width: 1440px) {
+    max-width: 130%;
+  }
+
+  @media (max-width: 1024px) {
+    max-width: 100%
+  }
+}
+
+
+
 .SidebarFig h4{
   font-size: 1vw;
 }
@@ -174,12 +186,7 @@ img {vertical-align: middle;}
 .SidebarVideo{
   width:30vw;
   height:10vw;
-
-
 }
-
-
-
 
 #cta {
   text-align: center;
@@ -197,9 +204,23 @@ img {vertical-align: middle;}
         margin-top: -8%;
         max-width:100%;
         font-size: 1.5vw;
+      
+        @media (max-width: 480px) {
+          margin-right: 20%;
+        }
+
+        @media (min-width: 576px) {
+          font-size: 2vw;
+        }
+        @media (min-width: 768px) {
+          font-size: 2vw;
+        }
+        @media (min-width: 992px) {
+          font-size: 1.5vw;
+        }
       }
+
       .button { 
-       
           vertical-align: left;
           margin-left: 1em;
       }
@@ -207,6 +228,7 @@ img {vertical-align: middle;}
    
   }
 }
+
 a.imageLink{
   position:relative;
   right: 35vw;
