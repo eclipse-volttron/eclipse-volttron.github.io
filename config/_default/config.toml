@@ -4,7 +4,7 @@ languageCode = "en-us"
 
 
 theme = "arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "© PNNL. 2024"
 
 defaultContentLanguage = "en"
 [languages]
@@ -25,10 +25,8 @@ defaultContentLanguage = "en"
     unsafe= true
 
 [params]
-   
     show_post_dates = false
-
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"
-        url = "#"
+        url = "https://github.com/volttron/volttron"
