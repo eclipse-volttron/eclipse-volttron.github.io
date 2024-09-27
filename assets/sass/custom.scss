@@ -284,6 +284,42 @@ $breakpoints: (
   }
 }
 
+// Handling Accomplishments styles 
+
+.AccomplishmentsRight {
+  flex: 0 0 30%; /* Adjust width as needed */
+  position: relative;
+}
+
+.AccomplishmentsRight .AccomplishmentFig {
+  position: absolute; /* Easier hard coding */
+}
+
+// Accomplishments sidebar with pictures hard coded
+#giving-control-to-smbs { top: 4em; }
+#getting-intelligent-with-the-grid { top: 22em; }
+#supporting-connected-communities { top: 50em}
+#connecting-home-appliances { top: 138em; }
+#creating-a-buildings-living-laboratory { top: 90em; }
+
+.AccomplishmentFig {
+  @extend .SidebarFig;
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  
+    @media (max-width: 1440px) {
+      max-width: 90%;
+    }
+  
+    @media (max-width: 1024px) {
+      max-width: 80%;
+    }
+  }
+}
+
 
 .SidebarFig h4{
   font-size: 1vw;
@@ -436,7 +472,8 @@ a.imageLink{
 
 header {
   p {
-      color: _palette(fg-light);
+      // color: _palette(fg-light);
+      color: rgb(66, 66, 66);
       font-size: 1em;
       position: relative;
       margin-top: -1.25em;
