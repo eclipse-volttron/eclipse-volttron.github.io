@@ -1,7 +1,7 @@
 ---
 title: HOME
 menu: main
-weight: 10
+weight: 1
 
 
 ---

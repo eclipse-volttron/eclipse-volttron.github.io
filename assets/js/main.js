@@ -5,13 +5,12 @@
 */
 
 (function($) {
-// Hide the Arcana and HTML5 in the footer
-// Grab the footer element by class name
+
+// Footer
 const COPYRIGHT_FOOTER = document.getElementsByClassName("menu")[0];
 
-// Ensure that the element exists before proceeding
 if (COPYRIGHT_FOOTER) {
-    // Get all <li> children of the selected element
+    // Grab Footer <li>'s
     const COPYRIGHT_FOOTER_LIST_ITEMS = COPYRIGHT_FOOTER.getElementsByTagName("li");
 
     // Get the indexes of the last two items
@@ -24,7 +23,7 @@ if (COPYRIGHT_FOOTER) {
         const secondLastItem = COPYRIGHT_FOOTER_LIST_ITEMS[secondToLastIndex];
         const lastItem = COPYRIGHT_FOOTER_LIST_ITEMS[lastIndex];
 
-        // Remove the display of the two list items
+        // Remove the display of the two <li>'s
         secondLastItem.style.display = 'none';
         lastItem.style.display = 'none';
     }
@@ -129,13 +128,13 @@ if (COPYRIGHT_FOOTER) {
           slides[slideIndex-1].style.display = "block";  
           dots[slideIndex-1].className += " active";
 
-          if (slideIndex == 1){
+          if (slideIndex == 1){ // Change image every 8 seconds on the first slide, 13 on every other
             delay = 8000
           } else{
             delay = 13000
           }
 
-          setTimeout(showSlides, delay); // Change image every 8 seconds on the first slide, 13 on every other
+          setTimeout(showSlides, delay); 
         }
 
 

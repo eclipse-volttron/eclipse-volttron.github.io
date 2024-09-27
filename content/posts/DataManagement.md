@@ -5,7 +5,10 @@ Description: Eclipse VOLTTRON offers a cost-effective method for gathering, anal
 image: images/MarketsImages/DataManImage.png
 date: "2020-01-04T00:00:00"
 sidebar_left: DMLeft
+hideImage: true
 ---
+{{< img src="../../images/MarketsImages/DataManImage.png" class="market_image" id="DataManagement" alt="Building of Operations" >}}
+
 Eclipse VOLTTRON, with Modbus and BACnet implementations, enables gathering and dispositioning of data.
 
 

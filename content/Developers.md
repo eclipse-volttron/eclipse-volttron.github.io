@@ -26,15 +26,6 @@ Eclipse VOLTTRON™ is an open source, secure, scalable, and distributed platfor
 </ul>
 
 <hr style="height:2px;border-width:0;color:#d9d9d9;background-color:#d9d9d9">
-<!--
-- A **message bus** allowing connectivity between agents on individual platforms and between platform instances in large-scale deployments
-- **Integrated security features** enabling the management of secure communication between agents and platform instances
-- A flexible **agent framework** allowing users to adapt the platform to their unique use cases
-- A configurable **driver framework** for collecting data from and sending control signals to buildings and devices
-- Automatic data capture and retrieval through a **historian framework**
-- An extensible **web framework** allowing users and services to securely connect to the platform from anywhere
-- A **capability to interface** with simulation engines and applications to evaluate applications prior to deployment.
- -->
 
 **Eclipse VOLTTRON™ Resources**  
 The Eclipse VOLTTRON development team supports the wider user community with numerous resources in an effort to maximize transparency and simplify working with the platform. The project is hosted on GitHub for source control, issue tracking, and documentation. Visit Read the Docs <https://eclipse-volttron.readthedocs.io/> for more information.

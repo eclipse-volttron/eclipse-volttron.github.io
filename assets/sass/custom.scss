@@ -146,9 +146,15 @@ img {vertical-align: middle;}
     min-width: 20vw;
 }
 
+/* Market Images on their individual page */
+.market_image{
+  width:65%;
+}
+
 
 /* For sidebar Info */
 .SidebarFig {
+  margin-bottom: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -199,8 +205,6 @@ img {vertical-align: middle;}
     max-width: 80%;
   }
 }
-
-
 
 
 .SidebarFig h4{
