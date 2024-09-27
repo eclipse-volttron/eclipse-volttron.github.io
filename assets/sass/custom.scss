@@ -25,18 +25,96 @@ img {vertical-align: middle;}
 
 
 
+$breakpoints: (
+  default:   1920px,
+  wide:      1680px,
+  normal:    1280px,
+  narrow:    980px,
+  narrower:  840px,
+  mobile:    736px,
+  mobilel:   480px,
+  mobilem:   400px,
+  mobiles:   350px,
+);
+
+@mixin breakpoint($point) {
+  @media (max-width: map-get($breakpoints, $point)) {
+    @content;
+  }
+}
+
 /* Slideshow container */
+#banner {
+  /* Adjusting margin for CTA below the slideshow banner */
+  margin-bottom: 32.9%;
+
+  @include breakpoint(default){
+    margin-bottom: 24.8%;
+  }
+
+  @include breakpoint(wide) {
+    margin-bottom: 24.8%;
+  }
+
+  @include breakpoint(normal) {
+    margin-bottom: 25%;
+  }
+
+  @include breakpoint(narrow) {
+    margin-bottom: 22%;
+  }
+
+  @include breakpoint(narrower) {
+    margin-bottom: 11%;
+  }
+
+  @include breakpoint(mobilel){
+    margin-bottom: -13%;
+  }
+
+  @include breakpoint(mobilem){
+    margin-bottom : -22%;
+  }
+  
+  @include breakpoint(mobiles){
+    margin-bottom: -36%
+  }
+}
+
 .slideshow-container {
   max-width: 100%;
   position: relative;
   margin: auto;
- text-align: center;
-  img{
+  text-align: center;
+
+  img {
     width: 100vw;
     height: 30vw;
+    
+    @include breakpoint(mobile) {
+      width: 590px;
+      height: auto; /* Adjust if needed for smaller screens */
+    }
   }
+}
 
-  
+/* Container to hold the image and handle the cropping */
+.mySlides {
+  position: relative;
+  width: 100%; /* Responsive width */
+  padding-top: 56.25%; /* Maintain 16:9 aspect ratio, adjust as needed */
+  overflow: hidden;
+}
+
+/* Image styling to ensure it covers the container */
+.mySlides img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* Ensure the width spans the container */
+  height: 100%; /* Ensure the height spans the container */
+  object-fit: cover; /* Cover the container without scaling down */
+  z-index: -1; /* Optional: Move the image behind any potential content */
 }
 
 
