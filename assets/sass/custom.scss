@@ -28,6 +28,7 @@ img {vertical-align: middle;}
 $breakpoints: (
   default:   1920px,
   wide:      1680px,
+  laptop:    1518px,
   normal:    1280px,
   narrow:    980px,
   narrower:  840px,
@@ -54,6 +55,10 @@ $breakpoints: (
 
   @include breakpoint(wide) {
     margin-bottom: 24.8%;
+  }
+
+  @include breakpoint(laptop) {
+    margin-bottom: 100%
   }
 
   @include breakpoint(normal) {
@@ -117,6 +122,10 @@ $breakpoints: (
   z-index: -1; /* Optional: Move the image behind any potential content */
 }
 
+// CtA on the front page
+#introducing-volttron {
+  font-weight: bold;
+}
 
 
 /* Caption text */
@@ -286,21 +295,25 @@ $breakpoints: (
 
 // Handling Accomplishments styles 
 
+// .container {
+//   display: flex;
+//   justify-content: space-between;
+// }
+
+// .main-content {
+//   flex: 0 0 70%;
+//   margin-right: 20px;
+// }
+
 .AccomplishmentsRight {
-  flex: 0 0 30%; /* Adjust width as needed */
+  flex: 0 0 30%;
   position: relative;
 }
 
 .AccomplishmentsRight .AccomplishmentFig {
-  position: absolute; /* Easier hard coding */
+  position: absolute;
 }
 
-// Accomplishments sidebar with pictures hard coded
-#giving-control-to-smbs { top: 4em; }
-#getting-intelligent-with-the-grid { top: 22em; }
-#supporting-connected-communities { top: 50em}
-#connecting-home-appliances { top: 138em; }
-#creating-a-buildings-living-laboratory { top: 90em; }
 
 .AccomplishmentFig {
   @extend .SidebarFig;

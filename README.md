@@ -37,6 +37,6 @@ Adding to submenu:
 Adding new image:
 - add image to /static/images/
 - use images/image_name.png as the path in markdown
-  *Note: images being added in html '{{absURL "images/DocumentImages/overviewOverlay.png"}}' or it will not render in github pages*
+  *Note: images being added in html '{{absURL "images/DocumentImages/overviewOverlay.jpg"}}' or it will not render in github pages*
 CSS Edits:
 - do NOT use the CSS in the theme, go to /assets/sass/custom.scss to make changes.

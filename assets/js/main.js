@@ -3,6 +3,37 @@
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+console.log("hi im javascript")
+document.addEventListener('DOMContentLoaded', function () {
+    const headers = document.querySelectorAll('.main-content a[name]');
+    console.log(headers)
+    
+    const observerOptions = {
+      root: null,
+      rootMargin: '0px',
+      threshold: 0.1,
+    };
+  
+    const observerCallback = (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const name = entry.target.getAttribute('name');
+          const correspondingFigure = document.querySelector(`.AccomplishmentsRight .AccomplishmentFig[data-correspond="${name}"]`);
+        
+          if (correspondingFigure) {
+            const offsetTop = entry.target.getBoundingClientRect().top + window.scrollY;
+            correspondingFigure.style.top = `${offsetTop}px`;
+          }
+        }
+      });
+    };
+  
+    const observer = new IntersectionObserver(observerCallback, observerOptions);
+  
+    headers.forEach((header) => {
+      observer.observe(header);
+    });
+  });
 
 (function($) {
 
