@@ -5,6 +5,30 @@
 */
 
 (function($) {
+// Hide the Arcana and HTML5 in the footer
+// Grab the footer element by class name
+const COPYRIGHT_FOOTER = document.getElementsByClassName("menu")[0];
+
+// Ensure that the element exists before proceeding
+if (COPYRIGHT_FOOTER) {
+    // Get all <li> children of the selected element
+    const COPYRIGHT_FOOTER_LIST_ITEMS = COPYRIGHT_FOOTER.getElementsByTagName("li");
+
+    // Get the indexes of the last two items
+    const totalItems = COPYRIGHT_FOOTER_LIST_ITEMS.length;
+    if (totalItems >= 2) {
+        const secondToLastIndex = totalItems - 2;
+        const lastIndex = totalItems - 1;
+
+        // Select the last two list items
+        const secondLastItem = COPYRIGHT_FOOTER_LIST_ITEMS[secondToLastIndex];
+        const lastItem = COPYRIGHT_FOOTER_LIST_ITEMS[lastIndex];
+
+        // Remove the display of the two list items
+        secondLastItem.style.display = 'none';
+        lastItem.style.display = 'none';
+    }
+}
 
     var $window = $(window),
         $body = $('body');

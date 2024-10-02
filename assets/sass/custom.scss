@@ -147,35 +147,59 @@ img {vertical-align: middle;}
 }
 
 
-/*For sidebar Info*/
-.SidebarFig{
- 
+/* For sidebar Info */
+.SidebarFig {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 
-  .caption{
-    font-size: 0.9vw; 
-    line-height: 1.3vw; 
-    margin-bottom: 2vw;
-    color:black;
+  a {
+    text-decoration: none;
   }
 
+  .caption {
+    font-size: 0.9vw; 
+    line-height: 1.3vw; 
+    color: black;
+    margin: 0;
 
+    @media (max-width: 1440px) {
+      font-size: 1.2vw;
+      line-height: 1.6vw;
+    }
+
+    @media (max-width: 1024px) {
+      font-size: 1.5vw;
+      line-height: 2.0vw;
+    }
+
+    @media (max-width: 768px) {
+      font-size: 2vw;
+      line-height: 2.5vw;
+    }
+    @media (max-width: 425px) {
+      font-size: 3.5vw;
+      line-height: 3.5vw;
+    }
+  }
 }
 
 .SidebarFig img {
-  max-width: 150%;
+  max-width: 100%;
   height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 
   @media (max-width: 1440px) {
-    max-width: 130%;
+    max-width: 90%;
   }
 
   @media (max-width: 1024px) {
-    max-width: 100%
+    max-width: 80%;
   }
 }
+
 
 
 
