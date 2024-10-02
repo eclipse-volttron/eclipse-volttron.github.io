@@ -3,50 +3,39 @@
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+(function($) {
+
+// Accomplishments page
 console.log("hi im javascript")
 console.log("hi im als ojabacripc")
 
-    const ARTICLE = document.getElementsByTagName("article")
-    const HEADINGS = document.querySelectorAll("h3")
-    const PICTURE_FIGS = document.getElementById("AccomplishmentFig")
-    console.log(`These are the amount of articles: ${ARTICLE.length}`)
-    console.log(`These are the amount of headings: ${HEADINGS.length}`)
-    console.log(`These are the children: ${ARTICLE.children}`)
-    let headerMap = {}
-    // for each H3 element in header, headerMap[id] = location //(pixels from top)
-    HEADINGS.forEach((h3) => {
-        console.log(h3.id, h3.offsetTop)
-    })
+const ARTICLE = document.getElementsByTagName("article")
+const HEADINGS = document.querySelectorAll("h3")
+const PICTURE_FIGS = document.getElementsByClassName("AccomplishmentFig")
+console.log(`These are the amount of articles: ${ARTICLE.length}`)
+console.log(`These are the amount of headings: ${HEADINGS.length}`)
+console.log(`These are the children: ${ARTICLE.children}`)
+console.log(`These are the picture figs: ${PICTURE_FIGS}`)
+let headerMap = {}
+// for each H3 element in header, headerMap[id] = location //(pixels from top)
+HEADINGS.forEach((h3) => {
+    console.log(`h3 id: ${h3.id}, Offset: ${h3.offsetTop}`)
+    headerMap[h3.id] = h3.offsetTop
+})
 
-    const headers = document.querySelectorAll('.main-content a[name]');
-    
-    const observerOptions = {
-      root: null,
-      rootMargin: '0px',
-      threshold: 0.1,
-    };
-  
-    const observerCallback = (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          const name = entry.target.getAttribute('name');
-          const correspondingFigure = document.querySelector(`.AccomplishmentsRight .AccomplishmentFig[data-correspond="${name}"]`);
-        
-          if (correspondingFigure) {
-            const offsetTop = entry.target.getBoundingClientRect().top + window.scrollY;
-            correspondingFigure.style.top = `${offsetTop}px`;
-          }
-        }
-      });
-    };
-  
-    const observer = new IntersectionObserver(observerCallback, observerOptions);
-  
-    headers.forEach((header) => {
-      observer.observe(header);
-    });
+// for each fig in picture_fig, if fig.data-correspond match headerMap 
+// then fig.top = headerMap[fig.data-correspond]px;
+Array.from(PICTURE_FIGS).forEach((fig) => {
+    let correspondId = fig.getAttribute('data-correspond');
+    if (headerMap[correspondId] !== undefined) {
+        // Set the top position of the fig to the corresponding header offset
+        fig.style.top = headerMap[correspondId] - 430 + "px";
+    }
+});
+console.log(headerMap)
 
-(function($) {
+
+
 
 // Footer
 const COPYRIGHT_FOOTER = document.getElementsByClassName("menu")[0];
@@ -166,7 +155,7 @@ if (COPYRIGHT_FOOTER) {
           if (slideIndex > slides.length) {slideIndex = 1}    
           for (i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" active", "");
-          }
+          } 
           slides[slideIndex-1].style.display = "block";  
           dots[slideIndex-1].className += " active";
 
