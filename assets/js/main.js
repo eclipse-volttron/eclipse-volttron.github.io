@@ -4,9 +4,21 @@
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 console.log("hi im javascript")
-document.addEventListener('DOMContentLoaded', function () {
+console.log("hi im als ojabacripc")
+
+    const ARTICLE = document.getElementsByTagName("article")
+    const HEADINGS = document.querySelectorAll("h3")
+    const PICTURE_FIGS = document.getElementById("AccomplishmentFig")
+    console.log(`These are the amount of articles: ${ARTICLE.length}`)
+    console.log(`These are the amount of headings: ${HEADINGS.length}`)
+    console.log(`These are the children: ${ARTICLE.children}`)
+    let headerMap = {}
+    // for each H3 element in header, headerMap[id] = location //(pixels from top)
+    HEADINGS.forEach((h3) => {
+        console.log(h3.id, h3.offsetTop)
+    })
+
     const headers = document.querySelectorAll('.main-content a[name]');
-    console.log(headers)
     
     const observerOptions = {
       root: null,
@@ -33,7 +45,6 @@ document.addEventListener('DOMContentLoaded', function () {
     headers.forEach((header) => {
       observer.observe(header);
     });
-  });
 
 (function($) {
 

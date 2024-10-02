@@ -30,6 +30,7 @@ $breakpoints: (
   wide:      1680px,
   laptop:    1518px,
   normal:    1280px,
+  tablet:    1024px,
   narrow:    980px,
   narrower:  840px,
   mobile:    736px,
@@ -58,11 +59,15 @@ $breakpoints: (
   }
 
   @include breakpoint(laptop) {
-    margin-bottom: 100%
+    margin-bottom: 25%
   }
 
   @include breakpoint(normal) {
     margin-bottom: 25%;
+  }
+
+  @include breakpoint(tablet){
+    margin-bottom: 22.4%;
   }
 
   @include breakpoint(narrow) {
@@ -305,12 +310,12 @@ $breakpoints: (
 //   margin-right: 20px;
 // }
 
-.AccomplishmentsRight {
+#AccomplishmentsRight {
   flex: 0 0 30%;
   position: relative;
 }
 
-.AccomplishmentsRight .AccomplishmentFig {
+#AccomplishmentsRight .AccomplishmentFig {
   position: absolute;
 }
 
