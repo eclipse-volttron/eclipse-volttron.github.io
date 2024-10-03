@@ -292,17 +292,17 @@ $breakpoints: (
 }
 
 .SidebarFig img {
-  max-width: 100%;
+  max-width: 212px;
   height: auto;
   display: block;
   margin: 0 auto;
 
   @media (max-width: 1440px) {
-    max-width: 90%;
+    max-width: 110px;
   }
 
   @media (max-width: 1024px) {
-    max-width: 80%;
+    max-width: 170px;
   }
 }
 
