@@ -5,60 +5,123 @@
 */
 (function($) {
 
-// Accomplishments page
-console.log("hi im javascript")
-console.log("hi im als ojabacripc")
-
-const ARTICLE = document.getElementsByTagName("article")
-const HEADINGS = document.querySelectorAll("h3")
-const PICTURE_FIGS = document.getElementsByClassName("AccomplishmentFig")
-console.log(`These are the amount of articles: ${ARTICLE.length}`)
-console.log(`These are the amount of headings: ${HEADINGS.length}`)
-console.log(`These are the children: ${ARTICLE.children}`)
-console.log(`These are the picture figs: ${PICTURE_FIGS}`)
-let headerMap = {}
-// for each H3 element in header, headerMap[id] = location //(pixels from top)
-HEADINGS.forEach((h3) => {
-    console.log(`h3 id: ${h3.id}, Offset: ${h3.offsetTop}`)
-    headerMap[h3.id] = h3.offsetTop
-})
-
-// for each fig in picture_fig, if fig.data-correspond match headerMap 
-// then fig.top = headerMap[fig.data-correspond]px;
-Array.from(PICTURE_FIGS).forEach((fig) => {
-    let correspondId = fig.getAttribute('data-correspond');
-    if (headerMap[correspondId] !== undefined) {
-        // Set the top position of the fig to the corresponding header offset
-        fig.style.top = headerMap[correspondId] - 430 + "px";
+    function debounce(func, delay) {
+        let debounceTimer;
+        return function() {
+            const context = this;
+            const args = arguments;
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => func.apply(context, args), delay);
+        }
     }
-});
-console.log(headerMap)
-
-
-
-
-// Footer
-const COPYRIGHT_FOOTER = document.getElementsByClassName("menu")[0];
-
-if (COPYRIGHT_FOOTER) {
-    // Grab Footer <li>'s
-    const COPYRIGHT_FOOTER_LIST_ITEMS = COPYRIGHT_FOOTER.getElementsByTagName("li");
-
-    // Get the indexes of the last two items
-    const totalItems = COPYRIGHT_FOOTER_LIST_ITEMS.length;
-    if (totalItems >= 2) {
-        const secondToLastIndex = totalItems - 2;
-        const lastIndex = totalItems - 1;
-
-        // Select the last two list items
-        const secondLastItem = COPYRIGHT_FOOTER_LIST_ITEMS[secondToLastIndex];
-        const lastItem = COPYRIGHT_FOOTER_LIST_ITEMS[lastIndex];
-
-        // Remove the display of the two <li>'s
-        secondLastItem.style.display = 'none';
-        lastItem.style.display = 'none';
+    
+    // Breakpoints to align accomplishments pictures
+    const calibrationMap = {
+        2560: 500,
+        1920: 450,
+        1680: 430,
+        1440: 360,
+        1280: 430,
+        1024: 240,
+        768:  240,
+        736:  130,
+        425:  130
+    };
+    
+    // Function to execute when a breakpoint is hit
+    function onBreakpointHit(width, offset) {
+        // console.log(`Window has hit the width of ${width}px or lower. Using offset ${offset}px.`);
+        calibrateAccomplishmentsSide(offset);
     }
-}
+    
+    function checkWindowWidth() {
+        const currentWidth = window.innerWidth;
+        // console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
+        const calibrationList = Object.keys(calibrationMap).map(Number).sort((a, b) => a - b);
+    
+        let appliedBreakpoint = null;
+    
+        console.log(calibrationList);
+        for (const width of calibrationList) {
+            if (currentWidth <= width) {
+                appliedBreakpoint = width;
+                break; // Exit the loop once the first applicable breakpoint is found
+            }
+        }
+    
+        // checking applied breakpoint
+        // console.log("checking applied breakpoint", appliedBreakpoint);
+        if (appliedBreakpoint !== null) {
+            onBreakpointHit(appliedBreakpoint, calibrationMap[appliedBreakpoint]);
+        }
+    }
+    
+    // Debounce the checkWindowWidth function
+    const debouncedCheckWindowWidth = debounce(checkWindowWidth, 200);
+    
+    // Add the event listener for window resize
+    window.addEventListener('resize', debouncedCheckWindowWidth);  
+
+    const SIDEBAR_CONTAINER = document.getElementById("AccomplishmentsRight")
+    const HEADINGS = document.querySelectorAll("h3")
+    const PICTURE_FIGS = document.getElementsByClassName("AccomplishmentFig")
+    const pictureFigsArray = Array.from(PICTURE_FIGS);
+    const lastIndex = pictureFigsArray.length - 1; // Get last index of array
+
+    calibrateAccomplishmentsSide = (align_int) => {
+        let headerMap = {}
+        // for each H3 element in header, headerMap[h3.id] = h3.offsetTop //(pixels from top)
+        HEADINGS.forEach((h3) => {
+            headerMap[h3.id] = h3.offsetTop
+        })
+
+        // for each fig in picture_fig, if fig.data-correspond match headerMap 
+        // then fig.top = headerMap[fig.data-correspond]px;
+
+
+        pictureFigsArray.forEach((fig, index) => {
+            let correspondId = fig.getAttribute('data-correspond');
+            if (headerMap[correspondId] !== undefined) {
+                // Set the top position of the fig to the corresponding header offset
+                fig.style.top = headerMap[correspondId] - align_int + "px";
+            }
+
+            // Check if the current fig is the last entry
+            if (index === lastIndex) {
+                // Grab the offsetTop of the last entry fig
+                const lastFigOffsetTop = fig.offsetTop;
+                // equaling the sidebar to the length of which the last picture's bottom
+                // side is
+                SIDEBAR_CONTAINER.style.height = lastFigOffsetTop + 400 + "px";
+            }
+        });
+
+        console.log(headerMap)
+    }
+    checkWindowWidth()
+
+    // Footer
+    const COPYRIGHT_FOOTER = document.getElementsByClassName("menu")[0];
+
+    if (COPYRIGHT_FOOTER) {
+        // Grab Footer <li>'s
+        const COPYRIGHT_FOOTER_LIST_ITEMS = COPYRIGHT_FOOTER.getElementsByTagName("li");
+
+        // Get the indexes of the last two items
+        const totalItems = COPYRIGHT_FOOTER_LIST_ITEMS.length;
+        if (totalItems >= 2) {
+            const secondToLastIndex = totalItems - 2;
+            const lastIndex = totalItems - 1;
+
+            // Select the last two list items
+            const secondLastItem = COPYRIGHT_FOOTER_LIST_ITEMS[secondToLastIndex];
+            const lastItem = COPYRIGHT_FOOTER_LIST_ITEMS[lastIndex];
+
+            // Remove the display of the two <li>'s
+            secondLastItem.style.display = 'none';
+            lastItem.style.display = 'none';
+        }
+    }
 
     var $window = $(window),
         $body = $('body');

@@ -136,7 +136,7 @@ $breakpoints: (
 /* Caption text */
 .text {
   color:white;
-  font-size: 30px;
+  // font-size: 30px;
   padding: 50px 0px;
   position: absolute;
   top: 20%;
@@ -146,6 +146,14 @@ $breakpoints: (
   line-height: 2.6vw;
   color:white;
   text-shadow: 2px 2px 0px black;
+
+  @include breakpoint(mobile){
+    font-size: 10px
+  }
+
+  @include breakpoint(mobilel){
+    font-size: 7px;
+  }
 }
 
 /* Number text (1/3 etc) */
@@ -300,23 +308,14 @@ $breakpoints: (
 
 // Handling Accomplishments styles 
 
-// .container {
-//   display: flex;
-//   justify-content: space-between;
-// }
-
-// .main-content {
-//   flex: 0 0 70%;
-//   margin-right: 20px;
-// }
-
 #AccomplishmentsRight {
+  @extend .col-4.col-12-narrower;
   flex: 0 0 30%;
   position: relative;
 }
 
 #AccomplishmentsRight .AccomplishmentFig {
-  position: absolute;
+  position:absolute;
 }
 
 
@@ -334,6 +333,14 @@ $breakpoints: (
   
     @media (max-width: 1024px) {
       max-width: 80%;
+    }
+    
+    @include breakpoint(narrower) {
+      max-width: 50%
+    }
+    
+    @include breakpoint(mobilel){
+      max-width: 100%;
     }
   }
 }
