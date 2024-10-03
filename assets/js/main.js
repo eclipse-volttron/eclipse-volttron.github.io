@@ -20,6 +20,7 @@
         2560: 500,
         1920: 450,
         1680: 430,
+        1520: 360,
         1440: 360,
         1280: 430,
         1024: 240,
@@ -30,18 +31,17 @@
     
     // Function to execute when a breakpoint is hit
     function onBreakpointHit(width, offset) {
-        // console.log(`Window has hit the width of ${width}px or lower. Using offset ${offset}px.`);
+        console.log(`Window has hit the width of ${width}px or lower. Using offset ${offset}px.`);
         calibrateAccomplishmentsSide(offset);
     }
     
     function checkWindowWidth() {
         const currentWidth = window.innerWidth;
-        // console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
+        console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
         const calibrationList = Object.keys(calibrationMap).map(Number).sort((a, b) => a - b);
     
         let appliedBreakpoint = null;
     
-        console.log(calibrationList);
         for (const width of calibrationList) {
             if (currentWidth <= width) {
                 appliedBreakpoint = width;
@@ -93,8 +93,6 @@
                 SIDEBAR_CONTAINER.style.height = lastFigOffsetTop + 400 + "px";
             }
         });
-
-        console.log(headerMap)
     }
     checkWindowWidth()
 

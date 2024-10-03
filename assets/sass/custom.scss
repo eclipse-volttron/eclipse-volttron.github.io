@@ -28,7 +28,8 @@ img {vertical-align: middle;}
 $breakpoints: (
   default:   1920px,
   wide:      1680px,
-  laptop:    1518px,
+  laptop:    1520px,
+  laptopm:   1440px,
   normal:    1280px,
   tablet:    1024px,
   narrow:    980px,
@@ -59,7 +60,11 @@ $breakpoints: (
   }
 
   @include breakpoint(laptop) {
-    margin-bottom: 25%
+    margin-bottom: 26.8%
+  }
+
+  @include breakpoint(laptopm) {
+    margin-bottom: 25.1%
   }
 
   @include breakpoint(normal) {
