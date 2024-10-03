@@ -77,8 +77,6 @@
 
         // for each fig in picture_fig, if fig.data-correspond match headerMap 
         // then fig.top = headerMap[fig.data-correspond]px;
-
-
         pictureFigsArray.forEach((fig, index) => {
             let correspondId = fig.getAttribute('data-correspond');
             if (headerMap[correspondId] !== undefined) {
