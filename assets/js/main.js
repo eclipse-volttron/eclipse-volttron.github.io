@@ -39,6 +39,7 @@
         const currentWidth = window.innerWidth;
         console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
         const calibrationList = Object.keys(calibrationMap).map(Number).sort((a, b) => a - b);
+        const lastBreakpoint = calibrationList[calibrationList.length - 1]; // Get the largest breakpoint
     
         let appliedBreakpoint = null;
     
@@ -49,12 +50,17 @@
             }
         }
     
-        // checking applied breakpoint
-        // console.log("checking applied breakpoint", appliedBreakpoint);
+        // If no suitable breakpoint was found, use the largest breakpoint
+        if (appliedBreakpoint === null) {
+            appliedBreakpoint = lastBreakpoint;
+        }
+    
+        console.log("checking applied breakpoint", appliedBreakpoint);
         if (appliedBreakpoint !== null) {
             onBreakpointHit(appliedBreakpoint, calibrationMap[appliedBreakpoint]);
         }
     }
+    
     
     // Debounce the checkWindowWidth function
     const debouncedCheckWindowWidth = debounce(checkWindowWidth, 200);

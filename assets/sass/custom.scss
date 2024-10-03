@@ -26,10 +26,12 @@ img {vertical-align: middle;}
 
 
 $breakpoints: (
+  laptopls:  2685px,
+  laptopl:   2560px,
   default:   1920px,
   wide:      1680px,
-  laptop:    1520px,
-  laptopm:   1440px,
+  laptopm:   1520px,
+  laptops:   1440px,
   normal:    1280px,
   tablet:    1024px,
   narrow:    980px,
@@ -51,6 +53,14 @@ $breakpoints: (
   /* Adjusting margin for CTA below the slideshow banner */
   margin-bottom: 32.9%;
 
+  @include breakpoint(laptopls){
+    margin-bottom: 34%
+  }
+
+  @include breakpoint(laptopl){
+    margin-bottom: 32.9%
+  }
+
   @include breakpoint(default){
     margin-bottom: 24.8%;
   }
@@ -59,11 +69,11 @@ $breakpoints: (
     margin-bottom: 24.8%;
   }
 
-  @include breakpoint(laptop) {
+  @include breakpoint(laptopm) {
     margin-bottom: 26.8%
   }
 
-  @include breakpoint(laptopm) {
+  @include breakpoint(laptops) {
     margin-bottom: 25.1%
   }
 
