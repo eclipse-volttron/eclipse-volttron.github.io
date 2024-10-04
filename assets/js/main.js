@@ -77,7 +77,10 @@
     calibrateAccomplishmentsSide = (align_int) => {
         let headerMap = {}
         // for each H3 element in header, headerMap[h3.id] = h3.offsetTop //(pixels from top)
-        HEADINGS.forEach((h3) => {
+        HEADINGS.forEach((h3, index) => {
+            if (index != 0){
+                h3.style.marginTop = 125 + "px";            
+            }
             headerMap[h3.id] = h3.offsetTop
         })
 

@@ -163,7 +163,8 @@ $breakpoints: (
   text-shadow: 2px 2px 0px black;
 
   @include breakpoint(mobile){
-    font-size: 10px
+    font-size: 10px;
+    text-shadow: 0.7px 0.7px 0px black;
   }
 
   @include breakpoint(mobilel){
@@ -324,7 +325,6 @@ $breakpoints: (
 // Handling Accomplishments styles 
 
 #AccomplishmentsRight {
-  @extend .col-4.col-12-narrower;
   flex: 0 0 30%;
   position: relative;
 }
@@ -387,18 +387,13 @@ $breakpoints: (
         max-width:100%;
         font-size: 1.5vw;
       
-        @media (max-width: 480px) {
-          margin-right: 20%;
+        @include breakpoint(mobilel){
+          margin-right: 1%;
+          font-size: 11px
         }
-
-        @media (min-width: 576px) {
-          font-size: 2vw;
-        }
-        @media (min-width: 768px) {
-          font-size: 2vw;
-        }
-        @media (min-width: 992px) {
-          font-size: 1.5vw;
+        
+        @include breakpoint(mobilem){
+          font-size: 8px
         }
       }
 
@@ -511,6 +506,7 @@ a.imageLink{
 }
 
 header {
+
   p {
       // color: _palette(fg-light);
       color: rgb(66, 66, 66);
@@ -519,6 +515,10 @@ header {
       margin-top: -1.25em;
       margin-bottom: 0.25em;
       font-style:italic;
+      
+      @include breakpoint(mobile){
+        margin-top: 5px
+      }
   }
 
   &.major {
