@@ -3,8 +3,8 @@ title: "Adding Value"
 
 weight: 50
 
-image: images/VOLTTRON-Device-Better2.jpg
-image_alt: "Device with VOLTTRON installed."
+# image: images/VOLTTRON-Device-Better2.jpg
+# image_alt: "Device with VOLTTRON installed."
 
 sidebar_left: developerSide
 

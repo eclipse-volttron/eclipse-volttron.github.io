@@ -3,8 +3,8 @@ title: "Open Source"
 
 weight: 50
 
-image: images/VOLTTRON-Device-Better2.jpg
-image_alt: "Device powered by VOLTTRON."
+# image: images/VOLTTRON-Device-Better2.jpg
+# image_alt: "Device powered by VOLTTRON."
 
 sidebar_left: OpensourceSide
 ---
