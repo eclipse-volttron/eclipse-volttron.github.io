@@ -1,5 +1,5 @@
 ---
-title: "Security"
+title: "Secure"
 
 weight: 50
 

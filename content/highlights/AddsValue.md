@@ -1,5 +1,5 @@
 ---
-title: "Adding Value"
+title: "Adds Value"
 
 weight: 50
 
@@ -9,10 +9,6 @@ weight: 50
 sidebar_left: developerSide
 
 ---
-### Developer Friendly
-
-Eclipse VOLTTRON, in field tests and actual applications, adds value by reducing implementation, integration and application development costs, which allows users to devote resources to other needs. Value also comes in results. In power grid- and buildings-related deployments, the platform has delivered energy efficiency improvements.
-
 ### Eclipse VOLTTRON value-adding features include:
 
 * Built-in security, which likely will reduce platform maintenance costs over time  
