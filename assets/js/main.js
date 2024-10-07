@@ -77,13 +77,16 @@
     calibrateAccomplishmentsSide = (align_int) => {
         let headerMap = {}
         // for each H3 element in header, headerMap[h3.id] = h3.offsetTop //(pixels from top)
-        HEADINGS.forEach((h3, index) => {
-            if (index != 0){
-                h3.style.marginTop = 125 + "px";            
-            }
-            headerMap[h3.id] = h3.offsetTop
-        })
-
+        if (PICTURE_FIGS.length != 0){ // If picture figs exist, the length will never be 0
+            // no longer messes up every h3 element on the website, only adjusts those on the
+            // accomplishments page
+            HEADINGS.forEach((h3, index) => {
+                if (index != 0){
+                    h3.style.marginTop = 125 + "px";            
+                }
+                headerMap[h3.id] = h3.offsetTop
+            })
+        }
         // for each fig in picture_fig, if fig.data-correspond match headerMap 
         // then fig.top = headerMap[fig.data-correspond]px;
         pictureFigsArray.forEach((fig, index) => {
