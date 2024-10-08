@@ -30,10 +30,3 @@ strives to build best in class enterprise-grade technology solutions to actively
 supportive community have allowed EPRI researchers to efficiently and affordably implement this technology within our controls, emerging energy storage technology, and microgrid 
 research. Although EPRI’s current use cases (energy storage system controls) are not technically within Volttron’s  smart building automation scope, the tool has proven more than capable in these contexts <b>"</b>  
 &mdash;&nbsp; <b>Joe Thompson, Technical Leader, Electric Power Research Institute</b>
-
-
-
-
-
-
-

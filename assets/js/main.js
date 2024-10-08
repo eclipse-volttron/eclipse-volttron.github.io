@@ -31,13 +31,13 @@
     
     // Function to execute when a breakpoint is hit
     function onBreakpointHit(width, offset) {
-        console.log(`Window has hit the width of ${width}px or lower. Using offset ${offset}px.`);
+        // console.log(`Window has hit the width of ${width}px or lower. Using offset ${offset}px.`);
         calibrateAccomplishmentsSide(offset);
     }
     
     function checkWindowWidth() {
         const currentWidth = window.innerWidth;
-        console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
+        // console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
         const calibrationList = Object.keys(calibrationMap).map(Number).sort((a, b) => a - b);
         const lastBreakpoint = calibrationList[calibrationList.length - 1]; // Get the largest breakpoint
     
@@ -55,7 +55,7 @@
             appliedBreakpoint = lastBreakpoint;
         }
     
-        console.log("checking applied breakpoint", appliedBreakpoint);
+        // console.log("checking applied breakpoint", appliedBreakpoint);
         if (appliedBreakpoint !== null) {
             onBreakpointHit(appliedBreakpoint, calibrationMap[appliedBreakpoint]);
         }
