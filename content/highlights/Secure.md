@@ -1,10 +1,10 @@
 ---
-title: "Security"
+title: "Secure"
 
 weight: 50
 
-image: images/VOLTTRON-Device-Better2.jpg
-image_alt: "Hello!"
+# image: images/VOLTTRON-Device-Better2.jpg
+# image_alt: "Hello!"
 
 sidebar_left: SecureSide
 

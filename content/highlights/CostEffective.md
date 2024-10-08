@@ -3,7 +3,7 @@ title: "Cost Effective"
 
 weight: 50
 
-image: images/VOLTTRON-Device-Better2.jpg
+# image: images/VOLTTRON-Device-Better2.jpg
 image_alt: "Hello!"
 
 sidebar_left: developerSide

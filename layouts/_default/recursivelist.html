@@ -6,13 +6,15 @@
         {{- end }}
     </header>
 
-    {{- if .Params.image }}
+    <!-- Debug: Print Out hideImage Parameter -->
+    {{ printf "hideImage: %v" .Params.hideImage }}
+
+    <!-- Check for `hideImage` as boolean true -->
+    {{ if and .Params.image (not (eq .Params.hideImage true)) }}
         <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
     {{ end }}
 
     {{ range .RegularPagesRecursive }}
         {{ .Render "shortblock" }}
     {{ end }}
-    
-
 {{ end }}

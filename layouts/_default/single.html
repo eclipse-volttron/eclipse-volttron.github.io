@@ -1,20 +1,17 @@
 {{ define "main" }}
     <header>
         <h2>{{ .Title }}</h2>
-        {{ with .Description -}}
-            <p>{{ . }}</p>
-        {{- end }}
+        <p>{{ .Description }}</p>
+        {{ if .Site.Params.show_post_dates | default true }}
+            {{- with .Date }}<time>{{ . | time.Format ":date_medium" }}</time>{{ end }}
+        {{ end }}
+        {{ partial "tags.html" . }}
     </header>
-
-    <!-- Debug: Print Out hideImage Parameter -->
-    {{ printf "hideImage: %v" .Params.hideImage }}
 
     <!-- Check for `hideImage` as boolean true -->
     {{ if and .Params.image (not (eq .Params.hideImage true)) }}
         <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
     {{ end }}
 
-    {{ range .Pages }}
-        {{ .Render "taxonomyshortblock" }}
-    {{ end }}
+    {{- .Content }}
 {{ end }}

@@ -5,7 +5,7 @@ menu: main
 weight: 30
 image: images/VOLTTRON-Device-Better2.jpg
 image_alt: "Hello!"
-
+weight: 2
 sidebar_left: AboutSidebar
 
 
