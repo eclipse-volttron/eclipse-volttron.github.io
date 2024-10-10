@@ -20,7 +20,7 @@
         2560: 500,
         1920: 450,
         1680: 430,
-        1520: 360,
+        1540: 360, // Full screen issued laptop
         1440: 360,
         1280: 430,
         1024: 240,
@@ -37,7 +37,7 @@
     
     function checkWindowWidth() {
         const currentWidth = window.innerWidth;
-        // console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
+        console.log(`Current window width: ${currentWidth}`); // Log the current width for debugging
         const calibrationList = Object.keys(calibrationMap).map(Number).sort((a, b) => a - b);
         const lastBreakpoint = calibrationList[calibrationList.length - 1]; // Get the largest breakpoint
     
