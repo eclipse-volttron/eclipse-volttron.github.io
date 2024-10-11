@@ -30,7 +30,7 @@ $breakpoints: (
   laptopl:   2560px,
   default:   1920px,
   wide:      1680px,
-  laptopm:   1520px,
+  laptopm:   1540px,
   laptops:   1440px,
   normal:    1280px,
   tablet:    1024px,
@@ -131,7 +131,7 @@ $breakpoints: (
     @include breakpoint(wide) {
       margin-bottom: 24.8%;
     }
-  
+
     @include breakpoint(laptopm) {
       margin-bottom: 26.8%
     }
@@ -629,6 +629,10 @@ header {
   max-width: 30%;
   margin-bottom: 3vw;
   
+  iframe{
+    width: 35vw;
+    height: 20vw;
+  }
 
   p{
     max-width:100%;
