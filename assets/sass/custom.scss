@@ -624,6 +624,19 @@ header {
   }
 }
 
+#contactUsblurb {
+
+  text-align: center;
+  padding-right: 20vw;
+  padding-left: 20vw;
+
+  @include breakpoint(mobilel){
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+}
+
 .PlaylistFig{
   display: inline-table;
   max-width: 30%;
