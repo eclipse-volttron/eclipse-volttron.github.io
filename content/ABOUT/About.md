@@ -39,4 +39,5 @@ The following articles provide examples of Eclipse VOLTTRON’s capabilities and
 - [PNNL-led Campus Project Expands to Multiple Buildings (2016)](https://www.pnnl.gov/news-media/pnnl-led-campus-project-expands-multiple-buildings)
 
 **Contact Us**</br>
-If you have any questions, please don’t hesitate to contact the Eclipse VOLTTRON team at <volttron@pnnl.gov>, and the wider community through the resources listed above. We look forward to working with you and are excited by the possibilities this technology can achieve.
+If you have any questions, contact the Eclipse VOLTTRON team at <volttron@pnnl.gov>. W
+e look forward to working with you and are excited by the possibilities this technology can achieve.

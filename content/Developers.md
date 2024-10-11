@@ -40,4 +40,5 @@ As an open source project, Eclipse VOLTTRON users are encouraged to contribute b
 Eclipse VOLTTRON development is directed by the needs of the community and stakeholders. Feature requests and bug reports should be entered as a Git issue. This notifies the development team and allows others to comment as well.
 
 **Contact Us**</br>
-If you have any questions, please don’t hesitate to contact the Eclipse VOLTTRON team at <volttron@pnnl.gov>, and the wider community through the resources listed above. We look forward to working with you and are excited by the possibilities this technology can achieve.
+If you have any questions, contact the Eclipse VOLTTRON team at <volttron@pnnl.gov>. W
+e look forward to working with you and are excited by the possibilities this technology can achieve.
