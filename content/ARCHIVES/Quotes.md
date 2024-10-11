@@ -26,7 +26,7 @@ strives to build best in class enterprise-grade technology solutions to actively
 &mdash;&nbsp; <b>Nancy Min, Founder, ecoLong LLC</b>
 
 <a id="joethompson"></a>
-&nbsp;&nbsp;  <b>"</b>Since 2021, Volttron has played a significant role within EPRI’s energy storage research. The open source nature of the tool paired with its enthusiastic and 
+&nbsp;&nbsp;  <b>"</b>Since 2021, Eclipse VOLTTRON has played a significant role within EPRI’s energy storage research. The open source nature of the tool paired with its enthusiastic and 
 supportive community have allowed EPRI researchers to efficiently and affordably implement this technology within our controls, emerging energy storage technology, and microgrid 
-research. Although EPRI’s current use cases (energy storage system controls) are not technically within Volttron’s  smart building automation scope, the tool has proven more than capable in these contexts <b>"</b>  
+research. Although EPRI’s current use cases (energy storage system controls) are not technically within Eclipse VOLTTRON's smart building automation scope, the tool has proven more than capable in these contexts <b>"</b>  
 &mdash;&nbsp; <b>Joe Thompson, Technical Leader, Electric Power Research Institute</b>

@@ -13,7 +13,7 @@ sidebar_left: AboutSidebar
 
 ### About Eclipse VOLTTRON
 
-Eclipse VOLTTRON, developed at Pacific Northwest National Laboratory and now part of the Eclipse Foundation, is available as an open-source tool. This technology provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.
+Eclipse VOLTTRON, developed at [Pacific Northwest National Laboratory](https://www.pnnl.gov/) and now part of the [Eclipse Foundation](https://outreach.eclipse.foundation/volttron-iot-case-study), is available as an open-source tool. This technology provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.
 
 Industry, research, and academic communities agree that Eclipse VOLTTRON is an important and versatile resource for improving system performance in buildings and creating a more flexible and reliable power grid. The technology, which was built with security as an integral priority, is used for multiple purposes, including:
 

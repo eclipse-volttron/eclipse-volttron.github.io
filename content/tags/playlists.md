@@ -6,25 +6,44 @@ weight: 42
 ---
 
 <figure class="PlaylistFig">
-    <iframe style="width: 35vw; height: 20vw;" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLb2e9HwqRmUbG7DbFHD9-PCAJ8J1zdVo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>
+    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUbG7DbFHD9-PCAJ8J1zdVo8">
+        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/IBwtCjiBvR0/maxresdefault.jpg">
+    </a>
     <h4>Eclipse VOLTTRON Intro</h4>
 </figure>
 
 <figure class="PlaylistFig" style=" margin-left: 2vw">
-    <iframe style="width: 35vw; height: 20vw;" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=pAbdVba_2E_bbGc6&amp;list=PLb2e9HwqRmUYT43KtSlo3zhmjPNqFX7O7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>
+    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUYT43KtSlo3zhmjPNqFX7O7">
+        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/X7nYZLysOM0/maxresdefault.jpg">
+    </a>
     <h4>Eclipse VOLTTRON Demos</h4>
 </figure>
 
 <figure class="PlaylistFig" >
-    <iframe style="width: 35vw; height: 20vw;" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=B4xAPTdlwZBVP3a9&amp;list=PLb2e9HwqRmUb5thW8c6f9iQNzqifhUAFl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>
+    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUb5thW8c6f9iQNzqifhUAFl">
+        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/bQ_7IBF-y70/maxresdefault.jpg">
+    </a>
     <h4>Eclipse VOLTTRON Community Meetings</h4>
 </figure>
 
 <figure class="PlaylistFig" style=" margin-left: 2vw">
-    <iframe style="width: 35vw; height: 20vw;" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Kxur6TnVkjqoJFgt&amp;list=PLb2e9HwqRmUbgksKjq4QwwjSjdQZNDjfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>
+    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUbgksKjq4QwwjSjdQZNDjfx">
+        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/F1cpeu3FK7s/maxresdefault.jpg">
+    </a>
     <h4>Office Hours</h4>
+</figure>
+
+
+<figure class="PlaylistFig">
+    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUabx-r2di9eCE-QclNqIP1y">
+        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/bPE_-6nHuSY/maxresdefault.jpg">
+    </a>
+    <h4>Eclipse VOLTTRON Tutorials</h4>
+</figure>
+
+<figure class="PlaylistFig" style=" margin-left: 2vw">
+    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUb6UHOwRuG9ve9XWkpYZTgu">
+        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/F1cpeu3FK7s/maxresdefault.jpg">
+    </a>
+    <h4>Eclipse VOLTTRON Latest Videos</h4>
 </figure>
