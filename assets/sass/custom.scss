@@ -625,7 +625,6 @@ header {
 }
 
 #contactUsblurb {
-
   text-align: center;
   padding-right: 20vw;
   padding-left: 20vw;
@@ -641,6 +640,13 @@ header {
   display: inline-table;
   max-width: 30%;
   margin-bottom: 3vw;
+
+  img{
+    @include breakpoint(laptopls){
+      max-width: 400px;
+      max-height: 300px
+    }
+  }
   
   iframe{
     width: 35vw;
