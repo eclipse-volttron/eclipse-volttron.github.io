@@ -40,10 +40,3 @@ weight: 42
     </a>
     <h4>Eclipse VOLTTRON Tutorials</h4>
 </figure>
-
-<!-- <figure class="PlaylistFig" style=" margin-left: 2vw">
-    <a href="https://www.youtube.com/playlist?list=PLb2e9HwqRmUb6UHOwRuG9ve9XWkpYZTgu">
-        <img style="width: 35vw; height: 20vw;" src="https://i.ytimg.com/vi/F1cpeu3FK7s/maxresdefault.jpg">
-    </a>
-    <h4>Eclipse VOLTTRON Latest Videos</h4>
-</figure> -->
