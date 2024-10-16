@@ -664,6 +664,12 @@ header {
 
 }
 
+.playlist-wrapper-flex{
+  display:flex;
+  flex-wrap: wrap;
+  gap:10px
+}
+
 /* Fix for squished logo on mobile */
 #titleBar{
   span h1 a img{
