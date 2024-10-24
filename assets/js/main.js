@@ -20,7 +20,7 @@
         2560: 500,
         1920: 450,
         1680: 430,
-        1520: 360,
+        1540: 360, // Full screen issued laptop
         1440: 360,
         1280: 430,
         1024: 240,
@@ -107,6 +107,15 @@
         });
     }
     checkWindowWidth()
+
+    
+    // Dealing with playlists
+    // const playlist_figures = document.getElementsByClassName("PlaylistFig")
+    // youtube_urls {"figure_id": url that equals figure_id}
+    
+
+
+
 
     // Footer
     const COPYRIGHT_FOOTER = document.getElementsByClassName("menu")[0];

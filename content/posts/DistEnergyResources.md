@@ -13,10 +13,8 @@ Eclipse VOLTTRON generates powerful outcomes for distributed energy resources (D
 
 With Eclipse VOLTTRON, data, devices and decisions connect seamlessly and securely based on user needs and preferences.
 
-**Eclipse VOLTTRON Overcomes the Obstacles**
+**Eclipse VOLTTRON Overcomes the Obstacles**</br>
+Consumers like the concept of using clean, green energy, and it’s estimated that about 20 percent of the nation’s electricity supply now comes from wind, solar and other renewable sources. The intermittent nature of wind and solar poses operational challenges for the grid and hinders broader use of renewables. Eclipse VOLTTRON—and buildings—are part of the solution. Eclipse VOLTTRON helps coordinate building energy loads and DER output, lending a hand to grid flexibility and reliability.
 
-Consumers like the concept of using clean, green energy, but it’s estimated that only a small portion of the nation’s power supply comes from wind, solar and other renewable sources. Part of the problem is the intermittent nature of wind and solar, which poses operational challenges for the grid and hinders broader use of renewables. Eclipse VOLTTRON—and buildings—are part of the solution. Eclipse VOLTTRON helps coordinate building energy loads and DER output, lending a hand to grid flexibility and reliability.
-
-**A Force for Coordination**
-
+**A Force for Coordination**</br>
 The Eclipse VOLTTRON software platform and associated applications perform monitoring, data collection and analysis in building and DER systems and devices, producing actionable information that controls and streamlines the integration of clean energy and battery power in building and grid operations.

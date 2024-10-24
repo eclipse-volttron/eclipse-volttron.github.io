@@ -23,7 +23,7 @@ PNNL is introducing technologies, including Eclipse VOLTTRON, Intelligent Load C
 
 **Impact**: The projects, which serve as models for future efforts, seek to transform thousands of homes and workplaces into state-of-the-art, energy-efficient buildings that interact with the grid to coordinate their energy consumption. The coordination can save energy, reduce costs and carbon emissions, improve grid reliability, and increase use of clean energy sources.
 
-### Enabling Efficiency in D.C
+### Enabling Efficiency in D.C.
 
 In addition to fault detection and diagnostic technologies that improve efficiency, PNNL also installed and tested its Intelligent Load Control (ILC) in both buildings. ILC quickly and automatically adjusts building electricity needs in response to power grid supply and demand fluctuations.
 

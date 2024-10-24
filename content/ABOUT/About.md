@@ -13,7 +13,7 @@ sidebar_left: AboutSidebar
 
 ### About Eclipse VOLTTRON
 
-Eclipse VOLTTRON, developed at Pacific Northwest National Laboratory and now part of the Eclipse Foundation, is available as an open-source tool. This technology provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.
+Eclipse VOLTTRON, developed at [Pacific Northwest National Laboratory](https://www.pnnl.gov/) and now part of the [Eclipse Foundation](https://outreach.eclipse.foundation/volttron-iot-case-study), is available as an open-source tool. This technology provides an environment where data and devices connect seamlessly and securely to make decisions based on user needs and preferences.
 
 Industry, research, and academic communities agree that Eclipse VOLTTRON is an important and versatile resource for improving system performance in buildings and creating a more flexible and reliable power grid. The technology, which was built with security as an integral priority, is used for multiple purposes, including:
 
@@ -24,7 +24,7 @@ Industry, research, and academic communities agree that Eclipse VOLTTRON is an i
 
 The technology’s adaptability has significantly expanded its promise. Users are applying the platform in novel ways not originally envisioned.
 
-Eclipse VOLTTRON is open source and publicly available from GitHub, and its ongoing development benefits from a highly collaborative approach among advocates, including PNNL, the U.S. Department of Energy, the Eclipse Foundation, and an active and passionate nationwide community of users.
+Eclipse VOLTTRON is open source and publicly available from [GitHub](https://github.com/eclipse-volttron), and its ongoing development benefits from a highly collaborative approach among advocates, including PNNL, the U.S. Department of Energy, the Eclipse Foundation, and an active and passionate nationwide community of users.
 
 The following articles provide examples of Eclipse VOLTTRON’s capabilities and accomplishments:
 
@@ -37,3 +37,6 @@ The following articles provide examples of Eclipse VOLTTRON’s capabilities and
 - [VOLTTRON™ User Community Expands Overseas (2017)](https://www.pnnl.gov/news-media/volttrontm-user-community-expands-overseas)
 - [Regional Project Reveals the Potential of Transactive Control (2017)](https://www.pnnl.gov/news-media/regional-project-reveals-potential-transactive-control)
 - [PNNL-led Campus Project Expands to Multiple Buildings (2016)](https://www.pnnl.gov/news-media/pnnl-led-campus-project-expands-multiple-buildings)
+
+**Contact Us**</br>
+If you have any questions, contact the Eclipse VOLTTRON team at <volttron@pnnl.gov>. We look forward to working with you and are excited by the possibilities this technology can achieve.
