@@ -56,7 +56,7 @@ $breakpoints: (
   margin-bottom: 32.9%;
 
   @include breakpoint(fwscreen){
-    margin-bottom: 35%;
+    margin-bottom: 41%;
   }
 
   @include breakpoint(laptopls){
@@ -467,8 +467,12 @@ $breakpoints: (
         text-align: right;
         margin-top: -8%;
         max-width:100%;
-        font-size: 1.5vw;
-      
+        font-size: 30px;
+        
+        @include breakpoint(laptopls){
+          font-size: 1.5vw;
+        }
+
         @include breakpoint(mobilel){
           margin-right: 1%;
           font-size: 11px
