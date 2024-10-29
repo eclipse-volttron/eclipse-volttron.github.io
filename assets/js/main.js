@@ -221,7 +221,11 @@
         });
 
         let slideIndex = 0;
-        showSlides();
+
+        // Mute Error esp when we aren't on the index page
+        try{
+            showSlides();
+        } catch {}
         
         function showSlides() {
           let delay = 8000

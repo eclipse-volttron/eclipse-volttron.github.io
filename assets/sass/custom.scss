@@ -26,6 +26,7 @@ img {vertical-align: middle;}
 
 
 $breakpoints: (
+  fwscreen:  3850px,
   laptopls:  2685px,
   laptopl:   2560px,
   default:   1920px,
@@ -50,8 +51,13 @@ $breakpoints: (
 
 /* Slideshow container */
 #banner {
+  
   /* Adjusting margin for CTA below the slideshow banner */
   margin-bottom: 32.9%;
+
+  @include breakpoint(fwscreen){
+    margin-bottom: 41%;
+  }
 
   @include breakpoint(laptopls){
     margin-bottom: 34%
@@ -116,6 +122,10 @@ $breakpoints: (
     width: 100vw;
     height: 30vw;
     
+    @include breakpoint(fwscreen){
+      margin-bottom: 0;
+    }
+
     @include breakpoint(laptopls){
       margin-bottom: 34%
     }
@@ -257,54 +267,60 @@ $breakpoints: (
   max-width: 20%;
   margin-right: 50px;
 
-  p {
-   font-size: medium;
-   margin-top: -15px;
-   line-height: 100%;
-  }
-}
+  figcaption{
+    position:relative;
 
-.figConfigpdf h4 {
-  line-height: 100%;
-  font-size: 1vw;
-  line-height: 1.3vw; 
-  margin-bottom: 1.2vw;
-  text-align:left;
-  max-width: 100%;
-  color:black;
+    p {
+      font-size: 20px; 
+      line-height: .9vw; 
+      margin-bottom: 3vw;
+      text-align:left;
+      max-width: 100%;
+      color:black;
 
-  @include breakpoint(narrow){
-    line-height: 3vw;
-    font-size: 2vw
-  }
+      @include breakpoint(laptopls){
+        font-size: 1vw; 
+        line-height: 1.3vw; 
 
-  @include breakpoint(mobilel){
-    line-height: 4vw;
-    font-size: 3vw
-  }
-}
- 
-.figConfigpdf figcaption{
-  position:relative;
-  p {
-    font-size: 1vw; 
-    line-height: 1.3vw; 
-    margin-bottom: 3vw;
+     }
+
+      @include breakpoint(narrow){
+        line-height: 3vw;
+        font-size: 2vw
+      }
+      @include breakpoint(mobilel){
+        line-height: 4vw;
+        font-size: 3vw;
+        margin-top: 7px;
+      }
+     }
+    }
+
+  h4 {
+    font-size: 20px;
+    line-height: .9vw; 
+    margin-bottom: 10px;
     text-align:left;
     max-width: 100%;
     color:black;
+  
+    @include breakpoint(laptopls){
+      line-height: 100%;
+      font-size: 1vw;
+      line-height: 1.3vw; 
+      margin-bottom: 1.2vw;
+    }
 
     @include breakpoint(narrow){
       line-height: 3vw;
       font-size: 2vw
     }
+  
     @include breakpoint(mobilel){
       line-height: 4vw;
-      font-size: 3vw;
-      margin-top: 7px;
+      font-size: 3vw
     }
-   }
-
+  }
 }
 
 
@@ -347,7 +363,7 @@ $breakpoints: (
   }
 
   .caption {
-    font-size: 0.9vw; 
+    font-size: 20px; 
     line-height: 1.3vw; 
     color: black;
     margin: 0;
@@ -451,8 +467,12 @@ $breakpoints: (
         text-align: right;
         margin-top: -8%;
         max-width:100%;
-        font-size: 1.5vw;
-      
+        font-size: 30px;
+        
+        @include breakpoint(laptopls){
+          font-size: 1.5vw;
+        }
+
         @include breakpoint(mobilel){
           margin-right: 1%;
           font-size: 11px
@@ -612,6 +632,8 @@ header {
   font-size: 20px;
   padding-left: 5px;
   padding-right: 5px;
+  position: relative;
+  z-index: 100;
   
   h1{
     @include breakpoint(mobilel){
@@ -636,15 +658,34 @@ header {
 
 }
 
+
 .PlaylistFig{
   display: inline-table;
-  max-width: 30%;
-  margin-bottom: 3vw;
-
   img{
+    width: 15vw;
+    height: 14vh;
+
+    // width: 35vw; 
+    // height: 20vw;
+
     @include breakpoint(laptopls){
-      max-width: 400px;
-      max-height: 300px
+      width: 500px;
+      height: 400px;
+    }
+
+    @include breakpoint(default){
+      width: 500px;
+      height: 300px
+    }    
+
+    @include breakpoint(Wide){
+      width: 400px;
+      height: 200px
+    }
+
+    @include breakpoint(mobilel){
+      width: 300px;
+      height: 150px
     }
   }
   
@@ -660,15 +701,42 @@ header {
   }
   h4{
     margin-bottom:0.1vw;
+    width:100%;
+    word-wrap:break-word;
+  }
+
+}
+
+#PlaylistFigSides {
+  width: 23vw;
+  height: 15vw;
+  max-width: 400px;
+  max-height: 300px;
+  
+  @include breakpoint(narrower){
+    height:300px;
+    width:400px;
+  }
+
+  @include breakpoint(mobilel){
+    height: 200px;
+    width: 300px;
+  }  
+  
+  @include breakpoint(mobiles){
+    height: 150px;
+    width:250px;
   }
 
 }
 
 .playlist-wrapper-flex{
-  display:flex;
+  display: flex;
   flex-wrap: wrap;
-  gap:10px
+  gap: 15px
 }
+
+
 
 /* Fix for squished logo on mobile */
 #titleBar{
