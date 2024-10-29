@@ -662,12 +662,30 @@ header {
 .PlaylistFig{
   display: inline-table;
   img{
-    max-width: 400px;
-    max-height: 300px;
-    
+    width: 15vw;
+    height: 14vh;
+
+    // width: 35vw; 
+    // height: 20vw;
+
     @include breakpoint(laptopls){
-      max-width: 400px;
-      max-height: 300px
+      width: 500px;
+      height: 400px;
+    }
+
+    @include breakpoint(default){
+      width: 500px;
+      height: 300px
+    }    
+
+    @include breakpoint(Wide){
+      width: 400px;
+      height: 200px
+    }
+
+    @include breakpoint(mobilel){
+      width: 300px;
+      height: 150px
     }
   }
   
@@ -713,10 +731,12 @@ header {
 }
 
 .playlist-wrapper-flex{
-  display:flex;
+  display: flex;
   flex-wrap: wrap;
-  gap:10px
+  gap: 15px
 }
+
+
 
 /* Fix for squished logo on mobile */
 #titleBar{
