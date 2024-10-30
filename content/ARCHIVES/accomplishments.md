@@ -19,7 +19,7 @@ sidebar_right: AccomplishmentsRight
 
 ### Supporting Connected Communities
 
-PNNL is introducing technologies, including Eclipse VOLTTRON, Intelligent Load Control, Automated Fault Detection and Diagnostics (AFDD), and Automated Identification of Re-tuning or Retro-commissioning (AIRCx) to [Connected Communities](https://www.pnnl.gov/news-media/pnnl-helps-build-connected-communities) projects in Spokane, WA and Salt Lake City, UT.
+PNNL is introducing technologies, including Eclipse VOLTTRON™, Intelligent Load Control, Automated Fault Detection and Diagnostics (AFDD), and Automated Identification of Re-tuning or Retro-commissioning (AIRCx) to [Connected Communities](https://www.pnnl.gov/news-media/pnnl-helps-build-connected-communities) projects in Spokane, WA and Salt Lake City, UT.
 
 **Impact**: The projects, which serve as models for future efforts, seek to transform thousands of homes and workplaces into state-of-the-art, energy-efficient buildings that interact with the grid to coordinate their energy consumption. The coordination can save energy, reduce costs and carbon emissions, improve grid reliability, and increase use of clean energy sources.
 
@@ -31,7 +31,7 @@ In addition to fault detection and diagnostic technologies that improve efficien
 
 ### Creating a Buildings Living Laboratory
 
-In 2016, the Department of Energy, PNNL, the State of Washington, and university partners launched the Clean Energy and Transactive Campus (CETC) project to develop and test transactive control methodologies. As part of the project, researchers utilized Eclipse VOLTTRON to create a network that linked more than a dozen PNNL campus buildings.
+In 2016, the Department of Energy, PNNL, the State of Washington, and university partners launched the Clean Energy and Transactive Campus (CETC) project to develop and test transactive control methodologies. As part of the project, researchers utilized Eclipse VOLTTRON™ to create a network that linked more than a dozen PNNL campus buildings.
 
 **Impact**: The project effectively established a new research resource, the Buildings Living Laboratory (BLL), at PNNL, that can be used for a wide range of technology development and deployment purposes. Through CETC, the BLL helped facilitate the development of transactive energy management technologies. These include Intelligent Load Control (ILC), which has been deployed at various locations across the nation, and Transactive Coordination and Control. As a next step, PNNL will make ILC operational in its campus buildings in Richland, WA, to mitigate peak load constraints within Richland’s city-owned electric system.
 
