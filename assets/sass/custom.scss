@@ -663,14 +663,14 @@ header {
   display: inline-table;
   img{
     width: 15vw;
-    height: 14vh;
+    height: 20vh;
 
     // width: 35vw; 
     // height: 20vw;
 
     @include breakpoint(laptopls){
       width: 500px;
-      height: 400px;
+      height: 300px;
     }
 
     @include breakpoint(default){
