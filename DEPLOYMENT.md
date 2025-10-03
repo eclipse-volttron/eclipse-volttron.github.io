@@ -5,12 +5,31 @@ This site is automatically deployed to https://volttron.org via GitHub Pages whe
 
 ## Build Process
 
-### GitHub Actions Workflow
-The site uses the workflow defined in `.github/workflows/hugo.yaml` which:
+### GitHub Actions Workflows
+
+#### Production Deployment (`.github/workflows/hugo.yaml`)
+The production deployment workflow:
 1. Installs Hugo Extended 0.126.0 and Dart Sass
 2. Checks out the repository with submodules (to get the theme)
 3. Builds the site using `hugo --gc --minify` in production mode
 4. Deploys to GitHub Pages with the custom domain
+
+**Triggers:** Pushes to `main` branch
+
+#### PR Preview Build (`.github/workflows/pr-preview.yaml`)
+The PR preview workflow:
+1. Builds the site for pull requests before merging
+2. Creates a downloadable artifact with the built site
+3. Posts a comment on the PR with preview instructions
+4. Allows reviewers to test changes before merging to production
+
+**Triggers:** Pull requests targeting `main` branch
+
+**How to preview:**
+1. Go to the PR's "Checks" tab
+2. Click on "PR Preview Build" workflow run
+3. Download the artifact named `pr-preview-{PR-number}`
+4. Extract and open `index.html` in a browser, or use a local web server
 
 ### Local Development
 
@@ -78,6 +97,7 @@ Before merging to `main`:
 - [ ] Confirm baseURL in both config files is "https://volttron.org/"
 - [ ] Ensure `static/CNAME` exists with correct domain
 - [ ] Test that theme submodule is configured correctly
+- [ ] Review the PR preview build artifact to verify the site looks correct
 
 ## Security Notes
 
