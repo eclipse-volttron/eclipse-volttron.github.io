@@ -1,16 +1,28 @@
 ## getting started
 Prerequisites:
-install windows terminal (I use ubuntu)
-install Git, command: $sudo apt install git-all
+- install windows terminal (I use ubuntu)
+- install Git, command: `sudo apt install git-all`
 
-installing hugo:
-install hugo, command: $sudo apt install hugo
-link for more info https://gohugo.io/installation/linux/#snap
+### Installing Hugo:
+Install hugo, command: `sudo apt install hugo`
+Link for more info: https://gohugo.io/installation/linux/#snap
 
- using hugo:
- enter the folder with the website
- run the command $hugo serve
- a link should appear to open the local web link
+### Using Hugo:
+
+#### For Local Development:
+1. Enter the folder with the website
+2. Initialize the theme submodule (first time only): `git submodule update --init --recursive`
+3. Run the command `hugo serve`
+4. A link should appear to open the local web link (typically http://localhost:1313)
+
+**Important:** The `hugo serve` command is for development only! It includes live reload and uses localhost URLs.
+
+#### For Production Build:
+To build the site for production (as done by GitHub Actions):
+1. Run `hugo --gc --minify`
+2. The production-ready site will be generated in the `public/` directory
+
+**Note:** The `public/` and `resources/` directories should NEVER be committed to git. They are build artifacts that are automatically generated during deployment by GitHub Actions.
 
  ## making changes
  Sidebar edits:
