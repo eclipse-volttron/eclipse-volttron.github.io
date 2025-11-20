@@ -1,0 +1,90 @@
+# Workflow for building and previewing Hugo site for pull requests
+name: PR Preview Build
+
+on:
+  pull_request:
+    branches:
+      - main
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job for PR preview
+  build-preview:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.126.0
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
+      
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+      
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      
+      - name: Build with Hugo (Preview)
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+          TZ: America/Los_Angeles
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "https://eclipse-volttron.github.io/"
+      
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-preview-${{ github.event.pull_request.number }}
+          path: ./public
+          retention-days: 7
+      
+      - name: Comment on PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const runId = context.runId;
+            const repo = context.repo;
+            
+            const comment = `## 🔍 Preview Build Complete
+            
+            The site has been built successfully for this PR!
+            
+            ### How to preview:
+            1. Download the preview artifact from the [workflow run](https://github.com/${repo.owner}/${repo.repo}/actions/runs/${runId})
+            2. Extract the zip file
+            3. Open \`index.html\` in your browser to preview the site
+            
+            ### Alternative preview methods:
+            - Use a local HTTP server: \`python -m http.server 8000\` or \`npx serve\`
+            - Or use VS Code's Live Server extension
+            
+            **Note:** The preview uses the GitHub Pages URL (\`https://eclipse-volttron.github.io/\`) as the base URL. Links will work correctly when viewing locally.
+            
+            ### Build Details:
+            - **PR:** #${prNumber}
+            - **Commit:** ${context.payload.pull_request.head.sha.substring(0, 7)}
+            - **Artifact:** pr-preview-${prNumber}
+            `;
+            
+            github.rest.issues.createComment({
+              owner: repo.owner,
+              repo: repo.repo,
+              issue_number: prNumber,
+              body: comment
+            });

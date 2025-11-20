@@ -1,4 +1,4 @@
-baseURL = 'https://eclipse-volttron.github.io/'
+baseURL = 'https://volttron.org/'
 languageCode = 'en-us'
 title = 'VOLTTRON'
 theme = 'arcana'
