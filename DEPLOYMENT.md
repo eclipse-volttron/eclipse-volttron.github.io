@@ -11,8 +11,11 @@ This site is automatically deployed to https://volttron.org via GitHub Pages whe
 The production deployment workflow:
 1. Installs Hugo Extended 0.126.0 and Dart Sass
 2. Checks out the repository with submodules (to get the theme)
-3. Builds the site using `hugo --gc --minify` in production mode
-4. Deploys to GitHub Pages with the custom domain
+3. Configures GitHub Pages and gets the base URL from repository settings
+4. Builds the site using `hugo --gc --minify --baseURL` with the GitHub Pages configured URL
+5. Deploys to GitHub Pages with the custom domain
+
+**Important:** The workflow uses `${{ steps.pages.outputs.base_url }}` to dynamically get the custom domain configured in GitHub Pages repository settings. This ensures the site is built with the correct URLs.
 
 **Triggers:** Pushes to `main` branch
 
@@ -67,6 +70,15 @@ rm -rf public/
 - `static/.nojekyll` - Tells GitHub Pages not to use Jekyll
 - Files in `static/` are copied to the root of `public/` during build
 
+### GitHub Pages Settings
+The custom domain **must** be configured in GitHub Pages repository settings:
+1. Go to repository Settings → Pages
+2. Under "Custom domain", enter: `volttron.org`
+3. Wait for DNS check to complete (green checkmark)
+4. Enable "Enforce HTTPS" once DNS is validated
+
+The workflow uses `${{ steps.pages.outputs.base_url }}` to get this configured domain dynamically.
+
 ### Ignored Directories
 The following directories are **build artifacts** and should NEVER be committed:
 - `public/` - Generated site output
@@ -88,6 +100,15 @@ These are listed in `.gitignore` to prevent accidental commits.
 ### Wrong domain in deployed site
 - Cause: CNAME file missing or in wrong location
 - Fix: Ensure `static/CNAME` exists and contains "volttron.org"
+
+### Custom domain (volttron.org) not working
+- **Cause**: Custom domain not configured in GitHub Pages repository settings
+- **Fix**: 
+  1. Go to repository Settings → Pages
+  2. Enter `volttron.org` in the "Custom domain" field
+  3. Wait for DNS check to pass (shows green checkmark)
+  4. The workflow will automatically use this domain via `${{ steps.pages.outputs.base_url }}`
+- **Note**: The domain `volttron.net` redirects to `volttron.org` at the DNS level
 
 ## Deployment Checklist
 
