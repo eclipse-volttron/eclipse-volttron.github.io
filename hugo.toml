@@ -2,3 +2,6 @@ baseURL = 'https://volttron.org/'
 languageCode = 'en-us'
 title = 'VOLTTRON'
 theme = 'arcana'
+
+# Ignore the exampleSite directory in themes to avoid circular symlink issues
+ignoreFiles = ['themes/[^/]+/exampleSite/']
