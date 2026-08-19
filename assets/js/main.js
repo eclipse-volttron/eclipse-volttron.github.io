@@ -111,7 +111,6 @@
     
     // Dealing with playlists
     // const playlist_figures = document.getElementsByClassName("PlaylistFig")
-    // youtube_urls {"figure_id": url that equals figure_id}
     
 
 
